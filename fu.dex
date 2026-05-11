@@ -1,0 +1,21 @@
+{
+  "BOARD": "JQLvxCeYW",
+  "UTC": "1697071103",
+  "BUILDID": "RP1A.200720.012",
+  "DISPLAYID": "RP1A.200720.012.G991BXXU3AUE1",
+  "DEVICE": "wDrX1ajkf",
+  "HOST": "D3wSRz95",
+  "MODEL": "SMG991B",
+  "RELEASE": "16",
+  "MANUFACTURER": "Samsung",
+  "USER": "dmGTw",
+  "BRAND": "samsung",
+  "NAME": "o1sxxx",
+  "DATE": "Thu Oct 12 09:38:23 KST 2023",
+  "FINGERPRINT": "samsung/o1sxxx/o1s:11/RP1A.200720.012/G991BXXU3AUE1:user/release-keys",
+  "DESCRIPTION": "o1sxxx-user 11 RP1A.200720.012G991BXXU3AUE1 release-keys",
+  "HARDWARE": "LsJFdI",
+  "PRODUCT": "qiZU",
+  "BOOTLOADER": "G991BXXU3AUE1",
+  "INCREMENTAL": "G991BXXU3AUE1"
+}
