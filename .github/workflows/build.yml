@@ -16,24 +16,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout Repository
+      uses: actions/checkout@v4
 
-      - name: Create Module Zip
-        run: |
-          # Read module.prop to extract info
-          MODID=$(grep '^id=' module.prop | cut -d'=' -f2)
-          MODVERSION=$(grep '^version=' module.prop | cut -d'=' -f2)
+    - name: Set up Environment
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y zip
 
-          ZIP_NAME="${MODID}_${MODVERSION}.zip"
+    - name: Create Module Zip
+      run: |
+        ZIP_NAME="DynamicPropSpoofer.zip"
+        # Zip all files excluding .git and .github to ensure all module files are included
+        zip -r9 $ZIP_NAME . -x "*.git*" -x ".github/*"
 
-          # Zip all relevant files, excluding git and workflow folders
-          zip -r9 "$ZIP_NAME" . -x "*.git*" -x "*.github*" -x "*.DS_Store"
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: DynamicPropSpoofer
+        path: |
+          **/*
+          !.git/**
+          !.github/**
+          !DynamicPropSpoofer.zip
 
-          echo "ZIP_FILE=$ZIP_NAME" >> $GITHUB_ENV
-
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: ${{ env.ZIP_FILE }}
-          path: ${{ env.ZIP_FILE }}
+    - name: Create Release
+      if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+      uses: softprops/action-gh-release@v1
+      with:
+        files: DynamicPropSpoofer.zip
+        tag_name: "v1.0-${{ github.run_number }}"
+        name: "Release v1.0-${{ github.run_number }}"
+        body: "Automated build of Dynamic Prop Spoofer module."
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
