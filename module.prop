@@ -1,6 +1,6 @@
-id=xkatrina_snstv_prps
-name=SafetyNet sensitive props
-version=v5plus
-versionCode=5
-author= HuskyDG,Rushi Ranpise,T3SL4
-description=Changed for personal gain by fufufu
+id=dynamic_prop_spoofer
+name=Dynamic Prop Spoofer
+version=v1.0
+versionCode=1
+author=Jules
+description=Dynamically spoofs Android system properties safely with random profiles on boot. Includes anti-root detection bypasses.

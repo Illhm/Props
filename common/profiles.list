@@ -1,0 +1,18 @@
+# Profile format:
+# MANUFACTURER|BRAND|MODEL|NAME|DEVICE|FINGERPRINT|DESCRIPTION|HARDWARE|BOARD|ID
+# Samsung Galaxy S23 Ultra
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:14/UP1A.231005.007/S918BXXS3BXA2:user/release-keys|dm3qxx-user 14 UP1A.231005.007 S918BXXS3BXA2 release-keys|qcom|kalama|UP1A.231005.007
+# Xiaomi 13 Pro
+Xiaomi|Xiaomi|2210132G|nuwa_global|nuwa|Xiaomi/nuwa_global/nuwa:14/UKQ1.230804.001/V816.0.1.0.UMBMIXM:user/release-keys|nuwa_global-user 14 UKQ1.230804.001 V816.0.1.0.UMBMIXM release-keys|qcom|kalama|UKQ1.230804.001
+# Google Pixel 8 Pro
+Google|google|Pixel 8 Pro|husky|husky|google/husky/husky:14/UQ1A.240105.004/11228453:user/release-keys|husky-user 14 UQ1A.240105.004 11228453 release-keys|zuma|zuma|UQ1A.240105.004
+# OnePlus 11
+OnePlus|OnePlus|CPH2449|CPH2449|OP5157L1|OnePlus/CPH2449/OP5157L1:14/UKQ1.230924.001/U.13ea813_1:user/release-keys|CPH2449-user 14 UKQ1.230924.001 U.13ea813_1 release-keys|qcom|kalama|UKQ1.230924.001
+# Vivo X90 Pro
+vivo|vivo|V2219|PD2241|PD2241|vivo/PD2241/PD2241:13/TP1A.220624.014/compiler11130612:user/release-keys|PD2241-user 13 TP1A.220624.014 compiler11130612 release-keys|mt6985|k6985v1_64|TP1A.220624.014
+# Oppo Find X6 Pro
+OPPO|OPPO|PGEM10|PGEM10|OP5B7BL1|OPPO/PGEM10/OP5B7BL1:13/TP1A.220905.001/U.154f494_1:user/release-keys|PGEM10-user 13 TP1A.220905.001 U.154f494_1 release-keys|qcom|kalama|TP1A.220905.001
+# Infinix Note 30 Pro
+Infinix|Infinix|X678B|X678B|X678B|Infinix/X678B/X678B:13/TP1A.220624.014/230911V1020:user/release-keys|X678B-user 13 TP1A.220624.014 230911V1020 release-keys|mt6789|Infinix-X678B|TP1A.220624.014
+# LG V60 ThinQ
+LGE|lge|LM-V600|timi_lao_com|timi|lge/timi_lao_com/timi:13/TKQ1.220807.001/231181519d553:user/release-keys|timi_lao_com-user 13 TKQ1.220807.001 231181519d553 release-keys|qcom|kona|TKQ1.220807.001

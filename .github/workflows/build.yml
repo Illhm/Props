@@ -1,0 +1,48 @@
+name: Build Magisk Module
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Environment
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y zip
+
+    - name: Create Module Zip
+      run: |
+        ZIP_NAME="DynamicPropSpoofer.zip"
+        # Only zip the files needed for the module
+        zip -r9 $ZIP_NAME META-INF common system .github module.prop oem.rc post-fs-data.sh resetprop resetprop.sh sepolicy.rule service.sh uninstall.sh README.md LICENSE -x "*.git*" -x ".github/*"
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: DynamicPropSpoofer
+        path: DynamicPropSpoofer.zip
+
+    - name: Create Release
+      if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+      uses: softprops/action-gh-release@v1
+      with:
+        files: DynamicPropSpoofer.zip
+        tag_name: "v1.0-${{ github.run_number }}"
+        name: "Release v1.0-${{ github.run_number }}"
+        body: "Automated build of Dynamic Prop Spoofer module."
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
