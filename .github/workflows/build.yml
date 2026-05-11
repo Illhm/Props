@@ -1,0 +1,39 @@
+name: Build Magisk Module
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create Module Zip
+        run: |
+          # Read module.prop to extract info
+          MODID=$(grep '^id=' module.prop | cut -d'=' -f2)
+          MODVERSION=$(grep '^version=' module.prop | cut -d'=' -f2)
+
+          ZIP_NAME="${MODID}_${MODVERSION}.zip"
+
+          # Zip all relevant files, excluding git and workflow folders
+          zip -r9 "$ZIP_NAME" . -x "*.git*" -x "*.github*" -x "*.DS_Store"
+
+          echo "ZIP_FILE=$ZIP_NAME" >> $GITHUB_ENV
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.ZIP_FILE }}
+          path: ${{ env.ZIP_FILE }}

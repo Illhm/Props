@@ -1,0 +1,20 @@
+Xiaomi|Xiaomi 15 Pro|haotian|Xiaomi/haotian/haotian:16/BP1A.241025.001/V816.0.4.0.OOKCNXM:user/release-keys
+Xiaomi|Xiaomi 14 Ultra|aurora|Xiaomi/aurora/aurora:16/BP1A.241025.001/V816.0.7.0.UNACNXM:user/release-keys
+Xiaomi|POCO F6 Pro|vermeer|POCO/vermeer_global/vermeer:16/BP1A.241025.001/V816.0.5.0.UNKMIXM:user/release-keys
+Samsung|Galaxy S25 Ultra|e3q|samsung/e3qsqw/e3q:16/BP1A.241025.001/S938BXXU1AXA1:user/release-keys
+Samsung|Galaxy S24+|e2s|samsung/e2ssqw/e2s:16/BP1A.241025.001/S926BXXS3AXC4:user/release-keys
+Samsung|Galaxy A55 5G|a55x|samsung/a55xsq/a55x:16/BP1A.241025.001/A556BXXS4AXD1:user/release-keys
+Oppo|Find X8 Pro|OP5BAEL1|OPPO/OP5BAEL1/OP5BAEL1:16/BP1A.241025.001/U.15.0.0.301(CN01):user/release-keys
+Oppo|Reno 12 Pro|OP5C61L1|OPPO/OP5C61L1/OP5C61L1:16/BP1A.241025.001/U.15.0.0.105(EX01):user/release-keys
+Vivo|X200 Pro|PD2405|vivo/PD2405/PD2405:16/BP1A.241025.001/compiler11122115:user/release-keys
+Vivo|iQOO 13|PD2408|vivo/PD2408/PD2408:16/BP1A.241025.001/compiler11141930:user/release-keys
+Google|Pixel 9 Pro XL|komodo|google/komodo/komodo:16/BP1A.241025.001/12423188:user/release-keys
+Google|Pixel 8a|akita|google/akita/akita:16/BP1A.241025.001/12423188:user/release-keys
+OnePlus|OnePlus 13|OP5C1DL1|OnePlus/OP5C1DL1/OP5C1DL1:16/BP1A.241025.001/U.15.0.0.201(CN01):user/release-keys
+OnePlus|OnePlus 12R|OP5B75L1|OnePlus/OP5B75L1/OP5B75L1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+LG|LG V60 ThinQ|timelm|lge/timelm_lao_com/timelm:16/BP1A.241025.001/242940845:user/release-keys
+Infinix|GT 20 Pro|X6871|Infinix/X6871/X6871:16/BP1A.241025.001/241025V132:user/release-keys
+Infinix|Zero 40 5G|X6861|Infinix/X6861/X6861:16/BP1A.241025.001/241025V145:user/release-keys
+Motorola|Edge 50 Ultra|nairo|motorola/nairo_g/nairo:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Sony|Xperia 1 VI|XQ-EC54|Sony/XQ-EC54_EEA/XQ-EC54:16/BP1A.241025.001/69.0.A.2.44:user/release-keys
+Asus|ROG Phone 8 Pro|AI2401|asus/WW_AI2401/AI2401:16/BP1A.241025.001/35.0804.122.38-0:user/release-keys
