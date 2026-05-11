@@ -17,7 +17,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Environment
       run: |
@@ -27,11 +27,11 @@ jobs:
     - name: Create Module Zip
       run: |
         ZIP_NAME="DynamicPropSpoofer.zip"
-        # Only zip the files needed for the module
-        zip -r9 $ZIP_NAME META-INF common system .github module.prop oem.rc post-fs-data.sh resetprop resetprop.sh sepolicy.rule service.sh uninstall.sh README.md LICENSE -x "*.git*" -x ".github/*"
+        # Zip all files excluding .git and .github to ensure all module files are included
+        zip -r9 $ZIP_NAME . -x "*.git*" -x ".github/*"
 
     - name: Upload Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: DynamicPropSpoofer
         path: DynamicPropSpoofer.zip

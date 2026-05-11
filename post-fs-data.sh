@@ -24,9 +24,7 @@ if [ ! -f "$PROFILE_FILE" ] || [ ! -s "$PROFILE_FILE" ]; then
     grep -v "^#" "$PROFILES_LIST" | shuf -n 1 > "$PROFILE_FILE"
 fi
 
-PROFILE_DATA=$(cat "$PROFILE_FILE")
-
-IFS='|' read -r MANUFACTURER BRAND MODEL NAME DEVICE FINGERPRINT DESCRIPTION HARDWARE BOARD ID <<< "$PROFILE_DATA"
+IFS='|' read -r MANUFACTURER BRAND MODEL NAME DEVICE FINGERPRINT DESCRIPTION HARDWARE BOARD ID < "$PROFILE_FILE"
 
 # Random Serial Number Generation
 NEW_SERIAL=$(cat /dev/urandom | tr -dc 'A-Z0-9' | fold -w 12 | head -n 1)
