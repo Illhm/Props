@@ -171,18 +171,24 @@ def rand_id():
     chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
     return "".join(random.choice(chars) for _ in range(8))
 
-# Generate extra fake variants if we need more lines to hit ~100
-# We have ~90 templates, so let's generate some realistic variants
-count_needed = 120 - len(new_lines)
+# Generate extra fake variants if we need more lines to hit ~650
+# We have ~145 in the file, so we need about 550 more realistic variants
+count_needed = 650 - len(new_lines)
+
+variants = ["Lite", "Plus", "Pro Max", "SE", "NE", "5G UW", "Active", "FE", "Ultra", "Max", "Pro", "5G", "4G", "Premium", "GT", "T", "Fold", "Flip", "Mini", "Plus 5G", "S", "i", "e"]
+
 if count_needed > 0:
-    for i in range(count_needed):
+    for i in range(count_needed * 2): # Try more times in case of duplicates
+        if len(new_lines) >= 650:
+            break
+
         t = random.choice(templates)
         brand, model, device, fingerprint_base = t
 
         # Modify model/device slightly for variant
-        variant = random.choice(["Lite", "Plus", "Pro Max", "SE", "NE", "5G UW", "Active"])
-        new_model = f"{model} {variant}"
-        new_device = f"{device}v"
+        variant = random.choice(variants)
+        new_model = f"{model} {variant} {rand_id()[:2]}"
+        new_device = f"{device}{rand_id()[:3].lower()}"
 
         # Modify fingerprint
         parts = fingerprint_base.split('/')

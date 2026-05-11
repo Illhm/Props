@@ -1,145 +1,670 @@
+Asus|ROG Phone 7 5G 10|AI22057ex|asus/AI22057ex/AI22057ex:16/BP1A.241025.001/II1HBJSF:user/release-keys
+Asus|ROG Phone 7 Active BN|AI2205ge5|asus/AI2205ge5/AI2205ge5:16/BP1A.241025.001/TWG271NC:user/release-keys
+Asus|ROG Phone 7 Plus 5G HC|AI2205s1u|asus/AI2205s1u/AI2205s1u:16/BP1A.241025.001/F6GD3CHM:user/release-keys
+Asus|ROG Phone 7 Plus 6E|AI2205g17|asus/AI2205g17/AI2205g17:16/BP1A.241025.001/E10B126K:user/release-keys
+Asus|ROG Phone 7 Plus U7|AI2205e5k|asus/AI2205e5k/AI2205e5k:16/BP1A.241025.001/EI22IWAJ:user/release-keys
+Asus|ROG Phone 7 S O6|AI2205k60|asus/AI2205k60/AI2205k60:16/BP1A.241025.001/RG23U9C3:user/release-keys
+Asus|ROG Phone 7 T HE|AI2205tcs|asus/AI2205tcs/AI2205tcs:16/BP1A.241025.001/5XLZ732V:user/release-keys
+Asus|ROG Phone 7 Ultimate Fold 77|AI2205w6y|asus/AI2205w6y/AI2205w6y:16/BP1A.241025.001/8P8K5HCB:user/release-keys
+Asus|ROG Phone 7 Ultimate Lite X5|AI22052mz|asus/AI22052mz/AI22052mz:16/BP1A.241025.001/Z9E38R9I:user/release-keys
+Asus|ROG Phone 7 Ultimate NE MD|AI2205vla|asus/AI2205vla/AI2205vla:16/BP1A.241025.001/XOQ5FC05:user/release-keys
+Asus|ROG Phone 7 Ultimate Ultra 9D|AI2205jum|asus/AI2205jum/AI2205jum:16/BP1A.241025.001/3FLMYPJP:user/release-keys
+Asus|ROG Phone 7 Ultimate i 3V|AI2205mxd|asus/AI2205mxd/AI2205mxd:16/BP1A.241025.001/LZXFC07D:user/release-keys
 Asus|ROG Phone 7 Ultimate|AI2205|asus/WW_AI2205/AI2205:16/BP1A.241025.001/35.0804.122.38-0:user/release-keys
+Asus|ROG Phone 7 e 6S|AI220546r|asus/AI220546r/AI220546r:16/BP1A.241025.001/T70596FI:user/release-keys
 Asus|ROG Phone 7|AI2205|asus/WW_AI2205/AI2205:16/BP1A.241025.001/35.0804.122.38-0:user/release-keys
+Asus|ROG Phone 8 Flip EW|AI2401ief|asus/AI2401ief/AI2401ief:16/BP1A.241025.001/4PMMO7GL:user/release-keys
+Asus|ROG Phone 8 GT 33|AI2401ihk|asus/AI2401ihk/AI2401ihk:16/BP1A.241025.001/4EY842N6:user/release-keys
 Asus|ROG Phone 8 Pro|AI2401|asus/WW_AI2401/AI2401:16/BP1A.241025.001/35.0804.122.38-0:user/release-keys
+Asus|ROG Phone 8 S QL|AI2401lgq|asus/AI2401lgq/AI2401lgq:16/BP1A.241025.001/P3WAT1ZZ:user/release-keys
 Asus|ROG Phone 8|AI2401|asus/WW_AI2401/AI2401:16/BP1A.241025.001/35.0804.122.38-0:user/release-keys
+Asus|Zenfone 10 4G N2|AI2302n5i|asus/AI2302n5i/AI2302n5i:16/BP1A.241025.001/BVXUETPQ:user/release-keys
+Asus|Zenfone 10 Active ZM|AI2302ucr|asus/AI2302ucr/AI2302ucr:16/BP1A.241025.001/AEUJ50HC:user/release-keys
+Asus|Zenfone 10 FE CO|AI2302hkk|asus/AI2302hkk/AI2302hkk:16/BP1A.241025.001/LZM5SDLP:user/release-keys
+Asus|Zenfone 10 Fold TU|AI23026pc|asus/AI23026pc/AI23026pc:16/BP1A.241025.001/L4S6UO2I:user/release-keys
+Asus|Zenfone 10 Plus 5G QN|AI2302jj5|asus/AI2302jj5/AI2302jj5:16/BP1A.241025.001/Y9KHH8Z7:user/release-keys
 Asus|Zenfone 10|AI2302|asus/WW_AI2302/AI2302:16/BP1A.241025.001/35.0804.122.38-0:user/release-keys
+Asus|Zenfone 11 Ultra 5G 03|AI2401_Hw9o|asus/AI2401_Hw9o/AI2401_Hw9o:16/BP1A.241025.001/EF8RA4K3:user/release-keys
+Asus|Zenfone 11 Ultra 5G UW CQ|AI2401_Hy9r|asus/AI2401_Hy9r/AI2401_Hy9r:16/BP1A.241025.001/SSB30PIC:user/release-keys
+Asus|Zenfone 11 Ultra SE KN|AI2401_H72h|asus/AI2401_H72h/AI2401_H72h:16/BP1A.241025.001/HS0X283O:user/release-keys
+Asus|Zenfone 11 Ultra i BX|AI2401_Ht6y|asus/AI2401_Ht6y/AI2401_Ht6y:16/BP1A.241025.001/EXYN1CTI:user/release-keys
 Asus|Zenfone 11 Ultra|AI2401_H|asus/WW_AI2401_H/AI2401_H:16/BP1A.241025.001/35.0804.122.38-0:user/release-keys
+Asus|Zenfone 9 GT HA|AI22020rj|asus/AI22020rj/AI22020rj:16/BP1A.241025.001/4VTHI2Q0:user/release-keys
+Asus|Zenfone 9 Lite FL|AI22029ut|asus/AI22029ut/AI22029ut:16/BP1A.241025.001/9ZUXTIGX:user/release-keys
+Asus|Zenfone 9 Plus DR|AI2202d1a|asus/AI2202d1a/AI2202d1a:16/BP1A.241025.001/IPP7L6I3:user/release-keys
+Asus|Zenfone 9 Ultra 64|AI2202xq3|asus/AI2202xq3/AI2202xq3:16/BP1A.241025.001/FHWSPWAI:user/release-keys
 Asus|Zenfone 9|AI2202|asus/WW_AI2202/AI2202:16/BP1A.241025.001/35.0804.122.38-0:user/release-keys
+Google|Pixel 7 Active Z1|panther27p|google/panther27p/panther27p:16/BP1A.241025.001/E7DERUA2:user/release-keys
+Google|Pixel 7 FE E1|panthers4p|google/panthers4p/panthers4p:16/BP1A.241025.001/285QJI6O:user/release-keys
+Google|Pixel 7 NE 6E|panthert45|google/panthert45/panthert45:16/BP1A.241025.001/YLVK2ARU:user/release-keys
+Google|Pixel 7 Pro Plus 8W|cheetaha9i|google/cheetaha9i/cheetaha9i:16/BP1A.241025.001/OTC6GW0R:user/release-keys
+Google|Pixel 7 Pro Pro 8N|cheetah9if|google/cheetah9if/cheetah9if:16/BP1A.241025.001/IEGT9Z4V:user/release-keys
+Google|Pixel 7 Pro Ultra CJ|cheetah3rq|google/cheetah3rq/cheetah3rq:16/BP1A.241025.001/U7IKDW01:user/release-keys
 Google|Pixel 7 Pro|cheetah|google/cheetah/cheetah:16/BP1A.241025.001/12423188:user/release-keys
+Google|Pixel 7a 4G 5H|lynx0lj|google/lynx0lj/lynx0lj:16/BP1A.241025.001/QRM7GG84:user/release-keys
+Google|Pixel 7a 5G SW|lynxzxs|google/lynxzxs/lynxzxs:16/BP1A.241025.001/Z1ZBQH32:user/release-keys
+Google|Pixel 7a Active 9I|lynxjnd|google/lynxjnd/lynxjnd:16/BP1A.241025.001/MQWABOYN:user/release-keys
+Google|Pixel 7a FE LD|lynxopn|google/lynxopn/lynxopn:16/BP1A.241025.001/J0W1TGVE:user/release-keys
+Google|Pixel 7a Ultra MV|lynxjhz|google/lynxjhz/lynxjhz:16/BP1A.241025.001/MWRNVQPO:user/release-keys
 Google|Pixel 7a|lynx|google/lynx/lynx:16/BP1A.241025.001/12423188:user/release-keys
 Google|Pixel 7|panther|google/panther/panther:16/BP1A.241025.001/12423188:user/release-keys
+Google|Pixel 8 4G NS|shibas7i|google/shibas7i/shibas7i:16/BP1A.241025.001/KGRK0IQP:user/release-keys
+Google|Pixel 8 NE 7A|shiba0hu|google/shiba0hu/shiba0hu:16/BP1A.241025.001/RU5P19Q8:user/release-keys
+Google|Pixel 8 Pro FE BS|huskywwm|google/huskywwm/huskywwm:16/BP1A.241025.001/X5ULGP7T:user/release-keys
+Google|Pixel 8 Pro NE HH|huskya60|google/huskya60/huskya60:16/BP1A.241025.001/VPJ3JIW0:user/release-keys
+Google|Pixel 8 Pro T TN|husky60o|google/husky60o/husky60o:16/BP1A.241025.001/NP9ATFPK:user/release-keys
 Google|Pixel 8 Pro|husky|google/husky/husky:16/BP1A.241025.001/12423188:user/release-keys
+Google|Pixel 8 T HU|shibacxe|google/shibacxe/shibacxe:16/BP1A.241025.001/5VF247KC:user/release-keys
+Google|Pixel 8 T QZ|shibac0x|google/shibac0x/shibac0x:16/BP1A.241025.001/273FLOTI:user/release-keys
 Google|Pixel 8a|akita|google/akita/akita:16/BP1A.241025.001/12423188:user/release-keys
 Google|Pixel 8|shiba|google/shiba/shiba:16/BP1A.241025.001/12423188:user/release-keys
+Google|Pixel 9 Premium QW|tokayvvv|google/tokayvvv/tokayvvv:16/BP1A.241025.001/T1ZN1WZQ:user/release-keys
+Google|Pixel 9 Pro 4G QT|caimanexe|google/caimanexe/caimanexe:16/BP1A.241025.001/Y8KWVZO6:user/release-keys
+Google|Pixel 9 Pro Flip M9|caimanghp|google/caimanghp/caimanghp:16/BP1A.241025.001/5MNFMH6A:user/release-keys
+Google|Pixel 9 Pro Fold 4G 6D|cometcky|google/cometcky/cometcky:16/BP1A.241025.001/UFBN4VEI:user/release-keys
+Google|Pixel 9 Pro Fold 5G UW Z9|comet59u|google/comet59u/comet59u:16/BP1A.241025.001/YL1VY6Z6:user/release-keys
+Google|Pixel 9 Pro Fold FE CQ|comet3uv|google/comet3uv/comet3uv:16/BP1A.241025.001/UL7ZE395:user/release-keys
+Google|Pixel 9 Pro Fold Fold PP|cometpmk|google/cometpmk/cometpmk:16/BP1A.241025.001/YUDLOOGL:user/release-keys
+Google|Pixel 9 Pro Fold Mini XJ|cometk26|google/cometk26/cometk26:16/BP1A.241025.001/M04UQNXH:user/release-keys
+Google|Pixel 9 Pro Fold S 5D|comet39x|google/comet39x/comet39x:16/BP1A.241025.001/YZ8L2YRI:user/release-keys
 Google|Pixel 9 Pro Fold|comet|google/comet/comet:16/BP1A.241025.001/12423188:user/release-keys
+Google|Pixel 9 Pro Premium FJ|caimanzin|google/caimanzin/caimanzin:16/BP1A.241025.001/Z0VR673Z:user/release-keys
+Google|Pixel 9 Pro Pro MQ|caimanxpz|google/caimanxpz/caimanxpz:16/BP1A.241025.001/054EVLO4:user/release-keys
 Google|Pixel 9 Pro XL|komodo|google/komodo/komodo:16/BP1A.241025.001/12423188:user/release-keys
 Google|Pixel 9 Pro|caiman|google/caiman/caiman:16/BP1A.241025.001/12423188:user/release-keys
 Google|Pixel 9|tokay|google/tokay/tokay:16/BP1A.241025.001/12423188:user/release-keys
+Google|Pixel Fold Plus 5G B6|felix6cy|google/felix6cy/felix6cy:16/BP1A.241025.001/REY13WE4:user/release-keys
+Google|Pixel Fold Plus 5G EI|felixdow|google/felixdow/felixdow:16/BP1A.241025.001/YNVPT9ZU:user/release-keys
+Google|Pixel Fold Premium 8O|felix54y|google/felix54y/felix54y:16/BP1A.241025.001/D2RH6UCQ:user/release-keys
+Google|Pixel Fold SE BC|felixnlb|google/felixnlb/felixnlb:16/BP1A.241025.001/5L6Z3ZT6:user/release-keys
+Google|Pixel Fold T 58|felixh0d|google/felixh0d/felixh0d:16/BP1A.241025.001/CWOFK6YA:user/release-keys
+Google|Pixel Fold T 73|felixs7q|google/felixs7q/felixs7q:16/BP1A.241025.001/4174GDOF:user/release-keys
+Google|Pixel Fold i 9T|felixa3c|google/felixa3c/felixa3c:16/BP1A.241025.001/A9YMI9T0:user/release-keys
 Google|Pixel Fold|felix|google/felix/felix:16/BP1A.241025.001/12423188:user/release-keys
+Honor|90 Lite PY|REA9c4|HONOR/REA9c4/REA9c4:16/BP1A.241025.001/55JT2D9K:user/release-keys
+Honor|90 Plus R3|REAzrg|HONOR/REAzrg/REAzrg:16/BP1A.241025.001/9T22K3SR:user/release-keys
+Honor|90 i 86|REAsmx|HONOR/REAsmx/REAsmx:16/BP1A.241025.001/YJ9IN0BW:user/release-keys
 Honor|90|REA|HONOR/REA-NX9/REA:16/BP1A.241025.001/8.0.0.134:user/release-keys
 Honor|Magic V2|VER|HONOR/VER-N49/VER:16/BP1A.241025.001/8.0.0.134:user/release-keys
+Honor|Magic5 Pro Lite C0|PGT53u|HONOR/PGT53u/PGT53u:16/BP1A.241025.001/BHQTKHSB:user/release-keys
 Honor|Magic5 Pro|PGT|HONOR/PGT-N19/PGT:16/BP1A.241025.001/8.0.0.134:user/release-keys
+Honor|Magic6 Mini 6W|BVL1ij|HONOR/BVL1ij/BVL1ij:16/BP1A.241025.001/34EE2FMF:user/release-keys
+Honor|Magic6 Mini 9V|BVLu6k|HONOR/BVLu6k/BVLu6k:16/BP1A.241025.001/MGZZUP3W:user/release-keys
+Honor|Magic6 Plus XA|BVL1x8|HONOR/BVL1x8/BVL1x8:16/BP1A.241025.001/J3HWDYDB:user/release-keys
+Honor|Magic6 Pro 5G UW U0|BVLam1|HONOR/BVLam1/BVLam1:16/BP1A.241025.001/SZ2IECDW:user/release-keys
+Honor|Magic6 Pro Pro Max NW|BVL4bo|HONOR/BVL4bo/BVL4bo:16/BP1A.241025.001/Z31I4WIB:user/release-keys
+Honor|Magic6 Pro T VU|BVL156|HONOR/BVL156/BVL156:16/BP1A.241025.001/6IVI243I:user/release-keys
+Honor|Magic6 Pro Ultra F0|BVLwfs|HONOR/BVLwfs/BVLwfs:16/BP1A.241025.001/DPKZ0506:user/release-keys
 Honor|Magic6 Pro|BVL|HONOR/BVL-N49/BVL:16/BP1A.241025.001/8.0.0.134:user/release-keys
+Honor|Magic6 T F1|BVLz80|HONOR/BVLz80/BVLz80:16/BP1A.241025.001/8AQT2QLK:user/release-keys
+Honor|Magic6 Ultra 7M|BVLv3s|HONOR/BVLv3s/BVLv3s:16/BP1A.241025.001/VHLMQTAP:user/release-keys
+Honor|Magic6 e MJ|BVLilu|HONOR/BVLilu/BVLilu:16/BP1A.241025.001/544JUYE0:user/release-keys
 Honor|Magic6|BVL|HONOR/BVL-AN00/BVL:16/BP1A.241025.001/8.0.0.134:user/release-keys
+Honor|X9b 4G GX|ALIlz5|HONOR/ALIlz5/ALIlz5:16/BP1A.241025.001/BEGRWM94:user/release-keys
+Honor|X9b 5G UW ST|ALIgfv|HONOR/ALIgfv/ALIgfv:16/BP1A.241025.001/8T7YDONN:user/release-keys
+Honor|X9b GT BX|ALI80u|HONOR/ALI80u/ALI80u:16/BP1A.241025.001/XKL0OOIA:user/release-keys
+Honor|X9b NE 28|ALIl3p|HONOR/ALIl3p/ALIl3p:16/BP1A.241025.001/TUI0R2SI:user/release-keys
+Honor|X9b NE T1|ALIk3o|HONOR/ALIk3o/ALIk3o:16/BP1A.241025.001/XGISTJSY:user/release-keys
+Honor|X9b Pro XS|ALI8bg|HONOR/ALI8bg/ALI8bg:16/BP1A.241025.001/OS3LQX7X:user/release-keys
+Honor|X9b T ZD|ALIoqi|HONOR/ALIoqi/ALIoqi:16/BP1A.241025.001/KE3YB87J:user/release-keys
+Honor|X9b Ultra DT|ALIn9l|HONOR/ALIn9l/ALIn9l:16/BP1A.241025.001/I2YZ2824:user/release-keys
 Honor|X9b|ALI|HONOR/ALI-NX1/ALI:16/BP1A.241025.001/8.0.0.134:user/release-keys
 Infinix|GT 20 Pro|X6871|Infinix/X6871/X6871:16/BP1A.241025.001/241025V132:user/release-keys
+Infinix|Hot 40 4G Y9|X6836ah2|Infinix/X6836ah2/X6836ah2:16/BP1A.241025.001/WMKD3T7P:user/release-keys
+Infinix|Hot 40 5G UW 03|X6836whr|Infinix/X6836whr/X6836whr:16/BP1A.241025.001/LZDW2YGO:user/release-keys
+Infinix|Hot 40 Pro 5G UW O3|X68374am|Infinix/X68374am/X68374am:16/BP1A.241025.001/IEOB7Y20:user/release-keys
+Infinix|Hot 40 Pro Fold A7|X6837d88|Infinix/X6837d88/X6837d88:16/BP1A.241025.001/HSLLR8O3:user/release-keys
+Infinix|Hot 40 Pro Max 3T|X6836nmn|Infinix/X6836nmn/X6836nmn:16/BP1A.241025.001/GMJ69P5O:user/release-keys
+Infinix|Hot 40 Pro Max PZ|X68368d2|Infinix/X68368d2/X68368d2:16/BP1A.241025.001/EI5GJGT1:user/release-keys
+Infinix|Hot 40 Pro Pro Max 8M|X68377sk|Infinix/X68377sk/X68377sk:16/BP1A.241025.001/2RVMUP0T:user/release-keys
+Infinix|Hot 40 Pro S JB|X6837qr3|Infinix/X6837qr3/X6837qr3:16/BP1A.241025.001/NXIU0746:user/release-keys
 Infinix|Hot 40 Pro|X6837|Infinix/X6837/X6837:16/BP1A.241025.001/241025V132:user/release-keys
 Infinix|Hot 40|X6836|Infinix/X6836/X6836:16/BP1A.241025.001/241025V132:user/release-keys
+Infinix|Note 40 Fold 32|X6853oqe|Infinix/X6853oqe/X6853oqe:16/BP1A.241025.001/YRK1IXJY:user/release-keys
+Infinix|Note 40 Pro 5G 4G Z6|X6851hyf|Infinix/X6851hyf/X6851hyf:16/BP1A.241025.001/0HKCSC33:user/release-keys
+Infinix|Note 40 Pro 5G 5G RW|X6851y02|Infinix/X6851y02/X6851y02:16/BP1A.241025.001/0UZ14JTG:user/release-keys
+Infinix|Note 40 Pro 5G GT 5K|X6851hqs|Infinix/X6851hqs/X6851hqs:16/BP1A.241025.001/0PA1FK4O:user/release-keys
+Infinix|Note 40 Pro 5G SE BV|X6851l6s|Infinix/X6851l6s/X6851l6s:16/BP1A.241025.001/8JH4AGW9:user/release-keys
+Infinix|Note 40 Pro 5G UW OE|X6850naz|Infinix/X6850naz/X6850naz:16/BP1A.241025.001/09WEON6H:user/release-keys
+Infinix|Note 40 Pro 5G Ultra RF|X6851x8p|Infinix/X6851x8p/X6851x8p:16/BP1A.241025.001/DL9HV643:user/release-keys
 Infinix|Note 40 Pro 5G|X6851|Infinix/X6851/X6851:16/BP1A.241025.001/241025V132:user/release-keys
+Infinix|Note 40 Pro Active T0|X6850ave|Infinix/X6850ave/X6850ave:16/BP1A.241025.001/FHTV8IAS:user/release-keys
+Infinix|Note 40 Pro GT W7|X6850oa8|Infinix/X6850oa8/X6850oa8:16/BP1A.241025.001/B1PMZK56:user/release-keys
+Infinix|Note 40 Pro Lite EH|X6850mrs|Infinix/X6850mrs/X6850mrs:16/BP1A.241025.001/BH75S4TM:user/release-keys
+Infinix|Note 40 Pro Max X7|X6850wqh|Infinix/X6850wqh/X6850wqh:16/BP1A.241025.001/4JRHHWMM:user/release-keys
+Infinix|Note 40 Pro NE I2|X6850k58|Infinix/X6850k58/X6850k58:16/BP1A.241025.001/IQYUQHZG:user/release-keys
+Infinix|Note 40 Pro Pro Max OQ|X68500aj|Infinix/X68500aj/X68500aj:16/BP1A.241025.001/16HUQY1V:user/release-keys
+Infinix|Note 40 Pro+ 5G 5G EP|X6851B5df|Infinix/X6851B5df/X6851B5df:16/BP1A.241025.001/77W4HUNI:user/release-keys
+Infinix|Note 40 Pro+ 5G Pro AF|X6851Bg60|Infinix/X6851Bg60/X6851Bg60:16/BP1A.241025.001/38JSWBWZ:user/release-keys
+Infinix|Note 40 Pro+ 5G SE I5|X6851Biy1|Infinix/X6851Biy1/X6851Biy1:16/BP1A.241025.001/PDHUMOAR:user/release-keys
+Infinix|Note 40 Pro+ 5G Ultra 8J|X6851Bm69|Infinix/X6851Bm69/X6851Bm69:16/BP1A.241025.001/3OLS4UWO:user/release-keys
 Infinix|Note 40 Pro+ 5G|X6851B|Infinix/X6851B/X6851B:16/BP1A.241025.001/241025V132:user/release-keys
 Infinix|Note 40 Pro|X6850|Infinix/X6850/X6850:16/BP1A.241025.001/241025V132:user/release-keys
+Infinix|Note 40 SE XF|X6853g1i|Infinix/X6853g1i/X6853g1i:16/BP1A.241025.001/K5CCSEB0:user/release-keys
+Infinix|Note 40 T XL|X6853bru|Infinix/X6853bru/X6853bru:16/BP1A.241025.001/A1IMQYEY:user/release-keys
 Infinix|Note 40|X6853|Infinix/X6853/X6853:16/BP1A.241025.001/241025V132:user/release-keys
+Infinix|Smart 8 5G UW DO|X652568l|Infinix/X652568l/X652568l:16/BP1A.241025.001/1O1FI7VP:user/release-keys
+Infinix|Smart 8 Mini A1|X6525wsl|Infinix/X6525wsl/X6525wsl:16/BP1A.241025.001/35BY3YNI:user/release-keys
+Infinix|Smart 8 Ultra OP|X65252la|Infinix/X65252la/X65252la:16/BP1A.241025.001/M0QYCAWY:user/release-keys
 Infinix|Smart 8|X6525|Infinix/X6525/X6525:16/BP1A.241025.001/241025V132:user/release-keys
+Infinix|Zero 30 5G 5G O9|X6731ys4|Infinix/X6731ys4/X6731ys4:16/BP1A.241025.001/GM30AYCM:user/release-keys
+Infinix|Zero 30 5G 5G UW 1I|X6731o6h|Infinix/X6731o6h/X6731o6h:16/BP1A.241025.001/XMI3BJ8F:user/release-keys
+Infinix|Zero 30 5G Max YH|X673169f|Infinix/X673169f/X673169f:16/BP1A.241025.001/9IBU1W0J:user/release-keys
+Infinix|Zero 30 5G NE 27|X6731vve|Infinix/X6731vve/X6731vve:16/BP1A.241025.001/X8J7G3K3:user/release-keys
+Infinix|Zero 30 5G NE O6|X6731lo9|Infinix/X6731lo9/X6731lo9:16/BP1A.241025.001/L1DWZZNJ:user/release-keys
+Infinix|Zero 30 5G Premium SW|X6731yn9|Infinix/X6731yn9/X6731yn9:16/BP1A.241025.001/XDL2W6VO:user/release-keys
+Infinix|Zero 30 5G S 7F|X6731bar|Infinix/X6731bar/X6731bar:16/BP1A.241025.001/4K3EVAX3:user/release-keys
 Infinix|Zero 30 5G|X6731|Infinix/X6731/X6731:16/BP1A.241025.001/241025V132:user/release-keys
+Infinix|Zero 30 Flip HD|X6731Byyo|Infinix/X6731Byyo/X6731Byyo:16/BP1A.241025.001/L5W5V5QB:user/release-keys
+Infinix|Zero 30 Lite XE|X6731B0ct|Infinix/X6731B0ct/X6731B0ct:16/BP1A.241025.001/D8SC7BLJ:user/release-keys
 Infinix|Zero 30|X6731B|Infinix/X6731B/X6731B:16/BP1A.241025.001/241025V132:user/release-keys
 Infinix|Zero 40 5G|X6861|Infinix/X6861/X6861:16/BP1A.241025.001/241025V145:user/release-keys
 LG|LG V60 ThinQ|timelm|lge/timelm_lao_com/timelm:16/BP1A.241025.001/242940845:user/release-keys
+Motorola|Edge 40 4G 6B|lycane1r|motorola/lycane1r/lycane1r:16/BP1A.241025.001/QHUPF0G4:user/release-keys
+Motorola|Edge 40 4G GV|lycan6lp|motorola/lycan6lp/lycan6lp:16/BP1A.241025.001/AU74GDVO:user/release-keys
+Motorola|Edge 40 Fold 88|lycanmiw|motorola/lycanmiw/lycanmiw:16/BP1A.241025.001/Q953UODD:user/release-keys
+Motorola|Edge 40 GT 1S|lycanab6|motorola/lycanab6/lycanab6:16/BP1A.241025.001/2UZIG0A7:user/release-keys
+Motorola|Edge 40 Neo 5G UW YW|cancunlqf|motorola/cancunlqf/cancunlqf:16/BP1A.241025.001/4J00TAWY:user/release-keys
+Motorola|Edge 40 Neo Flip LE|cancuntnl|motorola/cancuntnl/cancuntnl:16/BP1A.241025.001/SADS443M:user/release-keys
+Motorola|Edge 40 Neo GT XY|cancunf3r|motorola/cancunf3r/cancunf3r:16/BP1A.241025.001/I8ZN17X1:user/release-keys
+Motorola|Edge 40 Neo Max KG|cancunw0r|motorola/cancunw0r/cancunw0r:16/BP1A.241025.001/UHP59HOL:user/release-keys
+Motorola|Edge 40 Neo Mini IB|cancunvfq|motorola/cancunvfq/cancunvfq:16/BP1A.241025.001/I6GO3MD9:user/release-keys
+Motorola|Edge 40 Neo Ultra VY|cancunbip|motorola/cancunbip/cancunbip:16/BP1A.241025.001/YW1PIEXQ:user/release-keys
 Motorola|Edge 40 Neo|cancun|motorola/cancun_g/cancun:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Edge 40 Pro 1B|lycan35z|motorola/lycan35z/lycan35z:16/BP1A.241025.001/KSFW9EWC:user/release-keys
+Motorola|Edge 40 Pro GT WN|rtwobag|motorola/rtwobag/rtwobag:16/BP1A.241025.001/IN0PXMPL:user/release-keys
+Motorola|Edge 40 Pro Plus C0|rtwovfu|motorola/rtwovfu/rtwovfu:16/BP1A.241025.001/1P4C6HLI:user/release-keys
+Motorola|Edge 40 Pro Pro Max 2M|rtwozby|motorola/rtwozby/rtwozby:16/BP1A.241025.001/41RTW2GT:user/release-keys
+Motorola|Edge 40 Pro e 4E|rtwo7x3|motorola/rtwo7x3/rtwo7x3:16/BP1A.241025.001/XMH8490U:user/release-keys
 Motorola|Edge 40 Pro|rtwo|motorola/rtwo_g/rtwo:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Edge 40 S 83|lycanr1l|motorola/lycanr1l/lycanr1l:16/BP1A.241025.001/RBWUT560:user/release-keys
+Motorola|Edge 40 T HH|lycanw8v|motorola/lycanw8v/lycanw8v:16/BP1A.241025.001/IYIUDDJZ:user/release-keys
 Motorola|Edge 40|lycan|motorola/lycan_g/lycan:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Edge 50 Fusion GT AQ|cuscocup|motorola/cuscocup/cuscocup:16/BP1A.241025.001/AKOV8EFO:user/release-keys
+Motorola|Edge 50 Fusion Lite TW|cusco6kj|motorola/cusco6kj/cusco6kj:16/BP1A.241025.001/3VCB2M5M:user/release-keys
+Motorola|Edge 50 Fusion Plus 5G YT|cusco82p|motorola/cusco82p/cusco82p:16/BP1A.241025.001/3VKJ41T2:user/release-keys
+Motorola|Edge 50 Fusion Plus XS|cusco3uo|motorola/cusco3uo/cusco3uo:16/BP1A.241025.001/S7EHJGDA:user/release-keys
+Motorola|Edge 50 Fusion Pro 7M|cuscofcz|motorola/cuscofcz/cuscofcz:16/BP1A.241025.001/GAF2KAWZ:user/release-keys
+Motorola|Edge 50 Fusion Ultra 0B|cuscow2d|motorola/cuscow2d/cuscow2d:16/BP1A.241025.001/OS633V9F:user/release-keys
 Motorola|Edge 50 Fusion|cusco|motorola/cusco_g/cusco:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Edge 50 Pro 4G EC|macaubzz|motorola/macaubzz/macaubzz:16/BP1A.241025.001/HLRYJA3F:user/release-keys
+Motorola|Edge 50 Pro GT JN|macaun0o|motorola/macaun0o/macaun0o:16/BP1A.241025.001/NF42WLWJ:user/release-keys
+Motorola|Edge 50 Pro Premium 5F|macauk2m|motorola/macauk2m/macauk2m:16/BP1A.241025.001/DD34C07Q:user/release-keys
+Motorola|Edge 50 Pro i 7B|macauq7h|motorola/macauq7h/macauq7h:16/BP1A.241025.001/DQLSOYHL:user/release-keys
 Motorola|Edge 50 Pro|macau|motorola/macau_g/macau:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
 Motorola|Edge 50 Ultra|nairo|motorola/nairo_g/nairo:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Moto G54 5G 5G UW 8W|cancuncy3r|motorola/cancuncy3r/cancuncy3r:16/BP1A.241025.001/BM30IKYP:user/release-keys
+Motorola|Moto G54 5G Premium S1|cancuncjn2|motorola/cancuncjn2/cancuncjn2:16/BP1A.241025.001/ML4TW5QR:user/release-keys
+Motorola|Moto G54 5G SE PZ|cancunc1m6|motorola/cancunc1m6/cancunc1m6:16/BP1A.241025.001/0U4B731M:user/release-keys
+Motorola|Moto G54 5G T QL|cancunc4wd|motorola/cancunc4wd/cancunc4wd:16/BP1A.241025.001/M7N4KNAT:user/release-keys
+Motorola|Moto G54 5G i SS|cancunc1j3|motorola/cancunc1j3/cancunc1j3:16/BP1A.241025.001/9YNQF0LM:user/release-keys
 Motorola|Moto G54 5G|cancunc|motorola/cancunc_g/cancunc:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Moto G84 5G Fold IW|cancunf61s|motorola/cancunf61s/cancunf61s:16/BP1A.241025.001/LFLVWGEQ:user/release-keys
+Motorola|Moto G84 5G Mini 0B|cancunf85k|motorola/cancunf85k/cancunf85k:16/BP1A.241025.001/7PHSHPCP:user/release-keys
+Motorola|Moto G84 5G Pro D5|cancunfnym|motorola/cancunfnym/cancunfnym:16/BP1A.241025.001/5PP8134E:user/release-keys
+Motorola|Moto G84 5G S GX|cancunfsqz|motorola/cancunfsqz/cancunfsqz:16/BP1A.241025.001/G0ALXG26:user/release-keys
+Motorola|Moto G84 5G i A8|cancunfgfr|motorola/cancunfgfr/cancunfgfr:16/BP1A.241025.001/K7X6TSG4:user/release-keys
+Motorola|Moto G84 5G i B6|cancunfton|motorola/cancunfton/cancunfton:16/BP1A.241025.001/VBS5KJJK:user/release-keys
 Motorola|Moto G84 5G|cancunf|motorola/cancunf_g/cancunf:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Razr 40 4G Z4|marsqqz|motorola/marsqqz/marsqqz:16/BP1A.241025.001/FP5ZAJ0O:user/release-keys
+Motorola|Razr 40 Mini 30|mars6nk|motorola/mars6nk/mars6nk:16/BP1A.241025.001/UH0CQX4I:user/release-keys
+Motorola|Razr 40 NE C3|mars9x0|motorola/mars9x0/mars9x0:16/BP1A.241025.001/STRBDQEE:user/release-keys
+Motorola|Razr 40 NE MP|marswgi|motorola/marswgi/marswgi:16/BP1A.241025.001/6SXGLENY:user/release-keys
+Motorola|Razr 40 Pro C2|marswxf|motorola/marswxf/marswxf:16/BP1A.241025.001/59V6VC3X:user/release-keys
+Motorola|Razr 40 Pro L9|marsvtv|motorola/marsvtv/marsvtv:16/BP1A.241025.001/K48AZOTZ:user/release-keys
+Motorola|Razr 40 Pro ML|marssbp|motorola/marssbp/marssbp:16/BP1A.241025.001/7BKKYN0N:user/release-keys
+Motorola|Razr 40 T BJ|marsfh9|motorola/marsfh9/marsfh9:16/BP1A.241025.001/TYDPVG9O:user/release-keys
+Motorola|Razr 40 Ultra 5G UW U9|pnxid7|motorola/pnxid7/pnxid7:16/BP1A.241025.001/5SAKDAQB:user/release-keys
+Motorola|Razr 40 Ultra Active MM|pnxeat|motorola/pnxeat/pnxeat:16/BP1A.241025.001/HWJ8MT2M:user/release-keys
+Motorola|Razr 40 Ultra GT PG|pnxu7w|motorola/pnxu7w/pnxu7w:16/BP1A.241025.001/E7Y6OM17:user/release-keys
+Motorola|Razr 40 Ultra Premium YC|pnx9eq|motorola/pnx9eq/pnx9eq:16/BP1A.241025.001/5HHEBZCI:user/release-keys
+Motorola|Razr 40 Ultra SE WY|pnxygl|motorola/pnxygl/pnxygl:16/BP1A.241025.001/HZ0ACVSY:user/release-keys
+Motorola|Razr 40 Ultra Ultra KE|pnxbaa|motorola/pnxbaa/pnxbaa:16/BP1A.241025.001/BRXD5IEW:user/release-keys
 Motorola|Razr 40 Ultra|pnx|motorola/pnx_g/pnx:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Razr 40 e 61|marsxq6|motorola/marsxq6/marsxq6:16/BP1A.241025.001/LJHE002Q:user/release-keys
+Motorola|Razr 40 e QH|marsaxr|motorola/marsaxr/marsaxr:16/BP1A.241025.001/U94KW2XO:user/release-keys
 Motorola|Razr 40|mars|motorola/mars_g/mars:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Razr 50 4G 2U|belize4k6|motorola/belize4k6/belize4k6:16/BP1A.241025.001/2INQENHV:user/release-keys
+Motorola|Razr 50 FE B3|belizesjh|motorola/belizesjh/belizesjh:16/BP1A.241025.001/9RCCT8QD:user/release-keys
+Motorola|Razr 50 SE PH|belizekr6|motorola/belizekr6/belizekr6:16/BP1A.241025.001/2H8QCYJ0:user/release-keys
+Motorola|Razr 50 Ultra Premium QF|geneva4nz|motorola/geneva4nz/geneva4nz:16/BP1A.241025.001/5SKED37Z:user/release-keys
 Motorola|Razr 50 Ultra|geneva|motorola/geneva_g/geneva:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Motorola|Razr 50 i 91|belizemjg|motorola/belizemjg/belizemjg:16/BP1A.241025.001/6G7Y3F21:user/release-keys
 Motorola|Razr 50|belize|motorola/belize_g/belize:16/BP1A.241025.001/U2UC35.15-20:user/release-keys
+Nothing|Phone (1) 4G SK|Spacewaruap|Nothing/Spacewaruap/Spacewaruap:16/BP1A.241025.001/L0SYJJHU:user/release-keys
+Nothing|Phone (1) 4G WN|Spacewarcc1|Nothing/Spacewarcc1/Spacewarcc1:16/BP1A.241025.001/JO2615RJ:user/release-keys
+Nothing|Phone (1) GT 3F|Spacewar0hd|Nothing/Spacewar0hd/Spacewar0hd:16/BP1A.241025.001/1SNXTLC1:user/release-keys
+Nothing|Phone (1) Mini 8N|Spacewarxn9|Nothing/Spacewarxn9/Spacewarxn9:16/BP1A.241025.001/C1BPEYEA:user/release-keys
+Nothing|Phone (1) Plus 5G 8K|Spacewarr8z|Nothing/Spacewarr8z/Spacewarr8z:16/BP1A.241025.001/BCEJOU77:user/release-keys
+Nothing|Phone (1) Plus EQ|Spacewar0pa|Nothing/Spacewar0pa/Spacewar0pa:16/BP1A.241025.001/LH5AD6BY:user/release-keys
+Nothing|Phone (1) e 25|Spacewarmj5|Nothing/Spacewarmj5/Spacewarmj5:16/BP1A.241025.001/9L7II7BP:user/release-keys
+Nothing|Phone (1) e RF|Spacewarrzs|Nothing/Spacewarrzs/Spacewarrzs:16/BP1A.241025.001/1U3BEUJ0:user/release-keys
 Nothing|Phone (1)|Spacewar|Nothing/Spacewar/Spacewar:16/BP1A.241025.001/Spacewar-U.15.0.0.105:user/release-keys
+Nothing|Phone (2) 5G 43|Pongyvx|Nothing/Pongyvx/Pongyvx:16/BP1A.241025.001/P98931C3:user/release-keys
+Nothing|Phone (2) 5G ZE|Pong2mv|Nothing/Pong2mv/Pong2mv:16/BP1A.241025.001/0PKH7YOL:user/release-keys
+Nothing|Phone (2) Fold T1|Pongznd|Nothing/Pongznd/Pongznd:16/BP1A.241025.001/ABB4DKO2:user/release-keys
+Nothing|Phone (2) S 8K|Pongu84|Nothing/Pongu84/Pongu84:16/BP1A.241025.001/40U1WWMW:user/release-keys
 Nothing|Phone (2)|Pong|Nothing/Pong/Pong:16/BP1A.241025.001/Pong-U.15.0.0.105:user/release-keys
+Nothing|Phone (2a) NE MB|Pacmannvc|Nothing/Pacmannvc/Pacmannvc:16/BP1A.241025.001/4UP5Q95D:user/release-keys
+Nothing|Phone (2a) NE VI|Pacman57n|Nothing/Pacman57n/Pacman57n:16/BP1A.241025.001/ZBP5ATXO:user/release-keys
+Nothing|Phone (2a) Plus 5G KP|Pacmanmmn|Nothing/Pacmanmmn/Pacmanmmn:16/BP1A.241025.001/NXC8SEP8:user/release-keys
+Nothing|Phone (2a) SE 6G|Pacmanym3|Nothing/Pacmanym3/Pacmanym3:16/BP1A.241025.001/53XZJJLG:user/release-keys
+Nothing|Phone (2a) Ultra BG|Pacmantv7|Nothing/Pacmantv7/Pacmantv7:16/BP1A.241025.001/GZ3IK8UM:user/release-keys
 Nothing|Phone (2a)|Pacman|Nothing/Pacman/Pacman:16/BP1A.241025.001/Pacman-U.15.0.0.105:user/release-keys
+OnePlus|OnePlus 10 Pro 5G 5G CA|OP516CL1blr|OnePlus/OP516CL1blr/OP516CL1blr:16/BP1A.241025.001/APAWHXWV:user/release-keys
+OnePlus|OnePlus 10 Pro 5G Active YF|OP516CL1cfd|OnePlus/OP516CL1cfd/OP516CL1cfd:16/BP1A.241025.001/KFWSX1LI:user/release-keys
+OnePlus|OnePlus 10 Pro 5G Fold J0|OP516CL1kyd|OnePlus/OP516CL1kyd/OP516CL1kyd:16/BP1A.241025.001/FUJ4HP67:user/release-keys
+OnePlus|OnePlus 10 Pro 5G Plus QL|OP516CL1mbb|OnePlus/OP516CL1mbb/OP516CL1mbb:16/BP1A.241025.001/S3EGZZHC:user/release-keys
 OnePlus|OnePlus 10 Pro 5G|OP516CL1|OnePlus/OP516CL1/OP516CL1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+OnePlus|OnePlus 10T 5G 4G LX|OP5155L1khn|OnePlus/OP5155L1khn/OP5155L1khn:16/BP1A.241025.001/DKDG242T:user/release-keys
+OnePlus|OnePlus 10T 5G Flip W8|OP5155L1yhd|OnePlus/OP5155L1yhd/OP5155L1yhd:16/BP1A.241025.001/VBIN7D0M:user/release-keys
+OnePlus|OnePlus 10T 5G GT RE|OP5155L1imd|OnePlus/OP5155L1imd/OP5155L1imd:16/BP1A.241025.001/90X71X76:user/release-keys
+OnePlus|OnePlus 10T 5G Pro Max 16|OP5155L1d0r|OnePlus/OP5155L1d0r/OP5155L1d0r:16/BP1A.241025.001/UZSA4UAR:user/release-keys
+OnePlus|OnePlus 10T 5G Pro Max RB|OP5155L1mot|OnePlus/OP5155L1mot/OP5155L1mot:16/BP1A.241025.001/NV58KJ4Q:user/release-keys
+OnePlus|OnePlus 10T 5G T ET|OP5155L1j10|OnePlus/OP5155L1j10/OP5155L1j10:16/BP1A.241025.001/FAH7SWX5:user/release-keys
 OnePlus|OnePlus 10T 5G|OP5155L1|OnePlus/OP5155L1/OP5155L1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+OnePlus|OnePlus 11 5G Fold FP|OP555BL19iy|OnePlus/OP555BL19iy/OP555BL19iy:16/BP1A.241025.001/8PH91HCT:user/release-keys
+OnePlus|OnePlus 11 5G Lite MG|OP555BL1rsr|OnePlus/OP555BL1rsr/OP555BL1rsr:16/BP1A.241025.001/050GVHCT:user/release-keys
+OnePlus|OnePlus 11 5G NE 39|OP555BL196j|OnePlus/OP555BL196j/OP555BL196j:16/BP1A.241025.001/WF5O1O36:user/release-keys
+OnePlus|OnePlus 11 5G Pro DZ|OP555BL166r|OnePlus/OP555BL166r/OP555BL166r:16/BP1A.241025.001/DCAJU2E1:user/release-keys
+OnePlus|OnePlus 11 5G Pro Max 8N|OP555BL1zed|OnePlus/OP555BL1zed/OP555BL1zed:16/BP1A.241025.001/QRRR0W2X:user/release-keys
+OnePlus|OnePlus 11 5G Pro Max TU|OP555BL1exb|OnePlus/OP555BL1exb/OP555BL1exb:16/BP1A.241025.001/C8TSJV67:user/release-keys
+OnePlus|OnePlus 11 5G SE 2K|OP555BL1gnt|OnePlus/OP555BL1gnt/OP555BL1gnt:16/BP1A.241025.001/XKGRSUGC:user/release-keys
+OnePlus|OnePlus 11 5G Ultra 8T|OP555BL1otb|OnePlus/OP555BL1otb/OP555BL1otb:16/BP1A.241025.001/M0AOQCEY:user/release-keys
 OnePlus|OnePlus 11 5G|OP555BL1|OnePlus/OP555BL1/OP555BL1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+OnePlus|OnePlus 11R 5G 4G W8|OP555DL1r8e|OnePlus/OP555DL1r8e/OP555DL1r8e:16/BP1A.241025.001/CLBS3IDA:user/release-keys
+OnePlus|OnePlus 11R 5G FE O7|OP555DL1vn0|OnePlus/OP555DL1vn0/OP555DL1vn0:16/BP1A.241025.001/U112CX5A:user/release-keys
+OnePlus|OnePlus 11R 5G Lite PJ|OP555DL1kwm|OnePlus/OP555DL1kwm/OP555DL1kwm:16/BP1A.241025.001/24CESX9D:user/release-keys
+OnePlus|OnePlus 11R 5G Premium EV|OP555DL13cw|OnePlus/OP555DL13cw/OP555DL13cw:16/BP1A.241025.001/0XGS97VF:user/release-keys
 OnePlus|OnePlus 11R 5G|OP555DL1|OnePlus/OP555DL1/OP555DL1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+OnePlus|OnePlus 12 GT LB|OP5B73L1dhj|OnePlus/OP5B73L1dhj/OP5B73L1dhj:16/BP1A.241025.001/J3PXPKAC:user/release-keys
+OnePlus|OnePlus 12 Mini FT|OP5B73L1i8d|OnePlus/OP5B73L1i8d/OP5B73L1i8d:16/BP1A.241025.001/RBB9L84T:user/release-keys
+OnePlus|OnePlus 12 NE WL|OP5B73L1dfi|OnePlus/OP5B73L1dfi/OP5B73L1dfi:16/BP1A.241025.001/7768SEKC:user/release-keys
+OnePlus|OnePlus 12 Premium U7|OP5B73L1qzf|OnePlus/OP5B73L1qzf/OP5B73L1qzf:16/BP1A.241025.001/XW1IQDOH:user/release-keys
+OnePlus|OnePlus 12 e M8|OP5B73L1fj1|OnePlus/OP5B73L1fj1/OP5B73L1fj1:16/BP1A.241025.001/BYL875AE:user/release-keys
 OnePlus|OnePlus 12R|OP5B75L1|OnePlus/OP5B75L1/OP5B75L1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
 OnePlus|OnePlus 12|OP5B73L1|OnePlus/OP5B73L1/OP5B73L1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
 OnePlus|OnePlus 13|OP5C1DL1|OnePlus/OP5C1DL1/OP5C1DL1:16/BP1A.241025.001/U.15.0.0.201(CN01):user/release-keys
+OnePlus|OnePlus Nord 3 5G 5G GW|OP5567L14ws|OnePlus/OP5567L14ws/OP5567L14ws:16/BP1A.241025.001/6UM7BBLB:user/release-keys
+OnePlus|OnePlus Nord 3 5G FE 22|OP5567L1o4w|OnePlus/OP5567L1o4w/OP5567L1o4w:16/BP1A.241025.001/7JTAQFVV:user/release-keys
+OnePlus|OnePlus Nord 3 5G Flip IZ|OP5567L1uva|OnePlus/OP5567L1uva/OP5567L1uva:16/BP1A.241025.001/9AHT3G61:user/release-keys
+OnePlus|OnePlus Nord 3 5G NE EE|OP5567L1byi|OnePlus/OP5567L1byi/OP5567L1byi:16/BP1A.241025.001/774LUD26:user/release-keys
+OnePlus|OnePlus Nord 3 5G NE Y9|OP5567L13k7|OnePlus/OP5567L13k7/OP5567L13k7:16/BP1A.241025.001/UX6UGUSF:user/release-keys
+OnePlus|OnePlus Nord 3 5G Pro A9|OP5567L1rz9|OnePlus/OP5567L1rz9/OP5567L1rz9:16/BP1A.241025.001/P3KHFUIZ:user/release-keys
+OnePlus|OnePlus Nord 3 5G Pro Max 5J|OP5567L1921|OnePlus/OP5567L1921/OP5567L1921:16/BP1A.241025.001/HABSD2VM:user/release-keys
+OnePlus|OnePlus Nord 3 5G e HT|OP5567L1vpp|OnePlus/OP5567L1vpp/OP5567L1vpp:16/BP1A.241025.001/CAJ048RW:user/release-keys
 OnePlus|OnePlus Nord 3 5G|OP5567L1|OnePlus/OP5567L1/OP5567L1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+OnePlus|OnePlus Nord 4 5G UW JA|OP5C81L1lo9|OnePlus/OP5C81L1lo9/OP5C81L1lo9:16/BP1A.241025.001/8NEYK81Y:user/release-keys
+OnePlus|OnePlus Nord 4 Max YS|OP5C81L1jr0|OnePlus/OP5C81L1jr0/OP5C81L1jr0:16/BP1A.241025.001/CG1P8RE0:user/release-keys
+OnePlus|OnePlus Nord 4 Premium Q9|OP5C81L1mnh|OnePlus/OP5C81L1mnh/OP5C81L1mnh:16/BP1A.241025.001/FWFVH09E:user/release-keys
 OnePlus|OnePlus Nord 4|OP5C81L1|OnePlus/OP5C81L1/OP5C81L1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+OnePlus|OnePlus Nord CE4 Flip IR|OP5B79L1wji|OnePlus/OP5B79L1wji/OP5B79L1wji:16/BP1A.241025.001/CB7IWRBB:user/release-keys
+OnePlus|OnePlus Nord CE4 SE O2|OP5B79L1jdv|OnePlus/OP5B79L1jdv/OP5B79L1jdv:16/BP1A.241025.001/6D2U2TOO:user/release-keys
+OnePlus|OnePlus Nord CE4 e KN|OP5B79L1ff9|OnePlus/OP5B79L1ff9/OP5B79L1ff9:16/BP1A.241025.001/9O7A49WR:user/release-keys
 OnePlus|OnePlus Nord CE4|OP5B79L1|OnePlus/OP5B79L1/OP5B79L1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+OnePlus|OnePlus Open FE 35|OP5157L1s6x|OnePlus/OP5157L1s6x/OP5157L1s6x:16/BP1A.241025.001/HTMFJOTQ:user/release-keys
+OnePlus|OnePlus Open Pro WY|OP5157L1rk7|OnePlus/OP5157L1rk7/OP5157L1rk7:16/BP1A.241025.001/HNNG8EI0:user/release-keys
 OnePlus|OnePlus Open|OP5157L1|OnePlus/OP5157L1/OP5157L1:16/BP1A.241025.001/U.15.0.0.108(EX01):user/release-keys
+Oppo|Find N3 Flip GT R4|OP556DL1r5h|OPPO/OP556DL1r5h/OP556DL1r5h:16/BP1A.241025.001/E33D7WA9:user/release-keys
+Oppo|Find N3 Flip Pro Max H9|OP556DL1iz6|OPPO/OP556DL1iz6/OP556DL1iz6:16/BP1A.241025.001/Z17M5M4D:user/release-keys
+Oppo|Find N3 Flip Pro Max OX|OP556DL18os|OPPO/OP556DL18os/OP556DL18os:16/BP1A.241025.001/CVWCBKNI:user/release-keys
 Oppo|Find N3 Flip|OP556DL1|OPPO/OP556DL1/OP556DL1:16/BP1A.241025.001/U.15.0.0.105(EX01):user/release-keys
+Oppo|Find N3 e E1|OP5157L1ph5|OPPO/OP5157L1ph5/OP5157L1ph5:16/BP1A.241025.001/NWO3SDV0:user/release-keys
 Oppo|Find N3|OP5157L1|OPPO/OP5157L1/OP5157L1:16/BP1A.241025.001/U.15.0.0.105(EX01):user/release-keys
+Oppo|Find X6 Active WP|OP5557L1aqj|OPPO/OP5557L1aqj/OP5557L1aqj:16/BP1A.241025.001/F3S3TZYA:user/release-keys
+Oppo|Find X6 Active X5|OP5557L1xir|OPPO/OP5557L1xir/OP5557L1xir:16/BP1A.241025.001/MVGD0PYS:user/release-keys
+Oppo|Find X6 FE RM|OP5557L1iyi|OPPO/OP5557L1iyi/OP5557L1iyi:16/BP1A.241025.001/BCKFOWYL:user/release-keys
+Oppo|Find X6 Fold ZO|OP5557L1f6c|OPPO/OP5557L1f6c/OP5557L1f6c:16/BP1A.241025.001/DEOMWID8:user/release-keys
+Oppo|Find X6 Lite 2A|OP5557L15du|OPPO/OP5557L15du/OP5557L15du:16/BP1A.241025.001/GYZWHXSM:user/release-keys
+Oppo|Find X6 Lite CY|OP5557L1yzh|OPPO/OP5557L1yzh/OP5557L1yzh:16/BP1A.241025.001/YAQK1F9I:user/release-keys
+Oppo|Find X6 Lite EM|OP5557L1ml2|OPPO/OP5557L1ml2/OP5557L1ml2:16/BP1A.241025.001/T8W8EHU5:user/release-keys
+Oppo|Find X6 Plus 5G 5A|OP5557L159d|OPPO/OP5557L159d/OP5557L159d:16/BP1A.241025.001/IM5G7217:user/release-keys
+Oppo|Find X6 Pro 4G DQ|OP5559L1ua4|OPPO/OP5559L1ua4/OP5559L1ua4:16/BP1A.241025.001/14AGBFLN:user/release-keys
+Oppo|Find X6 Pro Premium 14|OP5559L12r7|OPPO/OP5559L12r7/OP5559L12r7:16/BP1A.241025.001/FU26NGH7:user/release-keys
+Oppo|Find X6 Pro i 52|OP5559L1a52|OPPO/OP5559L1a52/OP5559L1a52:16/BP1A.241025.001/SW8F14ME:user/release-keys
 Oppo|Find X6 Pro|OP5559L1|OPPO/OP5559L1/OP5559L1:16/BP1A.241025.001/U.15.0.0.105(CN01):user/release-keys
 Oppo|Find X6|OP5557L1|OPPO/OP5557L1/OP5557L1:16/BP1A.241025.001/U.15.0.0.105(CN01):user/release-keys
+Oppo|Find X7 Flip 61|OP5A55L1n5c|OPPO/OP5A55L1n5c/OP5A55L1n5c:16/BP1A.241025.001/5KT0DTMN:user/release-keys
+Oppo|Find X7 Ultra Active C1|OP5A57L1vw6|OPPO/OP5A57L1vw6/OP5A57L1vw6:16/BP1A.241025.001/R1JDLT0Y:user/release-keys
+Oppo|Find X7 Ultra Max B4|OP5A57L1jvj|OPPO/OP5A57L1jvj/OP5A57L1jvj:16/BP1A.241025.001/5YVP9HDI:user/release-keys
+Oppo|Find X7 Ultra NE R9|OP5A57L1vg9|OPPO/OP5A57L1vg9/OP5A57L1vg9:16/BP1A.241025.001/FJF6UYPV:user/release-keys
+Oppo|Find X7 Ultra Plus 6J|OP5A57L1k1r|OPPO/OP5A57L1k1r/OP5A57L1k1r:16/BP1A.241025.001/S4N1EDL5:user/release-keys
+Oppo|Find X7 Ultra SE R6|OP5A57L1dvq|OPPO/OP5A57L1dvq/OP5A57L1dvq:16/BP1A.241025.001/KF8UP3EF:user/release-keys
 Oppo|Find X7 Ultra|OP5A57L1|OPPO/OP5A57L1/OP5A57L1:16/BP1A.241025.001/U.15.0.0.201(CN01):user/release-keys
+Oppo|Find X7 i L3|OP5A55L1z7q|OPPO/OP5A55L1z7q/OP5A55L1z7q:16/BP1A.241025.001/Z2P2ZY1D:user/release-keys
 Oppo|Find X7|OP5A55L1|OPPO/OP5A55L1/OP5A55L1:16/BP1A.241025.001/U.15.0.0.201(CN01):user/release-keys
+Oppo|Find X8 Max WW|OP5BAEL2qxr|OPPO/OP5BAEL2qxr/OP5BAEL2qxr:16/BP1A.241025.001/NHLE9A0L:user/release-keys
+Oppo|Find X8 Mini L2|OP5BAEL2mry|OPPO/OP5BAEL2mry/OP5BAEL2mry:16/BP1A.241025.001/KV2WLKYT:user/release-keys
+Oppo|Find X8 NE TI|OP5BAEL28n0|OPPO/OP5BAEL28n0/OP5BAEL28n0:16/BP1A.241025.001/7XXZXX2A:user/release-keys
 Oppo|Find X8 Pro|OP5BAEL1|OPPO/OP5BAEL1/OP5BAEL1:16/BP1A.241025.001/U.15.0.0.301(CN01):user/release-keys
+Oppo|Find X8 e US|OP5BAEL239s|OPPO/OP5BAEL239s/OP5BAEL239s:16/BP1A.241025.001/528SE7T6:user/release-keys
 Oppo|Find X8|OP5BAEL2|OPPO/OP5BAEL2/OP5BAEL2:16/BP1A.241025.001/U.15.0.0.301(CN01):user/release-keys
+Oppo|Reno 11 5G FE 5U|OP5A59L10nk|OPPO/OP5A59L10nk/OP5A59L10nk:16/BP1A.241025.001/WNHOSZIY:user/release-keys
+Oppo|Reno 11 5G Lite BU|OP5A59L1mzc|OPPO/OP5A59L1mzc/OP5A59L1mzc:16/BP1A.241025.001/1SW6O3WN:user/release-keys
 Oppo|Reno 11 5G|OP5A59L1|OPPO/OP5A59L1/OP5A59L1:16/BP1A.241025.001/U.15.0.0.105(EX01):user/release-keys
+Oppo|Reno 11 Pro 5G Active 6S|OP5A5BL10p4|OPPO/OP5A5BL10p4/OP5A5BL10p4:16/BP1A.241025.001/GZV9B45A:user/release-keys
+Oppo|Reno 11 Pro 5G Premium 2P|OP5A5BL18bg|OPPO/OP5A5BL18bg/OP5A5BL18bg:16/BP1A.241025.001/SDICXYCK:user/release-keys
+Oppo|Reno 11 Pro 5G Ultra 0M|OP5A5BL1vv4|OPPO/OP5A5BL1vv4/OP5A5BL1vv4:16/BP1A.241025.001/15MH1Y5B:user/release-keys
+Oppo|Reno 11 Pro 5G Ultra E8|OP5A5BL1yvo|OPPO/OP5A5BL1yvo/OP5A5BL1yvo:16/BP1A.241025.001/QWGAV8ZL:user/release-keys
+Oppo|Reno 11 Pro 5G e 92|OP5A5BL1ik8|OPPO/OP5A5BL1ik8/OP5A5BL1ik8:16/BP1A.241025.001/32QFW3G4:user/release-keys
 Oppo|Reno 11 Pro 5G|OP5A5BL1|OPPO/OP5A5BL1/OP5A5BL1:16/BP1A.241025.001/U.15.0.0.105(EX01):user/release-keys
+Oppo|Reno 12 Lite 69|OP5C63L1o9z|OPPO/OP5C63L1o9z/OP5C63L1o9z:16/BP1A.241025.001/TLKD2PN1:user/release-keys
+Oppo|Reno 12 Lite 89|OP5C63L1ujj|OPPO/OP5C63L1ujj/OP5C63L1ujj:16/BP1A.241025.001/J495T25W:user/release-keys
+Oppo|Reno 12 Plus CT|OP5C63L1q0q|OPPO/OP5C63L1q0q/OP5C63L1q0q:16/BP1A.241025.001/3TBQW3M4:user/release-keys
+Oppo|Reno 12 Pro Max 5Q|OP5C63L1vgw|OPPO/OP5C63L1vgw/OP5C63L1vgw:16/BP1A.241025.001/2IHRQCG8:user/release-keys
 Oppo|Reno 12 Pro|OP5C61L1|OPPO/OP5C61L1/OP5C61L1:16/BP1A.241025.001/U.15.0.0.105(EX01):user/release-keys
+Oppo|Reno 12 S 07|OP5C63L10rq|OPPO/OP5C63L10rq/OP5C63L10rq:16/BP1A.241025.001/97FVPYT1:user/release-keys
 Oppo|Reno 12|OP5C63L1|OPPO/OP5C63L1/OP5C63L1:16/BP1A.241025.001/U.15.0.0.105(EX01):user/release-keys
+Realme|11 Pro 5G Mini GB|RE5565L196a|realme/RE5565L196a/RE5565L196a:16/BP1A.241025.001/WWW92LWC:user/release-keys
+Realme|11 Pro 5G Mini MD|RE5565L1xjw|realme/RE5565L1xjw/RE5565L1xjw:16/BP1A.241025.001/JR1M1UTK:user/release-keys
+Realme|11 Pro 5G e TI|RE5565L1q40|realme/RE5565L1q40/RE5565L1q40:16/BP1A.241025.001/NUT13BZJ:user/release-keys
 Realme|11 Pro 5G|RE5565L1|realme/RE5565L1/RE5565L1:16/BP1A.241025.001/R.15.0.0.105(EX01):user/release-keys
+Realme|11 Pro+ 5G FE M2|RE5567L1ef8|realme/RE5567L1ef8/RE5567L1ef8:16/BP1A.241025.001/AYGEZ1O4:user/release-keys
+Realme|11 Pro+ 5G Lite QJ|RE5567L1ati|realme/RE5567L1ati/RE5567L1ati:16/BP1A.241025.001/XM7B6GZO:user/release-keys
+Realme|11 Pro+ 5G Premium Z2|RE5567L1hjc|realme/RE5567L1hjc/RE5567L1hjc:16/BP1A.241025.001/JPI4SFMF:user/release-keys
+Realme|11 Pro+ 5G S 58|RE5567L1ovh|realme/RE5567L1ovh/RE5567L1ovh:16/BP1A.241025.001/M1G1MLNF:user/release-keys
+Realme|11 Pro+ 5G T GL|RE5567L1k7r|realme/RE5567L1k7r/RE5567L1k7r:16/BP1A.241025.001/7N9RHP2Y:user/release-keys
 Realme|11 Pro+ 5G|RE5567L1|realme/RE5567L1/RE5567L1:16/BP1A.241025.001/R.15.0.0.105(EX01):user/release-keys
+Realme|12 Pro 5G Premium B8|RE5A59L1qwr|realme/RE5A59L1qwr/RE5A59L1qwr:16/BP1A.241025.001/4QBK3SAE:user/release-keys
+Realme|12 Pro 5G SE 3R|RE5A59L1k36|realme/RE5A59L1k36/RE5A59L1k36:16/BP1A.241025.001/R6OPUC2F:user/release-keys
+Realme|12 Pro 5G e 1Q|RE5A59L1r1h|realme/RE5A59L1r1h/RE5A59L1r1h:16/BP1A.241025.001/ZIEAN9K5:user/release-keys
 Realme|12 Pro 5G|RE5A59L1|realme/RE5A59L1/RE5A59L1:16/BP1A.241025.001/R.15.0.0.105(EX01):user/release-keys
+Realme|12 Pro+ 5G Fold NH|RE5A5BL17yn|realme/RE5A5BL17yn/RE5A5BL17yn:16/BP1A.241025.001/9YS0FDA1:user/release-keys
+Realme|12 Pro+ 5G Max K0|RE5A5BL1d3f|realme/RE5A5BL1d3f/RE5A5BL1d3f:16/BP1A.241025.001/Z7PLP59F:user/release-keys
+Realme|12 Pro+ 5G Max KQ|RE5A5BL1ek2|realme/RE5A5BL1ek2/RE5A5BL1ek2:16/BP1A.241025.001/6XHE5WGJ:user/release-keys
+Realme|12 Pro+ 5G NE 3P|RE5A5BL19ci|realme/RE5A5BL19ci/RE5A5BL19ci:16/BP1A.241025.001/J880NPBZ:user/release-keys
 Realme|12 Pro+ 5G|RE5A5BL1|realme/RE5A5BL1/RE5A5BL1:16/BP1A.241025.001/R.15.0.0.105(EX01):user/release-keys
+Realme|12+ 5G Flip NH|RE5C11L1mo6|realme/RE5C11L1mo6/RE5C11L1mo6:16/BP1A.241025.001/2KR51NRB:user/release-keys
+Realme|12+ 5G Premium 2K|RE5C11L13i6|realme/RE5C11L13i6/RE5C11L13i6:16/BP1A.241025.001/DMPAFN05:user/release-keys
+Realme|12+ 5G Pro KM|RE5C11L1ctb|realme/RE5C11L1ctb/RE5C11L1ctb:16/BP1A.241025.001/Q8FPQBQ6:user/release-keys
+Realme|12+ 5G e II|RE5C11L19gv|realme/RE5C11L19gv/RE5C11L19gv:16/BP1A.241025.001/E8FT64GS:user/release-keys
 Realme|12+ 5G|RE5C11L1|realme/RE5C11L1/RE5C11L1:16/BP1A.241025.001/R.15.0.0.105(EX01):user/release-keys
+Realme|GT 5 Pro Fold WW|RE555BL1k3c|realme/RE555BL1k3c/RE555BL1k3c:16/BP1A.241025.001/OYRA46NY:user/release-keys
+Realme|GT 5 Pro Pro Max EN|RE555BL1tml|realme/RE555BL1tml/RE555BL1tml:16/BP1A.241025.001/K00PCHZL:user/release-keys
 Realme|GT 5 Pro|RE555BL1|realme/RE555BL1/RE555BL1:16/BP1A.241025.001/R.15.0.0.105(CN01):user/release-keys
+Realme|GT 6 Flip DE|RE5C53L1rsk|realme/RE5C53L1rsk/RE5C53L1rsk:16/BP1A.241025.001/0SNW1XG7:user/release-keys
+Realme|GT 6 Fold RB|RE5C53L10u4|realme/RE5C53L10u4/RE5C53L10u4:16/BP1A.241025.001/QGEAR1F1:user/release-keys
+Realme|GT 6 NE NH|RE5C53L1o9m|realme/RE5C53L1o9m/RE5C53L1o9m:16/BP1A.241025.001/OI1210NH:user/release-keys
+Realme|GT 6 e 52|RE5C53L13yk|realme/RE5C53L13yk/RE5C53L13yk:16/BP1A.241025.001/CJ1JZRF0:user/release-keys
+Realme|GT 6T 4G ND|RE5C55L1lwy|realme/RE5C55L1lwy/RE5C55L1lwy:16/BP1A.241025.001/46CAKC8T:user/release-keys
+Realme|GT 6T Flip HN|RE5C55L11bu|realme/RE5C55L11bu/RE5C55L11bu:16/BP1A.241025.001/01TM5O66:user/release-keys
+Realme|GT 6T Max 9M|RE5C55L18gn|realme/RE5C55L18gn/RE5C55L18gn:16/BP1A.241025.001/SHHHNE12:user/release-keys
+Realme|GT 6T Plus 3G|RE5C55L1tmy|realme/RE5C55L1tmy/RE5C55L1tmy:16/BP1A.241025.001/CBMHMQWL:user/release-keys
+Realme|GT 6T Pro VX|RE5C55L1gf3|realme/RE5C55L1gf3/RE5C55L1gf3:16/BP1A.241025.001/2S1NR9IX:user/release-keys
+Realme|GT 6T Ultra I7|RE5C55L13vs|realme/RE5C55L13vs/RE5C55L13vs:16/BP1A.241025.001/W3OD6T4U:user/release-keys
 Realme|GT 6T|RE5C55L1|realme/RE5C55L1/RE5C55L1:16/BP1A.241025.001/R.15.0.0.105(EX01):user/release-keys
 Realme|GT 6|RE5C53L1|realme/RE5C53L1/RE5C53L1:16/BP1A.241025.001/R.15.0.0.105(EX01):user/release-keys
+Samsung|Galaxy A15 5G 5G RH|a15x0cv|samsung/a15x0cv/a15x0cv:16/BP1A.241025.001/QCLM2ZAB:user/release-keys
+Samsung|Galaxy A15 5G GT 43|a15xc4b|samsung/a15xc4b/a15xc4b:16/BP1A.241025.001/YOP10V5V:user/release-keys
+Samsung|Galaxy A15 5G NE LC|a15xe4j|samsung/a15xe4j/a15xe4j:16/BP1A.241025.001/ORRW1PW0:user/release-keys
+Samsung|Galaxy A15 5G Premium TS|a15x3rf|samsung/a15x3rf/a15x3rf:16/BP1A.241025.001/8ZXN6T1R:user/release-keys
+Samsung|Galaxy A15 5G SE 80|a15xkfz|samsung/a15xkfz/a15xkfz:16/BP1A.241025.001/70WECSFP:user/release-keys
+Samsung|Galaxy A15 5G SE C6|a15xdxg|samsung/a15xdxg/a15xdxg:16/BP1A.241025.001/RDSR5HVB:user/release-keys
+Samsung|Galaxy A15 5G Ultra T0|a15x53a|samsung/a15x53a/a15x53a:16/BP1A.241025.001/BUP8PH5I:user/release-keys
 Samsung|Galaxy A15 5G|a15x|samsung/a15xsq/a15x:16/BP1A.241025.001/A156BXXS4AXD1:user/release-keys
+Samsung|Galaxy A25 5G Plus 5G QP|a25x337|samsung/a25x337/a25x337:16/BP1A.241025.001/9ZKWKSSK:user/release-keys
+Samsung|Galaxy A25 5G T NC|a25xp5e|samsung/a25xp5e/a25xp5e:16/BP1A.241025.001/UOMAN47N:user/release-keys
 Samsung|Galaxy A25 5G|a25x|samsung/a25xsq/a25x:16/BP1A.241025.001/A256BXXS4AXD1:user/release-keys
+Samsung|Galaxy A34 5G 5G UW OV|a34xmua|samsung/a34xmua/a34xmua:16/BP1A.241025.001/LXCKDFDY:user/release-keys
+Samsung|Galaxy A34 5G GT BV|a34x45y|samsung/a34x45y/a34x45y:16/BP1A.241025.001/15HSFV04:user/release-keys
+Samsung|Galaxy A34 5G Lite IP|a34xreq|samsung/a34xreq/a34xreq:16/BP1A.241025.001/FQVG9LI6:user/release-keys
 Samsung|Galaxy A34 5G|a34x|samsung/a34xsq/a34x:16/BP1A.241025.001/A346BXXS4AXD1:user/release-keys
+Samsung|Galaxy A35 5G Active UV|a35xe9a|samsung/a35xe9a/a35xe9a:16/BP1A.241025.001/HLY80Y50:user/release-keys
+Samsung|Galaxy A35 5G Pro T4|a35xm3n|samsung/a35xm3n/a35xm3n:16/BP1A.241025.001/D3IZ5YW9:user/release-keys
+Samsung|Galaxy A35 5G SE AQ|a35xzyh|samsung/a35xzyh/a35xzyh:16/BP1A.241025.001/AF6ZQE7K:user/release-keys
 Samsung|Galaxy A35 5G|a35x|samsung/a35xsq/a35x:16/BP1A.241025.001/A356BXXS4AXD1:user/release-keys
+Samsung|Galaxy A54 5G 5G V3|a54x39i|samsung/a54x39i/a54x39i:16/BP1A.241025.001/I4UBLBAU:user/release-keys
+Samsung|Galaxy A54 5G Active YS|a54xmvm|samsung/a54xmvm/a54xmvm:16/BP1A.241025.001/ZJQA20T0:user/release-keys
+Samsung|Galaxy A54 5G Pro MS|a54xtqx|samsung/a54xtqx/a54xtqx:16/BP1A.241025.001/72TRI6RP:user/release-keys
+Samsung|Galaxy A54 5G Ultra A1|a54x2m8|samsung/a54x2m8/a54x2m8:16/BP1A.241025.001/AUUCQJ83:user/release-keys
 Samsung|Galaxy A54 5G|a54x|samsung/a54xsq/a54x:16/BP1A.241025.001/A546BXXS4AXD1:user/release-keys
 Samsung|Galaxy A55 5G|a55x|samsung/a55xsq/a55x:16/BP1A.241025.001/A556BXXS4AXD1:user/release-keys
+Samsung|Galaxy S23 FE Max 86|r11qorz|samsung/r11qorz/r11qorz:16/BP1A.241025.001/FAYHM9FK:user/release-keys
+Samsung|Galaxy S23 FE Mini 11|r11q0b6|samsung/r11q0b6/r11q0b6:16/BP1A.241025.001/X64H7N9C:user/release-keys
+Samsung|Galaxy S23 FE T EQ|r11qdmd|samsung/r11qdmd/r11qdmd:16/BP1A.241025.001/H4SXZ3NL:user/release-keys
 Samsung|Galaxy S23 FE|r11q|samsung/r11qsqw/r11q:16/BP1A.241025.001/S711BXXS3AXC4:user/release-keys
+Samsung|Galaxy S23 Flip JJ|dm1ws9|samsung/dm1ws9/dm1ws9:16/BP1A.241025.001/19TY3VGX:user/release-keys
+Samsung|Galaxy S23 Mini 1W|dm12sx|samsung/dm12sx/dm12sx:16/BP1A.241025.001/ED69I99A:user/release-keys
+Samsung|Galaxy S23 Mini LH|dm1xaq|samsung/dm1xaq/dm1xaq:16/BP1A.241025.001/ECB1DSMF:user/release-keys
+Samsung|Galaxy S23 SE N5|dm1ft8|samsung/dm1ft8/dm1ft8:16/BP1A.241025.001/GC6J2WGL:user/release-keys
+Samsung|Galaxy S23 T S5|dm1z26|samsung/dm1z26/dm1z26:16/BP1A.241025.001/BKCQXK7R:user/release-keys
+Samsung|Galaxy S23 Ultra 5G|dm1vs6|samsung/dm1vs6/dm1vs6:16/BP1A.241025.001/6PSHQ0I2:user/release-keys
+Samsung|Galaxy S23 Ultra NE HD|dm3q9c9|samsung/dm3q9c9/dm3q9c9:16/BP1A.241025.001/F7VV4021:user/release-keys
+Samsung|Galaxy S23 Ultra Plus EM|dm3qowv|samsung/dm3qowv/dm3qowv:16/BP1A.241025.001/2X20UICF:user/release-keys
+Samsung|Galaxy S23 Ultra Pro 7B|dm3qvh6|samsung/dm3qvh6/dm3qvh6:16/BP1A.241025.001/Y16VG2ND:user/release-keys
+Samsung|Galaxy S23 Ultra Pro Max GM|dm3qq2o|samsung/dm3qq2o/dm3qq2o:16/BP1A.241025.001/FXNVILE2:user/release-keys
+Samsung|Galaxy S23 Ultra i 51|dm3q3h8|samsung/dm3q3h8/dm3q3h8:16/BP1A.241025.001/P5KXGDV8:user/release-keys
 Samsung|Galaxy S23 Ultra|dm3q|samsung/dm3qsqw/dm3q:16/BP1A.241025.001/S918BXXS3AXC4:user/release-keys
+Samsung|Galaxy S23+ NE PV|dm2upv|samsung/dm2upv/dm2upv:16/BP1A.241025.001/771PVAT3:user/release-keys
+Samsung|Galaxy S23+ T AX|dm2qrq|samsung/dm2qrq/dm2qrq:16/BP1A.241025.001/PKUBD8A8:user/release-keys
+Samsung|Galaxy S23+ Ultra PS|dm2lxk|samsung/dm2lxk/dm2lxk:16/BP1A.241025.001/5000G0F1:user/release-keys
+Samsung|Galaxy S23+ Ultra TH|dm2a0h|samsung/dm2a0h/dm2a0h:16/BP1A.241025.001/6F9ZFHAS:user/release-keys
 Samsung|Galaxy S23+|dm2|samsung/dm2sqw/dm2:16/BP1A.241025.001/S916BXXS3AXC4:user/release-keys
 Samsung|Galaxy S23|dm1|samsung/dm1sqw/dm1:16/BP1A.241025.001/S911BXXS3AXC4:user/release-keys
+Samsung|Galaxy S24 Flip 4C|e2b4l|samsung/e2b4l/e2b4l:16/BP1A.241025.001/M62I5YW2:user/release-keys
+Samsung|Galaxy S24 Flip HY|e223y|samsung/e223y/e223y:16/BP1A.241025.001/TYOGI5JL:user/release-keys
+Samsung|Galaxy S24 Flip LN|e2r8y|samsung/e2r8y/e2r8y:16/BP1A.241025.001/MFDJR4G6:user/release-keys
+Samsung|Galaxy S24 Fold 2N|e2btp|samsung/e2btp/e2btp:16/BP1A.241025.001/6VACDXRF:user/release-keys
+Samsung|Galaxy S24 Fold 4K|e2238|samsung/e2238/e2238:16/BP1A.241025.001/7UKO28KQ:user/release-keys
+Samsung|Galaxy S24 Plus 71|e2sae|samsung/e2sae/e2sae:16/BP1A.241025.001/GZIM25NJ:user/release-keys
+Samsung|Galaxy S24 Pro Max XJ|e22wo|samsung/e22wo/e22wo:16/BP1A.241025.001/CVZTJT5X:user/release-keys
+Samsung|Galaxy S24 S Z2|e2cpk|samsung/e2cpk/e2cpk:16/BP1A.241025.001/209I0HQA:user/release-keys
+Samsung|Galaxy S24 Ultra e J3|e2qgfm|samsung/e2qgfm/e2qgfm:16/BP1A.241025.001/POIT6LXT:user/release-keys
 Samsung|Galaxy S24 Ultra|e2q|samsung/e2qsqw/e2q:16/BP1A.241025.001/S928BXXS3AXC4:user/release-keys
 Samsung|Galaxy S24+|e2s|samsung/e2ssqw/e2s:16/BP1A.241025.001/S926BXXS3AXC4:user/release-keys
 Samsung|Galaxy S24|e2|samsung/e2sqw/e2:16/BP1A.241025.001/S921BXXS3AXC4:user/release-keys
+Samsung|Galaxy S25 4G 3F|e39ny|samsung/e39ny/e39ny:16/BP1A.241025.001/NWMDXST7:user/release-keys
+Samsung|Galaxy S25 Lite 7G|e3ln5|samsung/e3ln5/e3ln5:16/BP1A.241025.001/5FL6ZDCC:user/release-keys
+Samsung|Galaxy S25 NE XF|e3urh|samsung/e3urh/e3urh:16/BP1A.241025.001/440WQGE8:user/release-keys
+Samsung|Galaxy S25 Premium 1L|e3ncm|samsung/e3ncm/e3ncm:16/BP1A.241025.001/W1DOGVR4:user/release-keys
+Samsung|Galaxy S25 S TP|e3dut|samsung/e3dut/e3dut:16/BP1A.241025.001/DI9F5Q04:user/release-keys
 Samsung|Galaxy S25 Ultra|e3q|samsung/e3qsqw/e3q:16/BP1A.241025.001/S938BXXU1AXA1:user/release-keys
+Samsung|Galaxy S25+ FE TP|e3s7st|samsung/e3s7st/e3s7st:16/BP1A.241025.001/KMWXR7X7:user/release-keys
+Samsung|Galaxy S25+ Fold 6P|e3ssw1|samsung/e3ssw1/e3ssw1:16/BP1A.241025.001/HXZ6BSI7:user/release-keys
+Samsung|Galaxy S25+ GT 3P|e3s3ep|samsung/e3s3ep/e3s3ep:16/BP1A.241025.001/6DZFW2MQ:user/release-keys
+Samsung|Galaxy S25+ GT RS|e3s8vl|samsung/e3s8vl/e3s8vl:16/BP1A.241025.001/IPQVMZ94:user/release-keys
+Samsung|Galaxy S25+ NE A5|e3s8pe|samsung/e3s8pe/e3s8pe:16/BP1A.241025.001/FECL81R0:user/release-keys
+Samsung|Galaxy S25+ Pro 4W|e3skpy|samsung/e3skpy/e3skpy:16/BP1A.241025.001/IHFRJTAZ:user/release-keys
 Samsung|Galaxy S25+|e3s|samsung/e3ssqw/e3s:16/BP1A.241025.001/S936BXXU1AXA1:user/release-keys
 Samsung|Galaxy S25|e3|samsung/e3sqw/e3:16/BP1A.241025.001/S931BXXU1AXA1:user/release-keys
+Samsung|Galaxy Z Flip5 FE 2O|b5h5p|samsung/b5h5p/b5h5p:16/BP1A.241025.001/4PXWV8IA:user/release-keys
+Samsung|Galaxy Z Flip5 i WX|b5nem|samsung/b5nem/b5nem:16/BP1A.241025.001/EU1BDIIY:user/release-keys
 Samsung|Galaxy Z Flip5|b5|samsung/b5sqw/b5:16/BP1A.241025.001/F731BXXS3AXC4:user/release-keys
+Samsung|Galaxy Z Flip6 5G UW IH|b6tdl|samsung/b6tdl/b6tdl:16/BP1A.241025.001/VK8AMSED:user/release-keys
+Samsung|Galaxy Z Flip6 Active E3|b6pkd|samsung/b6pkd/b6pkd:16/BP1A.241025.001/NN4QFUOI:user/release-keys
+Samsung|Galaxy Z Flip6 Active LA|b6qet|samsung/b6qet/b6qet:16/BP1A.241025.001/37PH6R1I:user/release-keys
+Samsung|Galaxy Z Flip6 Plus 5G WD|b66gg|samsung/b66gg/b66gg:16/BP1A.241025.001/LY9DM377:user/release-keys
+Samsung|Galaxy Z Flip6 Pro 2A|b6ogf|samsung/b6ogf/b6ogf:16/BP1A.241025.001/IE748ZJC:user/release-keys
+Samsung|Galaxy Z Flip6 i KQ|b60ul|samsung/b60ul/b60ul:16/BP1A.241025.001/2SJGY9QB:user/release-keys
 Samsung|Galaxy Z Flip6|b6|samsung/b6sqw/b6:16/BP1A.241025.001/F741BXXU1AXA1:user/release-keys
+Samsung|Galaxy Z Fold5 Active CH|q5cxc|samsung/q5cxc/q5cxc:16/BP1A.241025.001/UDGLUB2L:user/release-keys
+Samsung|Galaxy Z Fold5 Max A9|q5k00|samsung/q5k00/q5k00:16/BP1A.241025.001/W9JMT3LL:user/release-keys
+Samsung|Galaxy Z Fold5 Plus 5G OH|q5g0y|samsung/q5g0y/q5g0y:16/BP1A.241025.001/ZM2ULNPG:user/release-keys
+Samsung|Galaxy Z Fold5 Plus OR|q5u09|samsung/q5u09/q5u09:16/BP1A.241025.001/P8WIQXLD:user/release-keys
 Samsung|Galaxy Z Fold5|q5|samsung/q5sqw/q5:16/BP1A.241025.001/F946BXXS3AXC4:user/release-keys
+Samsung|Galaxy Z Fold6 5G JU|q6a8l|samsung/q6a8l/q6a8l:16/BP1A.241025.001/YSIHHTUC:user/release-keys
+Samsung|Galaxy Z Fold6 Lite N1|q61vk|samsung/q61vk/q61vk:16/BP1A.241025.001/G0C0T70Q:user/release-keys
+Samsung|Galaxy Z Fold6 Plus 5G UT|q65hm|samsung/q65hm/q65hm:16/BP1A.241025.001/F1TYA3UI:user/release-keys
+Samsung|Galaxy Z Fold6 T UP|q62dd|samsung/q62dd/q62dd:16/BP1A.241025.001/X6LZSM0C:user/release-keys
 Samsung|Galaxy Z Fold6|q6|samsung/q6sqw/q6:16/BP1A.241025.001/F956BXXU1AXA1:user/release-keys
+Sony|Xperia 1 IV 4G D8|XQ-CT54rmg|Sony/XQ-CT54rmg/XQ-CT54rmg:16/BP1A.241025.001/G1OLGBVA:user/release-keys
+Sony|Xperia 1 IV Flip 3P|XQ-CT54g89|Sony/XQ-CT54g89/XQ-CT54g89:16/BP1A.241025.001/1M2710UY:user/release-keys
+Sony|Xperia 1 IV SE RX|XQ-CT54ocj|Sony/XQ-CT54ocj/XQ-CT54ocj:16/BP1A.241025.001/25GGHBEL:user/release-keys
 Sony|Xperia 1 IV|XQ-CT54|Sony/XQ-CT54_EEA/XQ-CT54:16/BP1A.241025.001/69.0.A.2.44:user/release-keys
 Sony|Xperia 1 VI|XQ-EC54|Sony/XQ-EC54_EEA/XQ-EC54:16/BP1A.241025.001/69.0.A.2.44:user/release-keys
 Sony|Xperia 1 V|XQ-DQ54|Sony/XQ-DQ54_EEA/XQ-DQ54:16/BP1A.241025.001/69.0.A.2.44:user/release-keys
+Sony|Xperia 10 IV 5G O4|XQ-CC546u1|Sony/XQ-CC546u1/XQ-CC546u1:16/BP1A.241025.001/OZQJVPE4:user/release-keys
+Sony|Xperia 10 IV FE NH|XQ-CC541wv|Sony/XQ-CC541wv/XQ-CC541wv:16/BP1A.241025.001/P8E1U0UO:user/release-keys
+Sony|Xperia 10 IV Fold K1|XQ-CC54yl7|Sony/XQ-CC54yl7/XQ-CC54yl7:16/BP1A.241025.001/J3AQYQN8:user/release-keys
+Sony|Xperia 10 IV GT DH|XQ-CC543ev|Sony/XQ-CC543ev/XQ-CC543ev:16/BP1A.241025.001/UBLD5PDZ:user/release-keys
+Sony|Xperia 10 IV Lite CN|XQ-CC54diw|Sony/XQ-CC54diw/XQ-CC54diw:16/BP1A.241025.001/CS5YPEBB:user/release-keys
+Sony|Xperia 10 IV Pro U2|XQ-CC54ew5|Sony/XQ-CC54ew5/XQ-CC54ew5:16/BP1A.241025.001/YCYN6LTK:user/release-keys
+Sony|Xperia 10 IV SE 1K|XQ-CC543ur|Sony/XQ-CC543ur/XQ-CC543ur:16/BP1A.241025.001/8ZNR4Z0A:user/release-keys
+Sony|Xperia 10 IV Ultra BY|XQ-CC544bd|Sony/XQ-CC544bd/XQ-CC544bd:16/BP1A.241025.001/G8PVNOOR:user/release-keys
 Sony|Xperia 10 IV|XQ-CC54|Sony/XQ-CC54_EEA/XQ-CC54:16/BP1A.241025.001/69.0.A.2.44:user/release-keys
+Sony|Xperia 10 V GT 95|XQ-DC54pci|Sony/XQ-DC54pci/XQ-DC54pci:16/BP1A.241025.001/IRVP3KVW:user/release-keys
 Sony|Xperia 10 V|XQ-DC54|Sony/XQ-DC54_EEA/XQ-DC54:16/BP1A.241025.001/69.0.A.2.44:user/release-keys
+Sony|Xperia 5 IV 5G 0V|XQ-CQ545pf|Sony/XQ-CQ545pf/XQ-CQ545pf:16/BP1A.241025.001/DYC28TMX:user/release-keys
+Sony|Xperia 5 IV Mini AR|XQ-CQ54rt3|Sony/XQ-CQ54rt3/XQ-CQ54rt3:16/BP1A.241025.001/KRGJZZ3F:user/release-keys
+Sony|Xperia 5 IV Mini PS|XQ-CQ54tmu|Sony/XQ-CQ54tmu/XQ-CQ54tmu:16/BP1A.241025.001/ZZ9LD0ZT:user/release-keys
+Sony|Xperia 5 IV Ultra CB|XQ-CQ54ku6|Sony/XQ-CQ54ku6/XQ-CQ54ku6:16/BP1A.241025.001/989VNTUX:user/release-keys
 Sony|Xperia 5 IV|XQ-CQ54|Sony/XQ-CQ54_EEA/XQ-CQ54:16/BP1A.241025.001/69.0.A.2.44:user/release-keys
+Sony|Xperia 5 V 4G OQ|XQ-DE54syr|Sony/XQ-DE54syr/XQ-DE54syr:16/BP1A.241025.001/VQYZYH2P:user/release-keys
+Sony|Xperia 5 V 5G UW 3O|XQ-DE548wg|Sony/XQ-DE548wg/XQ-DE548wg:16/BP1A.241025.001/5DE1L0SK:user/release-keys
+Sony|Xperia 5 V Active CJ|XQ-DE543hc|Sony/XQ-DE543hc/XQ-DE543hc:16/BP1A.241025.001/BUQ95V2X:user/release-keys
+Sony|Xperia 5 V Active JN|XQ-DE54nad|Sony/XQ-DE54nad/XQ-DE54nad:16/BP1A.241025.001/6Y2T9HJ1:user/release-keys
+Sony|Xperia 5 V Pro Max HT|XQ-DE54znh|Sony/XQ-DE54znh/XQ-DE54znh:16/BP1A.241025.001/A53KRFMX:user/release-keys
 Sony|Xperia 5 V|XQ-DE54|Sony/XQ-DE54_EEA/XQ-DE54:16/BP1A.241025.001/69.0.A.2.44:user/release-keys
+Vivo|V30 NE Z9|PD23189zh|vivo/PD23189zh/PD23189zh:16/BP1A.241025.001/9JAW0A8L:user/release-keys
+Vivo|V30 Pro Active J8|PD23190om|vivo/PD23190om/PD23190om:16/BP1A.241025.001/ZWLJH9WS:user/release-keys
+Vivo|V30 Pro Fold KP|PD2319thu|vivo/PD2319thu/PD2319thu:16/BP1A.241025.001/PFSOVDUX:user/release-keys
+Vivo|V30 Pro Fold RP|PD2319ohn|vivo/PD2319ohn/PD2319ohn:16/BP1A.241025.001/B0DJE5PO:user/release-keys
+Vivo|V30 Pro SE H5|PD2319piz|vivo/PD2319piz/PD2319piz:16/BP1A.241025.001/48FWZLMU:user/release-keys
 Vivo|V30 Pro|PD2319|vivo/PD2319/PD2319:16/BP1A.241025.001/compiler11122115:user/release-keys
+Vivo|V30 T 9N|PD2318v0q|vivo/PD2318v0q/PD2318v0q:16/BP1A.241025.001/PXI744TW:user/release-keys
+Vivo|V30 e LX|PD2318skr|vivo/PD2318skr/PD2318skr:16/BP1A.241025.001/D4WGT8J8:user/release-keys
+Vivo|V30 e TJ|PD231858c|vivo/PD231858c/PD231858c:16/BP1A.241025.001/N5U11AYH:user/release-keys
+Vivo|V30 i QZ|PD2318iq8|vivo/PD2318iq8/PD2318iq8:16/BP1A.241025.001/TSJ2MOSR:user/release-keys
+Vivo|V30 i XI|PD23180ov|vivo/PD23180ov/PD23180ov:16/BP1A.241025.001/FWV7C40K:user/release-keys
 Vivo|V30|PD2318|vivo/PD2318/PD2318:16/BP1A.241025.001/compiler11122115:user/release-keys
+Vivo|X Fold3 Fold T4|PD230307y|vivo/PD230307y/PD230307y:16/BP1A.241025.001/0GS2145H:user/release-keys
+Vivo|X Fold3 Premium TF|PD2303yj1|vivo/PD2303yj1/PD2303yj1:16/BP1A.241025.001/7KWDD30P:user/release-keys
+Vivo|X Fold3 Pro NE OQ|PD233760v|vivo/PD233760v/PD233760v:16/BP1A.241025.001/Q130ADXW:user/release-keys
+Vivo|X Fold3 Pro Ultra VK|PD2337ufm|vivo/PD2337ufm/PD2337ufm:16/BP1A.241025.001/92T5Y6F8:user/release-keys
+Vivo|X Fold3 Pro e QC|PD2337jtu|vivo/PD2337jtu/PD2337jtu:16/BP1A.241025.001/ZHZC2G35:user/release-keys
 Vivo|X Fold3 Pro|PD2337|vivo/PD2337/PD2337:16/BP1A.241025.001/compiler11122115:user/release-keys
+Vivo|X Fold3 e HJ|PD2303np4|vivo/PD2303np4/PD2303np4:16/BP1A.241025.001/FS6PFP1G:user/release-keys
+Vivo|X Fold3 i TL|PD2303r6o|vivo/PD2303r6o/PD2303r6o:16/BP1A.241025.001/1242MFTR:user/release-keys
 Vivo|X Fold3|PD2303|vivo/PD2303/PD2303:16/BP1A.241025.001/compiler11122115:user/release-keys
+Vivo|X100 Flip KA|PD2309luf|vivo/PD2309luf/PD2309luf:16/BP1A.241025.001/QIGFV922:user/release-keys
+Vivo|X100 Lite XW|PD2309tca|vivo/PD2309tca/PD2309tca:16/BP1A.241025.001/YSQGXF6D:user/release-keys
+Vivo|X100 Pro S ZW|PD232441p|vivo/PD232441p/PD232441p:16/BP1A.241025.001/DK18A2YU:user/release-keys
+Vivo|X100 Pro e 64|PD23244g1|vivo/PD23244g1/PD23244g1:16/BP1A.241025.001/UG1UDVZH:user/release-keys
 Vivo|X100 Pro|PD2324|vivo/PD2324/PD2324:16/BP1A.241025.001/compiler11122115:user/release-keys
 Vivo|X100|PD2309|vivo/PD2309/PD2309:16/BP1A.241025.001/compiler11122115:user/release-keys
 Vivo|X200 Pro|PD2405|vivo/PD2405/PD2405:16/BP1A.241025.001/compiler11122115:user/release-keys
+Vivo|X200 T TU|PD24046x7|vivo/PD24046x7/PD24046x7:16/BP1A.241025.001/DY16XL3P:user/release-keys
 Vivo|X200|PD2404|vivo/PD2404/PD2404:16/BP1A.241025.001/compiler11122115:user/release-keys
+Vivo|iQOO 12 Active ZD|PD2327c4d|vivo/PD2327c4d/PD2327c4d:16/BP1A.241025.001/IWJ4HSWJ:user/release-keys
+Vivo|iQOO 12 Pro H7|PD2327zb5|vivo/PD2327zb5/PD2327zb5:16/BP1A.241025.001/ILXY9L39:user/release-keys
+Vivo|iQOO 12 Pro Lite EK|PD2307vdu|vivo/PD2307vdu/PD2307vdu:16/BP1A.241025.001/S7YN31LE:user/release-keys
+Vivo|iQOO 12 Pro Plus 8P|PD2307tdd|vivo/PD2307tdd/PD2307tdd:16/BP1A.241025.001/HY3A45QW:user/release-keys
+Vivo|iQOO 12 Pro SE 5O|PD2307t2r|vivo/PD2307t2r/PD2307t2r:16/BP1A.241025.001/X9UK8CAS:user/release-keys
 Vivo|iQOO 12 Pro|PD2307|vivo/PD2307/PD2307:16/BP1A.241025.001/compiler11141930:user/release-keys
 Vivo|iQOO 12|PD2327|vivo/PD2327/PD2327:16/BP1A.241025.001/compiler11141930:user/release-keys
 Vivo|iQOO 13|PD2408|vivo/PD2408/PD2408:16/BP1A.241025.001/compiler11141930:user/release-keys
+Vivo|iQOO Neo9 5G UW XW|PD2338sf5|vivo/PD2338sf5/PD2338sf5:16/BP1A.241025.001/30VV05GU:user/release-keys
+Vivo|iQOO Neo9 Pro FE DQ|PD23399j2|vivo/PD23399j2/PD23399j2:16/BP1A.241025.001/2YH3PYCZ:user/release-keys
 Vivo|iQOO Neo9 Pro|PD2339|vivo/PD2339/PD2339:16/BP1A.241025.001/compiler11141930:user/release-keys
+Vivo|iQOO Neo9 SE TO|PD2338jgf|vivo/PD2338jgf/PD2338jgf:16/BP1A.241025.001/VOO92KTH:user/release-keys
 Vivo|iQOO Neo9|PD2338|vivo/PD2338/PD2338:16/BP1A.241025.001/compiler11141930:user/release-keys
+Xiaomi|POCO F5 Flip 4Z|marblejpa|POCO/marblejpa/marblejpa:16/BP1A.241025.001/9F07CRTI:user/release-keys
+Xiaomi|POCO F5 Max RX|marblew08|POCO/marblew08/marblew08:16/BP1A.241025.001/0MQRMKQ2:user/release-keys
+Xiaomi|POCO F5 Plus GS|marblelh4|POCO/marblelh4/marblelh4:16/BP1A.241025.001/PC38O4BI:user/release-keys
+Xiaomi|POCO F5 Pro 5G Q0|mondrianc6l|POCO/mondrianc6l/mondrianc6l:16/BP1A.241025.001/OPXLAOUC:user/release-keys
+Xiaomi|POCO F5 Pro 9P|marblemzq|POCO/marblemzq/marblemzq:16/BP1A.241025.001/9KK55SPT:user/release-keys
+Xiaomi|POCO F5 Pro Flip I7|mondrianj5p|POCO/mondrianj5p/mondrianj5p:16/BP1A.241025.001/3KQ2ILWQ:user/release-keys
+Xiaomi|POCO F5 Pro Pro Max WX|mondrianb6t|POCO/mondrianb6t/mondrianb6t:16/BP1A.241025.001/UDCW03OJ:user/release-keys
 Xiaomi|POCO F5 Pro|mondrian|POCO/mondrian_global/mondrian:16/BP1A.241025.001/V816.0.4.0.UMNMIXM:user/release-keys
+Xiaomi|POCO F5 T P4|marble5vq|POCO/marble5vq/marble5vq:16/BP1A.241025.001/SQQQRHGX:user/release-keys
+Xiaomi|POCO F5 e B8|marble26x|POCO/marble26x/marble26x:16/BP1A.241025.001/IZK7TLK9:user/release-keys
+Xiaomi|POCO F5 i TS|marblewo6|POCO/marblewo6/marblewo6:16/BP1A.241025.001/JUJ3V6BF:user/release-keys
 Xiaomi|POCO F5|marble|POCO/marble_global/marble:16/BP1A.241025.001/V816.0.4.0.UMRMIXM:user/release-keys
+Xiaomi|POCO F6 Flip DH|peridotsk0|POCO/peridotsk0/peridotsk0:16/BP1A.241025.001/Q7GVS3DM:user/release-keys
+Xiaomi|POCO F6 Fold AM|peridothmn|POCO/peridothmn/peridothmn:16/BP1A.241025.001/IVFHO7NY:user/release-keys
+Xiaomi|POCO F6 Lite 1T|peridott0w|POCO/peridott0w/peridott0w:16/BP1A.241025.001/YIEYTJDG:user/release-keys
+Xiaomi|POCO F6 Max BT|peridotpqf|POCO/peridotpqf/peridotpqf:16/BP1A.241025.001/TJD1YHIN:user/release-keys
 Xiaomi|POCO F6 Pro|vermeer|POCO/vermeer_global/vermeer:16/BP1A.241025.001/V816.0.5.0.UNKMIXM:user/release-keys
 Xiaomi|POCO F6|peridot|POCO/peridot_global/peridot:16/BP1A.241025.001/V816.0.2.0.UNPMIXM:user/release-keys
+Xiaomi|POCO X6 5G FE R2|garnet9fv|POCO/garnet9fv/garnet9fv:16/BP1A.241025.001/72JWT1DQ:user/release-keys
+Xiaomi|POCO X6 5G Fold 83|garnet7n0|POCO/garnet7n0/garnet7n0:16/BP1A.241025.001/1365NJKN:user/release-keys
+Xiaomi|POCO X6 5G Lite NK|garnet81g|POCO/garnet81g/garnet81g:16/BP1A.241025.001/IXNR4TF7:user/release-keys
+Xiaomi|POCO X6 5G i JV|garnet8fd|POCO/garnet8fd/garnet8fd:16/BP1A.241025.001/QB4DWU9R:user/release-keys
 Xiaomi|POCO X6 5G|garnet|POCO/garnet_global/garnet:16/BP1A.241025.001/V816.0.3.0.UNRMIXM:user/release-keys
+Xiaomi|POCO X6 Pro 5G 4G FO|duchampmpr|POCO/duchampmpr/duchampmpr:16/BP1A.241025.001/BTS4SYIV:user/release-keys
+Xiaomi|POCO X6 Pro 5G 5G L2|duchampgh7|POCO/duchampgh7/duchampgh7:16/BP1A.241025.001/GMX8WMKS:user/release-keys
+Xiaomi|POCO X6 Pro 5G Active ZU|duchampryq|POCO/duchampryq/duchampryq:16/BP1A.241025.001/RE74LS72:user/release-keys
+Xiaomi|POCO X6 Pro 5G FE J5|duchampl6r|POCO/duchampl6r/duchampl6r:16/BP1A.241025.001/2NGFBRUC:user/release-keys
+Xiaomi|POCO X6 Pro 5G Lite K4|duchamprcw|POCO/duchamprcw/duchamprcw:16/BP1A.241025.001/LHWRGRUF:user/release-keys
+Xiaomi|POCO X6 Pro 5G Plus Q7|duchampo1r|POCO/duchampo1r/duchampo1r:16/BP1A.241025.001/7V4CGERO:user/release-keys
+Xiaomi|POCO X6 Pro 5G Premium WY|duchampang|POCO/duchampang/duchampang:16/BP1A.241025.001/0XDAYD4F:user/release-keys
+Xiaomi|POCO X6 Pro 5G Pro 5F|duchamph57|POCO/duchamph57/duchamph57:16/BP1A.241025.001/RS686CI2:user/release-keys
 Xiaomi|POCO X6 Pro 5G|duchamp|POCO/duchamp_global/duchamp:16/BP1A.241025.001/V816.0.3.0.UNLMIXM:user/release-keys
+Xiaomi|Redmi K70 Active UF|vermeeru7r|Redmi/vermeeru7r/vermeeru7r:16/BP1A.241025.001/IGRRJ88A:user/release-keys
+Xiaomi|Redmi K70 Max MT|vermeerx8c|Redmi/vermeerx8c/vermeerx8c:16/BP1A.241025.001/1IV7U1CC:user/release-keys
+Xiaomi|Redmi K70 Pro 5G A6|manetacw|Redmi/manetacw/manetacw:16/BP1A.241025.001/VRKBB0NN:user/release-keys
+Xiaomi|Redmi K70 Pro Max SH|vermeerrf3|Redmi/vermeerrf3/vermeerrf3:16/BP1A.241025.001/G5YAGH89:user/release-keys
+Xiaomi|Redmi K70 Pro NE MQ|manetv3r|Redmi/manetv3r/manetv3r:16/BP1A.241025.001/N5I5IOBC:user/release-keys
+Xiaomi|Redmi K70 Pro Plus 5G IX|manet22p|Redmi/manet22p/manet22p:16/BP1A.241025.001/2PA7DSNN:user/release-keys
+Xiaomi|Redmi K70 Pro SE 2U|manetxq2|Redmi/manetxq2/manetxq2:16/BP1A.241025.001/HM3MUN7N:user/release-keys
+Xiaomi|Redmi K70 Pro SE 93|manetzxf|Redmi/manetzxf/manetzxf:16/BP1A.241025.001/WHFYI4PW:user/release-keys
 Xiaomi|Redmi K70 Pro|manet|Redmi/manet/manet:16/BP1A.241025.001/V816.0.4.0.UNMCNXM:user/release-keys
+Xiaomi|Redmi K70E 4G N8|duchamp63a|Redmi/duchamp63a/duchamp63a:16/BP1A.241025.001/EEG7ZKWX:user/release-keys
+Xiaomi|Redmi K70E 5G UW H1|duchampf2y|Redmi/duchampf2y/duchampf2y:16/BP1A.241025.001/I7PDDV7G:user/release-keys
+Xiaomi|Redmi K70E FE 2E|duchamp55g|Redmi/duchamp55g/duchamp55g:16/BP1A.241025.001/XP540U15:user/release-keys
+Xiaomi|Redmi K70E Flip 6J|duchampdi9|Redmi/duchampdi9/duchampdi9:16/BP1A.241025.001/41RYQTOY:user/release-keys
+Xiaomi|Redmi K70E Plus 5G SF|duchampucq|Redmi/duchampucq/duchampucq:16/BP1A.241025.001/RN8UUQUY:user/release-keys
+Xiaomi|Redmi K70E Premium YX|duchampum4|Redmi/duchampum4/duchampum4:16/BP1A.241025.001/UHEHTAZR:user/release-keys
+Xiaomi|Redmi K70E i PD|duchamp159|Redmi/duchamp159/duchamp159:16/BP1A.241025.001/3J4RTO01:user/release-keys
 Xiaomi|Redmi K70E|duchamp|Redmi/duchamp/duchamp:16/BP1A.241025.001/V816.0.4.0.UNLCNXM:user/release-keys
 Xiaomi|Redmi K70|vermeer|Redmi/vermeer/vermeer:16/BP1A.241025.001/V816.0.4.0.UNKCNXM:user/release-keys
+Xiaomi|Redmi Note 13 5G 4G KG|goldnxm|Redmi/goldnxm/goldnxm:16/BP1A.241025.001/U8IJN89N:user/release-keys
+Xiaomi|Redmi Note 13 5G FE EV|goldslc|Redmi/goldslc/goldslc:16/BP1A.241025.001/P6M7SXIY:user/release-keys
+Xiaomi|Redmi Note 13 5G Flip 09|goldnfg|Redmi/goldnfg/goldnfg:16/BP1A.241025.001/DTYK126K:user/release-keys
+Xiaomi|Redmi Note 13 5G Fold WV|goldhb8|Redmi/goldhb8/goldhb8:16/BP1A.241025.001/751RCIXW:user/release-keys
+Xiaomi|Redmi Note 13 5G Mini FG|gold8jn|Redmi/gold8jn/gold8jn:16/BP1A.241025.001/EUSBPP2H:user/release-keys
+Xiaomi|Redmi Note 13 5G T KO|golderl|Redmi/golderl/golderl:16/BP1A.241025.001/5CAOWZJ7:user/release-keys
 Xiaomi|Redmi Note 13 5G|gold|Redmi/gold_global/gold:16/BP1A.241025.001/V816.0.2.0.UNQINXM:user/release-keys
+Xiaomi|Redmi Note 13 Pro 5G 5G 36|garneti4q|Redmi/garneti4q/garneti4q:16/BP1A.241025.001/F6P8LDHY:user/release-keys
+Xiaomi|Redmi Note 13 Pro 5G Active TS|garnetqgq|Redmi/garnetqgq/garnetqgq:16/BP1A.241025.001/SVE3RSUB:user/release-keys
+Xiaomi|Redmi Note 13 Pro 5G FE S3|garnetttg|Redmi/garnetttg/garnetttg:16/BP1A.241025.001/MTDT53R4:user/release-keys
+Xiaomi|Redmi Note 13 Pro 5G SE VH|garnet600|Redmi/garnet600/garnet600:16/BP1A.241025.001/URVD8OXG:user/release-keys
+Xiaomi|Redmi Note 13 Pro 5G i 0D|garnetqns|Redmi/garnetqns/garnetqns:16/BP1A.241025.001/SKJ0KEZW:user/release-keys
+Xiaomi|Redmi Note 13 Pro 5G i X2|garnet1ig|Redmi/garnet1ig/garnet1ig:16/BP1A.241025.001/71IYWWTE:user/release-keys
 Xiaomi|Redmi Note 13 Pro 5G|garnet|Redmi/garnet_global/garnet:16/BP1A.241025.001/V816.0.2.0.UNRINXM:user/release-keys
+Xiaomi|Redmi Note 13 Pro+ 5G Flip 6O|zirconcew|Redmi/zirconcew/zirconcew:16/BP1A.241025.001/QZOCY4OI:user/release-keys
+Xiaomi|Redmi Note 13 Pro+ 5G Pro Max ZK|zircon75e|Redmi/zircon75e/zircon75e:16/BP1A.241025.001/HNMORB3I:user/release-keys
 Xiaomi|Redmi Note 13 Pro+ 5G|zircon|Redmi/zircon_global/zircon:16/BP1A.241025.001/V816.0.2.0.UNOINXM:user/release-keys
+Xiaomi|Xiaomi 12T Pro 5G UW EB|ditingwl3|Xiaomi/ditingwl3/ditingwl3:16/BP1A.241025.001/6AJP5QSM:user/release-keys
 Xiaomi|Xiaomi 12T Pro|diting|Xiaomi/diting_global/diting:16/BP1A.241025.001/V816.0.2.0.ULFMIXM:user/release-keys
+Xiaomi|Xiaomi 13 Plus P9|fuxiyqw|Xiaomi/fuxiyqw/fuxiyqw:16/BP1A.241025.001/OBJAUWRB:user/release-keys
+Xiaomi|Xiaomi 13 Pro GT O5|nuway4n|Xiaomi/nuway4n/nuway4n:16/BP1A.241025.001/SVYMTVUJ:user/release-keys
 Xiaomi|Xiaomi 13 Pro|nuwa|Xiaomi/nuwa/nuwa:16/BP1A.241025.001/V816.0.5.0.UMBCNXM:user/release-keys
+Xiaomi|Xiaomi 13 SE 6F|fuxi78f|Xiaomi/fuxi78f/fuxi78f:16/BP1A.241025.001/WPTGVVZY:user/release-keys
+Xiaomi|Xiaomi 13 Ultra S K8|ishtarm9f|Xiaomi/ishtarm9f/ishtarm9f:16/BP1A.241025.001/8HY5ZR4C:user/release-keys
+Xiaomi|Xiaomi 13 Ultra i YP|ishtarvfp|Xiaomi/ishtarvfp/ishtarvfp:16/BP1A.241025.001/JJN37I1D:user/release-keys
 Xiaomi|Xiaomi 13 Ultra|ishtar|Xiaomi/ishtar/ishtar:16/BP1A.241025.001/V816.0.5.0.UMACNXM:user/release-keys
+Xiaomi|Xiaomi 13T 5G B1|aristotlegpp|Xiaomi/aristotlegpp/aristotlegpp:16/BP1A.241025.001/2BVLND58:user/release-keys
+Xiaomi|Xiaomi 13T 5G UW ZJ|aristotlehv7|Xiaomi/aristotlehv7/aristotlehv7:16/BP1A.241025.001/BBYALEF1:user/release-keys
+Xiaomi|Xiaomi 13T Active I3|aristotlegcq|Xiaomi/aristotlegcq/aristotlegcq:16/BP1A.241025.001/8HK1DR9B:user/release-keys
+Xiaomi|Xiaomi 13T Active RX|aristotle2w4|Xiaomi/aristotle2w4/aristotle2w4:16/BP1A.241025.001/WD8V1YKY:user/release-keys
+Xiaomi|Xiaomi 13T Mini 3A|aristotlejtq|Xiaomi/aristotlejtq/aristotlejtq:16/BP1A.241025.001/P0KBCZCR:user/release-keys
+Xiaomi|Xiaomi 13T Pro 5G 27|corotknz|Xiaomi/corotknz/corotknz:16/BP1A.241025.001/2QUIHARK:user/release-keys
+Xiaomi|Xiaomi 13T Pro 5G 5V|corotapk|Xiaomi/corotapk/corotapk:16/BP1A.241025.001/SJFG7F47:user/release-keys
+Xiaomi|Xiaomi 13T Pro FE JQ|corot16l|Xiaomi/corot16l/corot16l:16/BP1A.241025.001/8DFT79SP:user/release-keys
+Xiaomi|Xiaomi 13T Pro Max 22|aristotle5jr|Xiaomi/aristotle5jr/aristotle5jr:16/BP1A.241025.001/CGN8VZ72:user/release-keys
+Xiaomi|Xiaomi 13T Pro Max EY|aristotlea3g|Xiaomi/aristotlea3g/aristotlea3g:16/BP1A.241025.001/H43G5B5W:user/release-keys
+Xiaomi|Xiaomi 13T Pro Plus RO|corotcqe|Xiaomi/corotcqe/corotcqe:16/BP1A.241025.001/S6D17G9J:user/release-keys
+Xiaomi|Xiaomi 13T Pro S ZY|corotkxw|Xiaomi/corotkxw/corotkxw:16/BP1A.241025.001/V8FJHPS5:user/release-keys
+Xiaomi|Xiaomi 13T Pro U3|aristotlez7e|Xiaomi/aristotlez7e/aristotlez7e:16/BP1A.241025.001/6PP068DW:user/release-keys
+Xiaomi|Xiaomi 13T Pro Ultra 8M|corot4wq|Xiaomi/corot4wq/corot4wq:16/BP1A.241025.001/9GSR83N5:user/release-keys
 Xiaomi|Xiaomi 13T Pro|corot|Xiaomi/corot_global/corot:16/BP1A.241025.001/V816.0.3.0.UMLMIXM:user/release-keys
 Xiaomi|Xiaomi 13T|aristotle|Xiaomi/aristotle_global/aristotle:16/BP1A.241025.001/V816.0.3.0.UMFMIXM:user/release-keys
 Xiaomi|Xiaomi 13|fuxi|Xiaomi/fuxi/fuxi:16/BP1A.241025.001/V816.0.5.0.UMCCNXM:user/release-keys
+Xiaomi|Xiaomi 14 5G UW DM|houjim2n|Xiaomi/houjim2n/houjim2n:16/BP1A.241025.001/WS7ZNPVP:user/release-keys
+Xiaomi|Xiaomi 14 Pro 4G 3J|shennong0na|Xiaomi/shennong0na/shennong0na:16/BP1A.241025.001/4NGBPP0F:user/release-keys
+Xiaomi|Xiaomi 14 Pro 4G IJ|shennongvvw|Xiaomi/shennongvvw/shennongvvw:16/BP1A.241025.001/BWOYE4ML:user/release-keys
+Xiaomi|Xiaomi 14 Pro Flip VO|shennong6mk|Xiaomi/shennong6mk/shennong6mk:16/BP1A.241025.001/QZOG1HEK:user/release-keys
+Xiaomi|Xiaomi 14 Pro Fold 8I|shennong5ti|Xiaomi/shennong5ti/shennong5ti:16/BP1A.241025.001/85BZJMBV:user/release-keys
+Xiaomi|Xiaomi 14 Pro Max PB|houjif1s|Xiaomi/houjif1s/houjif1s:16/BP1A.241025.001/PIEKBI0W:user/release-keys
+Xiaomi|Xiaomi 14 Pro Plus K7|shennongn7i|Xiaomi/shennongn7i/shennongn7i:16/BP1A.241025.001/EJM8QREU:user/release-keys
+Xiaomi|Xiaomi 14 Pro Pro G8|shennongtjq|Xiaomi/shennongtjq/shennongtjq:16/BP1A.241025.001/OPFY52R2:user/release-keys
+Xiaomi|Xiaomi 14 Pro T 98|shennong1xq|Xiaomi/shennong1xq/shennong1xq:16/BP1A.241025.001/BJ9VYPJW:user/release-keys
+Xiaomi|Xiaomi 14 Pro Ultra AI|shennong9uf|Xiaomi/shennong9uf/shennong9uf:16/BP1A.241025.001/TU7D7WNH:user/release-keys
 Xiaomi|Xiaomi 14 Pro|shennong|Xiaomi/shennong/shennong:16/BP1A.241025.001/V816.0.6.0.UNBCNXM:user/release-keys
 Xiaomi|Xiaomi 14 Ultra|aurora|Xiaomi/aurora/aurora:16/BP1A.241025.001/V816.0.7.0.UNACNXM:user/release-keys
 Xiaomi|Xiaomi 14|houji|Xiaomi/houji/houji:16/BP1A.241025.001/V816.0.6.0.UNCCNXM:user/release-keys
+Xiaomi|Xiaomi 15 Max 2S|dadagrp|Xiaomi/dadagrp/dadagrp:16/BP1A.241025.001/TN4NXH5K:user/release-keys
 Xiaomi|Xiaomi 15 Pro|haotian|Xiaomi/haotian/haotian:16/BP1A.241025.001/V816.0.4.0.OOKCNXM:user/release-keys
+Xiaomi|Xiaomi 15 Ultra 4O|dadatl1|Xiaomi/dadatl1/dadatl1:16/BP1A.241025.001/N4VWONIU:user/release-keys
 Xiaomi|Xiaomi 15|dada|Xiaomi/dada/dada:16/BP1A.241025.001/V816.0.4.0.ONNCNXM:user/release-keys
