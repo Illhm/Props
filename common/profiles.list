@@ -16,3 +16,603 @@ OPPO|OPPO|PGEM10|PGEM10|OP5B7BL1|OPPO/PGEM10/OP5B7BL1:13/TP1A.220905.001/U.154f4
 Infinix|Infinix|X678B|X678B|X678B|Infinix/X678B/X678B:13/TP1A.220624.014/230911V1020:user/release-keys|X678B-user 13 TP1A.220624.014 230911V1020 release-keys|mt6789|Infinix-X678B|TP1A.220624.014
 # LG V60 ThinQ
 LGE|lge|LM-V600|timi_lao_com|timi|lge/timi_lao_com/timi:13/TKQ1.220807.001/231181519d553:user/release-keys|timi_lao_com-user 13 TKQ1.220807.001 231181519d553 release-keys|qcom|kona|TKQ1.220807.001
+# Samsung Galaxy S21 Variant 1
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:13/TP1A.220624.014/92ST5NC248KVJ:user/release-keys|o1sxx-user 13 TP1A.220624.014 92ST5NC248KVJ release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S23+ Variant 2
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/1EMYJUAYAPKQO:user/release-keys|dm2qxx-user 12 SP1A.210812.016 1EMYJUAYAPKQO release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy Z Fold 4 Variant 3
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:13/TP1A.220624.014/OA6I4K8KNPVEY:user/release-keys|q4qxx-user 13 TP1A.220624.014 OA6I4K8KNPVEY release-keys|qcom|taro|TP1A.220624.014
+# Samsung Galaxy S21 Ultra Variant 4
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:12/SP1A.210812.016/IKGER8O7IXA3X:user/release-keys|p3sxx-user 12 SP1A.210812.016 IKGER8O7IXA3X release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S22 Variant 5
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:13/TP1A.220624.014/EU4KYBEW7VJ34:user/release-keys|r0sxx-user 13 TP1A.220624.014 EU4KYBEW7VJ34 release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S21 Variant 6
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:13/TP1A.220624.014/3FOSDQU4DTWUK:user/release-keys|o1sxx-user 13 TP1A.220624.014 3FOSDQU4DTWUK release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S22 Ultra Variant 7
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:14/UP1A.231005.007/PTTX72VHQSUTA:user/release-keys|b0sxx-user 14 UP1A.231005.007 PTTX72VHQSUTA release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 8
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:12/SP1A.210812.016/WRGDCY6OZB51Z:user/release-keys|g0sxx-user 12 SP1A.210812.016 WRGDCY6OZB51Z release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S21+ Variant 9
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/H329FO70HBGGY:user/release-keys|t2sxx-user 13 TP1A.220624.014 H329FO70HBGGY release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S21+ Variant 10
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/FZBBKU7AH8684:user/release-keys|t2sxx-user 13 TP1A.220624.014 FZBBKU7AH8684 release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S21+ Variant 11
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:12/SP1A.210812.016/UIOMNCOAEM5XN:user/release-keys|t2sxx-user 12 SP1A.210812.016 UIOMNCOAEM5XN release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S22 Variant 12
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/R6T2E21RLMBXL:user/release-keys|r0sxx-user 12 SP1A.210812.016 R6T2E21RLMBXL release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy A53 Variant 13
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/CQSXHQRJTN3U8:user/release-keys|a53xxx-user 14 UP1A.231005.007 CQSXHQRJTN3U8 release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy S22 Variant 14
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:13/TP1A.220624.014/5NMCTAF95GQ9L:user/release-keys|r0sxx-user 13 TP1A.220624.014 5NMCTAF95GQ9L release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S23 Variant 15
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:14/UP1A.231005.007/4COZEPQAHMRPC:user/release-keys|dm1qxx-user 14 UP1A.231005.007 4COZEPQAHMRPC release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy A53 Variant 16
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/9D13UBCJVNI0F:user/release-keys|a53xxx-user 14 UP1A.231005.007 9D13UBCJVNI0F release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 17
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:12/SP1A.210812.016/24S3SZF2TB23D:user/release-keys|b0sxx-user 12 SP1A.210812.016 24S3SZF2TB23D release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 18
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/453DDGOF1OVD1:user/release-keys|dm2qxx-user 12 SP1A.210812.016 453DDGOF1OVD1 release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S21 Ultra Variant 19
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:14/UP1A.231005.007/X93ZTYRZD4ZF7:user/release-keys|p3sxx-user 14 UP1A.231005.007 X93ZTYRZD4ZF7 release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy A53 Variant 20
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/K1G9ECHF8UAEB:user/release-keys|a53xxx-user 14 UP1A.231005.007 K1G9ECHF8UAEB release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 21
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:13/TP1A.220624.014/JAE6P6L5AFGQ3:user/release-keys|b0sxx-user 13 TP1A.220624.014 JAE6P6L5AFGQ3 release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S21 Ultra Variant 22
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:14/UP1A.231005.007/NG7TGZNVSYWYG:user/release-keys|p3sxx-user 14 UP1A.231005.007 NG7TGZNVSYWYG release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy A54 Variant 23
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:14/UP1A.231005.007/FWO33SMJD8S1H:user/release-keys|a54xxx-user 14 UP1A.231005.007 FWO33SMJD8S1H release-keys|exynos|s5e8835|UP1A.231005.007
+# Samsung Galaxy A53 Variant 24
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:13/TP1A.220624.014/896GA9KLM3EYP:user/release-keys|a53xxx-user 13 TP1A.220624.014 896GA9KLM3EYP release-keys|exynos|s5e8825|TP1A.220624.014
+# Samsung Galaxy Z Fold 5 Variant 25
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:14/UP1A.231005.007/DGA41U9ESD645:user/release-keys|q5qxx-user 14 UP1A.231005.007 DGA41U9ESD645 release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy Z Fold 5 Variant 26
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:13/TP1A.220624.014/7S4A25E3APKIK:user/release-keys|q5qxx-user 13 TP1A.220624.014 7S4A25E3APKIK release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy Z Fold 3 Variant 27
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:13/TP1A.220624.014/2OEE2L9HZQN7W:user/release-keys|q2qxx-user 13 TP1A.220624.014 2OEE2L9HZQN7W release-keys|qcom|lahaina|TP1A.220624.014
+# Samsung Galaxy S21 Ultra Variant 28
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:12/SP1A.210812.016/9X11RDN2EXOMP:user/release-keys|p3sxx-user 12 SP1A.210812.016 9X11RDN2EXOMP release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S22 Variant 29
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/RLBYY4NA964SG:user/release-keys|r0sxx-user 12 SP1A.210812.016 RLBYY4NA964SG release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy A54 Variant 30
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:14/UP1A.231005.007/NOUZXRQBIATPV:user/release-keys|a54xxx-user 14 UP1A.231005.007 NOUZXRQBIATPV release-keys|exynos|s5e8835|UP1A.231005.007
+# Samsung Galaxy S23+ Variant 31
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/VIALX5JB4RF18:user/release-keys|dm2qxx-user 12 SP1A.210812.016 VIALX5JB4RF18 release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S21 Ultra Variant 32
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:14/UP1A.231005.007/BF2YTZ7ZJE9FO:user/release-keys|p3sxx-user 14 UP1A.231005.007 BF2YTZ7ZJE9FO release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy A54 Variant 33
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:14/UP1A.231005.007/OGBMCUKF4A80T:user/release-keys|a54xxx-user 14 UP1A.231005.007 OGBMCUKF4A80T release-keys|exynos|s5e8835|UP1A.231005.007
+# Samsung Galaxy S23+ Variant 34
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:14/UP1A.231005.007/3JYYF4VKWLL9L:user/release-keys|dm2qxx-user 14 UP1A.231005.007 3JYYF4VKWLL9L release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22 Variant 35
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:14/UP1A.231005.007/FNTALBYVOIPV2:user/release-keys|r0sxx-user 14 UP1A.231005.007 FNTALBYVOIPV2 release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S24 Ultra Variant 36
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:12/SP1A.210812.016/3X772J27XH502:user/release-keys|e3qxx-user 12 SP1A.210812.016 3X772J27XH502 release-keys|qcom|pineapple|SP1A.210812.016
+# Samsung Galaxy S22 Ultra Variant 37
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:12/SP1A.210812.016/FWVH28SOZRQTE:user/release-keys|b0sxx-user 12 SP1A.210812.016 FWVH28SOZRQTE release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S22 Variant 38
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:13/TP1A.220624.014/DHKO5J1B9LXQK:user/release-keys|r0sxx-user 13 TP1A.220624.014 DHKO5J1B9LXQK release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy Z Fold 5 Variant 39
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:12/SP1A.210812.016/W20Q4MDZWOK4R:user/release-keys|q5qxx-user 12 SP1A.210812.016 W20Q4MDZWOK4R release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S24 Ultra Variant 40
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:14/UP1A.231005.007/QYU85BG83M62A:user/release-keys|e3qxx-user 14 UP1A.231005.007 QYU85BG83M62A release-keys|qcom|pineapple|UP1A.231005.007
+# Samsung Galaxy S24 Variant 41
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:13/TP1A.220624.014/EI9ML7VERDTAV:user/release-keys|e1sxx-user 13 TP1A.220624.014 EI9ML7VERDTAV release-keys|exynos|exynos2400|TP1A.220624.014
+# Samsung Galaxy Z Fold 5 Variant 42
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:14/UP1A.231005.007/WBTODNKWSFW4K:user/release-keys|q5qxx-user 14 UP1A.231005.007 WBTODNKWSFW4K release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S24 Ultra Variant 43
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:14/UP1A.231005.007/50709Y24MZA37:user/release-keys|e3qxx-user 14 UP1A.231005.007 50709Y24MZA37 release-keys|qcom|pineapple|UP1A.231005.007
+# Samsung Galaxy S24 Ultra Variant 44
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:13/TP1A.220624.014/CYG0RWGODE5IH:user/release-keys|e3qxx-user 13 TP1A.220624.014 CYG0RWGODE5IH release-keys|qcom|pineapple|TP1A.220624.014
+# Samsung Galaxy S21+ Variant 45
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:14/UP1A.231005.007/N85MVGRQ7WOAB:user/release-keys|t2sxx-user 14 UP1A.231005.007 N85MVGRQ7WOAB release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 46
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:12/SP1A.210812.016/9BZ1GG4KYH1N5:user/release-keys|b0sxx-user 12 SP1A.210812.016 9BZ1GG4KYH1N5 release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy A53 Variant 47
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/LHXI0NX9F45NM:user/release-keys|a53xxx-user 14 UP1A.231005.007 LHXI0NX9F45NM release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy S23 Ultra Variant 48
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:14/UP1A.231005.007/TXIME21O2NVJU:user/release-keys|dm3qxx-user 14 UP1A.231005.007 TXIME21O2NVJU release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy A53 Variant 49
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:12/SP1A.210812.016/H2GFJODRWLOCP:user/release-keys|a53xxx-user 12 SP1A.210812.016 H2GFJODRWLOCP release-keys|exynos|s5e8825|SP1A.210812.016
+# Samsung Galaxy S22 Variant 50
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/7PRDTOTQJVWA8:user/release-keys|r0sxx-user 12 SP1A.210812.016 7PRDTOTQJVWA8 release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S21 Variant 51
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/AMIFLJ2IUOCHG:user/release-keys|o1sxx-user 12 SP1A.210812.016 AMIFLJ2IUOCHG release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 52
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:13/TP1A.220624.014/ZKTTMACWDUOGW:user/release-keys|dm2qxx-user 13 TP1A.220624.014 ZKTTMACWDUOGW release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy Z Fold 3 Variant 53
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:12/SP1A.210812.016/7ID9RQPSVJEY7:user/release-keys|q2qxx-user 12 SP1A.210812.016 7ID9RQPSVJEY7 release-keys|qcom|lahaina|SP1A.210812.016
+# Samsung Galaxy S23 Variant 54
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:13/TP1A.220624.014/DXNF154U5G0SL:user/release-keys|dm1qxx-user 13 TP1A.220624.014 DXNF154U5G0SL release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S23 Variant 55
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:14/UP1A.231005.007/GON12MQ9ALCUW:user/release-keys|dm1qxx-user 14 UP1A.231005.007 GON12MQ9ALCUW release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S24 Variant 56
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:12/SP1A.210812.016/Y1EWV5Z768RZL:user/release-keys|e1sxx-user 12 SP1A.210812.016 Y1EWV5Z768RZL release-keys|exynos|exynos2400|SP1A.210812.016
+# Samsung Galaxy S22+ Variant 57
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/EMQBC3BSJEW1W:user/release-keys|g0sxx-user 14 UP1A.231005.007 EMQBC3BSJEW1W release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S22 Variant 58
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/TZ6VOHPLSR5O8:user/release-keys|r0sxx-user 12 SP1A.210812.016 TZ6VOHPLSR5O8 release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy A54 Variant 59
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:12/SP1A.210812.016/UVS9HKL9KDKYQ:user/release-keys|a54xxx-user 12 SP1A.210812.016 UVS9HKL9KDKYQ release-keys|exynos|s5e8835|SP1A.210812.016
+# Samsung Galaxy S24 Variant 60
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:12/SP1A.210812.016/WPENDV93Q39IQ:user/release-keys|e1sxx-user 12 SP1A.210812.016 WPENDV93Q39IQ release-keys|exynos|exynos2400|SP1A.210812.016
+# Samsung Galaxy S23 Ultra Variant 61
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/A9WJWP0DTQ4KS:user/release-keys|dm3qxx-user 12 SP1A.210812.016 A9WJWP0DTQ4KS release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy Z Fold 4 Variant 62
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:13/TP1A.220624.014/T12S0R53X47ZG:user/release-keys|q4qxx-user 13 TP1A.220624.014 T12S0R53X47ZG release-keys|qcom|taro|TP1A.220624.014
+# Samsung Galaxy Z Fold 5 Variant 63
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:13/TP1A.220624.014/8FDVXGF1M2INU:user/release-keys|q5qxx-user 13 TP1A.220624.014 8FDVXGF1M2INU release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S22 Ultra Variant 64
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:14/UP1A.231005.007/DUPHR8OLPEMB9:user/release-keys|b0sxx-user 14 UP1A.231005.007 DUPHR8OLPEMB9 release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 65
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:13/TP1A.220624.014/DSI2S69J0UNOZ:user/release-keys|b0sxx-user 13 TP1A.220624.014 DSI2S69J0UNOZ release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy Z Fold 3 Variant 66
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:14/UP1A.231005.007/XNR26SXVQ6J0E:user/release-keys|q2qxx-user 14 UP1A.231005.007 XNR26SXVQ6J0E release-keys|qcom|lahaina|UP1A.231005.007
+# Samsung Galaxy S23+ Variant 67
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:13/TP1A.220624.014/7IP82ONRYYC84:user/release-keys|dm2qxx-user 13 TP1A.220624.014 7IP82ONRYYC84 release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S23+ Variant 68
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:13/TP1A.220624.014/YKFJSKT1WWOTT:user/release-keys|dm2qxx-user 13 TP1A.220624.014 YKFJSKT1WWOTT release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S23 Variant 69
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:14/UP1A.231005.007/WJ2O8U12RYB1A:user/release-keys|dm1qxx-user 14 UP1A.231005.007 WJ2O8U12RYB1A release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22 Variant 70
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/BYN0HO6DHXJEI:user/release-keys|r0sxx-user 12 SP1A.210812.016 BYN0HO6DHXJEI release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S24 Variant 71
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:13/TP1A.220624.014/QVVQLVFF7UGAM:user/release-keys|e1sxx-user 13 TP1A.220624.014 QVVQLVFF7UGAM release-keys|exynos|exynos2400|TP1A.220624.014
+# Samsung Galaxy S22+ Variant 72
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:13/TP1A.220624.014/69IBJP3B81RAE:user/release-keys|g0sxx-user 13 TP1A.220624.014 69IBJP3B81RAE release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S23 Ultra Variant 73
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/WVWIXLTV9HZWD:user/release-keys|dm3qxx-user 12 SP1A.210812.016 WVWIXLTV9HZWD release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S24 Variant 74
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:13/TP1A.220624.014/8XRPEV5Y3MJZK:user/release-keys|e1sxx-user 13 TP1A.220624.014 8XRPEV5Y3MJZK release-keys|exynos|exynos2400|TP1A.220624.014
+# Samsung Galaxy Z Fold 4 Variant 75
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/SALTPTKTBCTTW:user/release-keys|q4qxx-user 12 SP1A.210812.016 SALTPTKTBCTTW release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy S21 Variant 76
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/3XO8IE4ZZBSH4:user/release-keys|o1sxx-user 12 SP1A.210812.016 3XO8IE4ZZBSH4 release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 77
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/YGY2LNIUZSV45:user/release-keys|dm2qxx-user 12 SP1A.210812.016 YGY2LNIUZSV45 release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S22 Ultra Variant 78
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:14/UP1A.231005.007/PG53WGU6X617G:user/release-keys|b0sxx-user 14 UP1A.231005.007 PG53WGU6X617G release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S23+ Variant 79
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:13/TP1A.220624.014/QS03MQ761S1MV:user/release-keys|dm2qxx-user 13 TP1A.220624.014 QS03MQ761S1MV release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S22 Ultra Variant 80
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:13/TP1A.220624.014/6JP3YH6MCG85M:user/release-keys|b0sxx-user 13 TP1A.220624.014 6JP3YH6MCG85M release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy A53 Variant 81
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/LRVP11FEJJ7LB:user/release-keys|a53xxx-user 14 UP1A.231005.007 LRVP11FEJJ7LB release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy Z Fold 3 Variant 82
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:13/TP1A.220624.014/7QSJCL0WB23WJ:user/release-keys|q2qxx-user 13 TP1A.220624.014 7QSJCL0WB23WJ release-keys|qcom|lahaina|TP1A.220624.014
+# Samsung Galaxy Z Fold 3 Variant 83
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:13/TP1A.220624.014/BVT8JOPV611A9:user/release-keys|q2qxx-user 13 TP1A.220624.014 BVT8JOPV611A9 release-keys|qcom|lahaina|TP1A.220624.014
+# Samsung Galaxy Z Fold 4 Variant 84
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:13/TP1A.220624.014/SKQPYSPFNPBDW:user/release-keys|q4qxx-user 13 TP1A.220624.014 SKQPYSPFNPBDW release-keys|qcom|taro|TP1A.220624.014
+# Samsung Galaxy S24 Ultra Variant 85
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:12/SP1A.210812.016/GWBUHWB03FOB8:user/release-keys|e3qxx-user 12 SP1A.210812.016 GWBUHWB03FOB8 release-keys|qcom|pineapple|SP1A.210812.016
+# Samsung Galaxy S21 Ultra Variant 86
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:13/TP1A.220624.014/74XN1KDXMETV4:user/release-keys|p3sxx-user 13 TP1A.220624.014 74XN1KDXMETV4 release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S21 Ultra Variant 87
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:13/TP1A.220624.014/QJSE94X0O7ZCO:user/release-keys|p3sxx-user 13 TP1A.220624.014 QJSE94X0O7ZCO release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S22 Variant 88
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/WA1Q8NMO0778D:user/release-keys|r0sxx-user 12 SP1A.210812.016 WA1Q8NMO0778D release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy A54 Variant 89
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:14/UP1A.231005.007/27EHNI2WZSIFX:user/release-keys|a54xxx-user 14 UP1A.231005.007 27EHNI2WZSIFX release-keys|exynos|s5e8835|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 90
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:12/SP1A.210812.016/OFYNCR71GCOCB:user/release-keys|g0sxx-user 12 SP1A.210812.016 OFYNCR71GCOCB release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S23 Ultra Variant 91
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:13/TP1A.220624.014/SECNLP53SVKHO:user/release-keys|dm3qxx-user 13 TP1A.220624.014 SECNLP53SVKHO release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S23 Variant 92
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:12/SP1A.210812.016/BCXJ9OEJWC4GA:user/release-keys|dm1qxx-user 12 SP1A.210812.016 BCXJ9OEJWC4GA release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S21+ Variant 93
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/MUXGA2TZ35O0P:user/release-keys|t2sxx-user 13 TP1A.220624.014 MUXGA2TZ35O0P release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S24 Variant 94
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:13/TP1A.220624.014/84V82XZXQZI4N:user/release-keys|e1sxx-user 13 TP1A.220624.014 84V82XZXQZI4N release-keys|exynos|exynos2400|TP1A.220624.014
+# Samsung Galaxy S23 Ultra Variant 95
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:13/TP1A.220624.014/3SUM7AFJYC92V:user/release-keys|dm3qxx-user 13 TP1A.220624.014 3SUM7AFJYC92V release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S22 Ultra Variant 96
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:12/SP1A.210812.016/RLRKSNEPWZENK:user/release-keys|b0sxx-user 12 SP1A.210812.016 RLRKSNEPWZENK release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy A53 Variant 97
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:12/SP1A.210812.016/YV7KG5FY8418I:user/release-keys|a53xxx-user 12 SP1A.210812.016 YV7KG5FY8418I release-keys|exynos|s5e8825|SP1A.210812.016
+# Samsung Galaxy A54 Variant 98
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:12/SP1A.210812.016/HX6H9HIJJERD9:user/release-keys|a54xxx-user 12 SP1A.210812.016 HX6H9HIJJERD9 release-keys|exynos|s5e8835|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 99
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:13/TP1A.220624.014/60CMFT0UB3JK8:user/release-keys|dm2qxx-user 13 TP1A.220624.014 60CMFT0UB3JK8 release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S22 Ultra Variant 100
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:13/TP1A.220624.014/YQ0AJIR5BZVOQ:user/release-keys|b0sxx-user 13 TP1A.220624.014 YQ0AJIR5BZVOQ release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy Z Fold 5 Variant 101
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:14/UP1A.231005.007/2RDKCBEZSNWQV:user/release-keys|q5qxx-user 14 UP1A.231005.007 2RDKCBEZSNWQV release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 102
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:13/TP1A.220624.014/YKFH7QVZCX1PN:user/release-keys|b0sxx-user 13 TP1A.220624.014 YKFH7QVZCX1PN release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S22 Variant 103
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/195GBNW5IOPNS:user/release-keys|r0sxx-user 12 SP1A.210812.016 195GBNW5IOPNS release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S24 Variant 104
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:14/UP1A.231005.007/YKE12KHULAYUA:user/release-keys|e1sxx-user 14 UP1A.231005.007 YKE12KHULAYUA release-keys|exynos|exynos2400|UP1A.231005.007
+# Samsung Galaxy S23 Ultra Variant 105
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:13/TP1A.220624.014/4U5IOUMPJOIOF:user/release-keys|dm3qxx-user 13 TP1A.220624.014 4U5IOUMPJOIOF release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy Z Fold 4 Variant 106
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:14/UP1A.231005.007/RM4S2WL2WC6K4:user/release-keys|q4qxx-user 14 UP1A.231005.007 RM4S2WL2WC6K4 release-keys|qcom|taro|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 107
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:12/SP1A.210812.016/I0BOJZ053DVBB:user/release-keys|b0sxx-user 12 SP1A.210812.016 I0BOJZ053DVBB release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S22 Variant 108
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:14/UP1A.231005.007/DBPWZHJ0HQ6D3:user/release-keys|r0sxx-user 14 UP1A.231005.007 DBPWZHJ0HQ6D3 release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 109
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/L0YC0WHNNYQHC:user/release-keys|q4qxx-user 12 SP1A.210812.016 L0YC0WHNNYQHC release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy S23 Variant 110
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:12/SP1A.210812.016/D40A4Z2WGN6XT:user/release-keys|dm1qxx-user 12 SP1A.210812.016 D40A4Z2WGN6XT release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S22 Variant 111
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:14/UP1A.231005.007/S4URVQLXJA59O:user/release-keys|r0sxx-user 14 UP1A.231005.007 S4URVQLXJA59O release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S21+ Variant 112
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/VLN6R7L4DLYOF:user/release-keys|t2sxx-user 13 TP1A.220624.014 VLN6R7L4DLYOF release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S22+ Variant 113
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:12/SP1A.210812.016/SQWD4J1SXMFGH:user/release-keys|g0sxx-user 12 SP1A.210812.016 SQWD4J1SXMFGH release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S22 Variant 114
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:14/UP1A.231005.007/FTRNUS1NPUZ6Q:user/release-keys|r0sxx-user 14 UP1A.231005.007 FTRNUS1NPUZ6Q release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S24 Ultra Variant 115
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:12/SP1A.210812.016/3XZ1TGFYFOHT5:user/release-keys|e3qxx-user 12 SP1A.210812.016 3XZ1TGFYFOHT5 release-keys|qcom|pineapple|SP1A.210812.016
+# Samsung Galaxy Z Fold 3 Variant 116
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:12/SP1A.210812.016/AV6X52VN7AHBK:user/release-keys|q2qxx-user 12 SP1A.210812.016 AV6X52VN7AHBK release-keys|qcom|lahaina|SP1A.210812.016
+# Samsung Galaxy S22+ Variant 117
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/QANMP3DV3C0WA:user/release-keys|g0sxx-user 14 UP1A.231005.007 QANMP3DV3C0WA release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy A54 Variant 118
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:14/UP1A.231005.007/705222R8XXVXD:user/release-keys|a54xxx-user 14 UP1A.231005.007 705222R8XXVXD release-keys|exynos|s5e8835|UP1A.231005.007
+# Samsung Galaxy A53 Variant 119
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/SG11NGXBW6D71:user/release-keys|a53xxx-user 14 UP1A.231005.007 SG11NGXBW6D71 release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy Z Fold 5 Variant 120
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:14/UP1A.231005.007/JRNR0OXZA9L9T:user/release-keys|q5qxx-user 14 UP1A.231005.007 JRNR0OXZA9L9T release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 121
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:14/UP1A.231005.007/QY3HYTX3797CB:user/release-keys|b0sxx-user 14 UP1A.231005.007 QY3HYTX3797CB release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S23 Ultra Variant 122
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/5ECR53LP2PQ0A:user/release-keys|dm3qxx-user 12 SP1A.210812.016 5ECR53LP2PQ0A release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy Z Fold 3 Variant 123
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:13/TP1A.220624.014/4F8H2ZZFX2JCD:user/release-keys|q2qxx-user 13 TP1A.220624.014 4F8H2ZZFX2JCD release-keys|qcom|lahaina|TP1A.220624.014
+# Samsung Galaxy A54 Variant 124
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:13/TP1A.220624.014/NOAKHU4ZNXFOG:user/release-keys|a54xxx-user 13 TP1A.220624.014 NOAKHU4ZNXFOG release-keys|exynos|s5e8835|TP1A.220624.014
+# Samsung Galaxy S24 Variant 125
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:14/UP1A.231005.007/O6B37T18A5XLP:user/release-keys|e1sxx-user 14 UP1A.231005.007 O6B37T18A5XLP release-keys|exynos|exynos2400|UP1A.231005.007
+# Samsung Galaxy S23 Variant 126
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:13/TP1A.220624.014/OVJA6WFPF2MMZ:user/release-keys|dm1qxx-user 13 TP1A.220624.014 OVJA6WFPF2MMZ release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S22 Ultra Variant 127
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:14/UP1A.231005.007/8Z0DN569F8Y4K:user/release-keys|b0sxx-user 14 UP1A.231005.007 8Z0DN569F8Y4K release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S23 Ultra Variant 128
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:14/UP1A.231005.007/F4HJESLBA95OS:user/release-keys|dm3qxx-user 14 UP1A.231005.007 F4HJESLBA95OS release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S23 Variant 129
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:13/TP1A.220624.014/GW47W7KNEQDEU:user/release-keys|dm1qxx-user 13 TP1A.220624.014 GW47W7KNEQDEU release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S21+ Variant 130
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/0EM6QPOR1WOAO:user/release-keys|t2sxx-user 13 TP1A.220624.014 0EM6QPOR1WOAO release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S23 Variant 131
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:14/UP1A.231005.007/PTSEJTSCXUU8G:user/release-keys|dm1qxx-user 14 UP1A.231005.007 PTSEJTSCXUU8G release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S21 Ultra Variant 132
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:14/UP1A.231005.007/1OTZ0YFO0YE8R:user/release-keys|p3sxx-user 14 UP1A.231005.007 1OTZ0YFO0YE8R release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy S23 Ultra Variant 133
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/YW2Q6NDSWWK1Z:user/release-keys|dm3qxx-user 12 SP1A.210812.016 YW2Q6NDSWWK1Z release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 134
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/KFE0HTYKQG5BG:user/release-keys|dm2qxx-user 12 SP1A.210812.016 KFE0HTYKQG5BG release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy Z Fold 3 Variant 135
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:14/UP1A.231005.007/7BZSCVIXXJ83V:user/release-keys|q2qxx-user 14 UP1A.231005.007 7BZSCVIXXJ83V release-keys|qcom|lahaina|UP1A.231005.007
+# Samsung Galaxy S23 Ultra Variant 136
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/NHNISOSV9R679:user/release-keys|dm3qxx-user 12 SP1A.210812.016 NHNISOSV9R679 release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 137
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:14/UP1A.231005.007/GP7CE1SSRKQO5:user/release-keys|dm2qxx-user 14 UP1A.231005.007 GP7CE1SSRKQO5 release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 138
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/9CKALXHPHER0J:user/release-keys|q4qxx-user 12 SP1A.210812.016 9CKALXHPHER0J release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy S22 Ultra Variant 139
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:12/SP1A.210812.016/VWV4TGSZ1NHFT:user/release-keys|b0sxx-user 12 SP1A.210812.016 VWV4TGSZ1NHFT release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S23 Ultra Variant 140
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/4GR61GYRKH5LV:user/release-keys|dm3qxx-user 12 SP1A.210812.016 4GR61GYRKH5LV release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S23 Variant 141
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:14/UP1A.231005.007/P3DJ2W9MOSOWO:user/release-keys|dm1qxx-user 14 UP1A.231005.007 P3DJ2W9MOSOWO release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S21 Variant 142
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/AOKTN44CEL9IN:user/release-keys|o1sxx-user 12 SP1A.210812.016 AOKTN44CEL9IN release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S21+ Variant 143
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:12/SP1A.210812.016/PIZWF99LPKX42:user/release-keys|t2sxx-user 12 SP1A.210812.016 PIZWF99LPKX42 release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S21 Ultra Variant 144
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:12/SP1A.210812.016/NIGCH0UR9E7O1:user/release-keys|p3sxx-user 12 SP1A.210812.016 NIGCH0UR9E7O1 release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S21 Variant 145
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:13/TP1A.220624.014/WUSN6F6XY056I:user/release-keys|o1sxx-user 13 TP1A.220624.014 WUSN6F6XY056I release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S24 Variant 146
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:13/TP1A.220624.014/ZTB8Q7RT3MZVN:user/release-keys|e1sxx-user 13 TP1A.220624.014 ZTB8Q7RT3MZVN release-keys|exynos|exynos2400|TP1A.220624.014
+# Samsung Galaxy Z Fold 4 Variant 147
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/5KZEXCD9BVIQD:user/release-keys|q4qxx-user 12 SP1A.210812.016 5KZEXCD9BVIQD release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy Z Fold 5 Variant 148
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:13/TP1A.220624.014/4KRB1SR45M9EK:user/release-keys|q5qxx-user 13 TP1A.220624.014 4KRB1SR45M9EK release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S22 Ultra Variant 149
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:14/UP1A.231005.007/GKKKIOSU1V4UO:user/release-keys|b0sxx-user 14 UP1A.231005.007 GKKKIOSU1V4UO release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 150
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:13/TP1A.220624.014/WJDEZBAFJ3B6J:user/release-keys|q4qxx-user 13 TP1A.220624.014 WJDEZBAFJ3B6J release-keys|qcom|taro|TP1A.220624.014
+# Samsung Galaxy S24 Ultra Variant 151
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:14/UP1A.231005.007/KJ2S5CUOZ9ZXV:user/release-keys|e3qxx-user 14 UP1A.231005.007 KJ2S5CUOZ9ZXV release-keys|qcom|pineapple|UP1A.231005.007
+# Samsung Galaxy A53 Variant 152
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:13/TP1A.220624.014/Z7OMJ6WII8CEW:user/release-keys|a53xxx-user 13 TP1A.220624.014 Z7OMJ6WII8CEW release-keys|exynos|s5e8825|TP1A.220624.014
+# Samsung Galaxy S22 Ultra Variant 153
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:13/TP1A.220624.014/2CARTH1US9WCY:user/release-keys|b0sxx-user 13 TP1A.220624.014 2CARTH1US9WCY release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S22 Variant 154
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/KRL5ZNFG3XUIJ:user/release-keys|r0sxx-user 12 SP1A.210812.016 KRL5ZNFG3XUIJ release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy Z Fold 5 Variant 155
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:13/TP1A.220624.014/CW26AVJF7OO61:user/release-keys|q5qxx-user 13 TP1A.220624.014 CW26AVJF7OO61 release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S23 Ultra Variant 156
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:13/TP1A.220624.014/64TR4FYA3BD6V:user/release-keys|dm3qxx-user 13 TP1A.220624.014 64TR4FYA3BD6V release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy A53 Variant 157
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:12/SP1A.210812.016/59IO9VXXUOHOZ:user/release-keys|a53xxx-user 12 SP1A.210812.016 59IO9VXXUOHOZ release-keys|exynos|s5e8825|SP1A.210812.016
+# Samsung Galaxy S21+ Variant 158
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:14/UP1A.231005.007/4F9K5RCR93VZR:user/release-keys|t2sxx-user 14 UP1A.231005.007 4F9K5RCR93VZR release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy S21+ Variant 159
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/OFXWQ83YH5RNP:user/release-keys|t2sxx-user 13 TP1A.220624.014 OFXWQ83YH5RNP release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S23 Variant 160
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:13/TP1A.220624.014/NCKF93NROA3IM:user/release-keys|dm1qxx-user 13 TP1A.220624.014 NCKF93NROA3IM release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S23+ Variant 161
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:13/TP1A.220624.014/Q30MXUF8EUAC0:user/release-keys|dm2qxx-user 13 TP1A.220624.014 Q30MXUF8EUAC0 release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy Z Fold 4 Variant 162
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:13/TP1A.220624.014/XQSVYTYE6XK9X:user/release-keys|q4qxx-user 13 TP1A.220624.014 XQSVYTYE6XK9X release-keys|qcom|taro|TP1A.220624.014
+# Samsung Galaxy S22+ Variant 163
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/EQCYXRMSW8Z7Q:user/release-keys|g0sxx-user 14 UP1A.231005.007 EQCYXRMSW8Z7Q release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S23 Ultra Variant 164
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:13/TP1A.220624.014/ONPKSBZRROLSD:user/release-keys|dm3qxx-user 13 TP1A.220624.014 ONPKSBZRROLSD release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S23 Ultra Variant 165
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/XL3104ZLCORQJ:user/release-keys|dm3qxx-user 12 SP1A.210812.016 XL3104ZLCORQJ release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S21 Variant 166
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:14/UP1A.231005.007/SX6VTBM2CPMN0:user/release-keys|o1sxx-user 14 UP1A.231005.007 SX6VTBM2CPMN0 release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy S23 Variant 167
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:13/TP1A.220624.014/MFLCC98W0VZU2:user/release-keys|dm1qxx-user 13 TP1A.220624.014 MFLCC98W0VZU2 release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S21+ Variant 168
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:12/SP1A.210812.016/NIH1FA4UUOQP1:user/release-keys|t2sxx-user 12 SP1A.210812.016 NIH1FA4UUOQP1 release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy Z Fold 5 Variant 169
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:12/SP1A.210812.016/B6LTWYWTNQE90:user/release-keys|q5qxx-user 12 SP1A.210812.016 B6LTWYWTNQE90 release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S24 Ultra Variant 170
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:14/UP1A.231005.007/WPNE2OD3XS9A3:user/release-keys|e3qxx-user 14 UP1A.231005.007 WPNE2OD3XS9A3 release-keys|qcom|pineapple|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 171
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:14/UP1A.231005.007/CR37TU35HERIP:user/release-keys|b0sxx-user 14 UP1A.231005.007 CR37TU35HERIP release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 172
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/NEJRTDSTSH76B:user/release-keys|g0sxx-user 14 UP1A.231005.007 NEJRTDSTSH76B release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S23 Variant 173
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:14/UP1A.231005.007/UXCLL4V525F3G:user/release-keys|dm1qxx-user 14 UP1A.231005.007 UXCLL4V525F3G release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S24 Variant 174
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:13/TP1A.220624.014/1079VGNPH4UNK:user/release-keys|e1sxx-user 13 TP1A.220624.014 1079VGNPH4UNK release-keys|exynos|exynos2400|TP1A.220624.014
+# Samsung Galaxy S21+ Variant 175
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/FL76CUYKWC38S:user/release-keys|t2sxx-user 13 TP1A.220624.014 FL76CUYKWC38S release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S21 Variant 176
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/SAVHMQW9W62NX:user/release-keys|o1sxx-user 12 SP1A.210812.016 SAVHMQW9W62NX release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S24 Ultra Variant 177
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:12/SP1A.210812.016/NBLVFPG4VWU2R:user/release-keys|e3qxx-user 12 SP1A.210812.016 NBLVFPG4VWU2R release-keys|qcom|pineapple|SP1A.210812.016
+# Samsung Galaxy S21 Variant 178
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/57HHPWDYHH5BT:user/release-keys|o1sxx-user 12 SP1A.210812.016 57HHPWDYHH5BT release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy Z Fold 4 Variant 179
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/E25S157RRHPPY:user/release-keys|q4qxx-user 12 SP1A.210812.016 E25S157RRHPPY release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy A53 Variant 180
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:13/TP1A.220624.014/4CIQIHW9PYEJT:user/release-keys|a53xxx-user 13 TP1A.220624.014 4CIQIHW9PYEJT release-keys|exynos|s5e8825|TP1A.220624.014
+# Samsung Galaxy S21 Ultra Variant 181
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:13/TP1A.220624.014/HTZNAE1D9NZ1O:user/release-keys|p3sxx-user 13 TP1A.220624.014 HTZNAE1D9NZ1O release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S24 Variant 182
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:14/UP1A.231005.007/W2J9ZACJQGAZX:user/release-keys|e1sxx-user 14 UP1A.231005.007 W2J9ZACJQGAZX release-keys|exynos|exynos2400|UP1A.231005.007
+# Samsung Galaxy S23+ Variant 183
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/KFK6DIBQ35I9L:user/release-keys|dm2qxx-user 12 SP1A.210812.016 KFK6DIBQ35I9L release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S22 Variant 184
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/4V3DVWUBF3JFX:user/release-keys|r0sxx-user 12 SP1A.210812.016 4V3DVWUBF3JFX release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S21 Ultra Variant 185
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:12/SP1A.210812.016/GOI2KOGYSR8TM:user/release-keys|p3sxx-user 12 SP1A.210812.016 GOI2KOGYSR8TM release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy Z Fold 4 Variant 186
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:14/UP1A.231005.007/AB0MAHVWMGLS0:user/release-keys|q4qxx-user 14 UP1A.231005.007 AB0MAHVWMGLS0 release-keys|qcom|taro|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 187
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:12/SP1A.210812.016/ICP7FO7AA98ER:user/release-keys|g0sxx-user 12 SP1A.210812.016 ICP7FO7AA98ER release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S21 Ultra Variant 188
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:14/UP1A.231005.007/74L299AVKQ0LJ:user/release-keys|p3sxx-user 14 UP1A.231005.007 74L299AVKQ0LJ release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy S23 Variant 189
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:14/UP1A.231005.007/51EQDEWPDHT0V:user/release-keys|dm1qxx-user 14 UP1A.231005.007 51EQDEWPDHT0V release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy A53 Variant 190
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/RI6KFIAK2VRDI:user/release-keys|a53xxx-user 14 UP1A.231005.007 RI6KFIAK2VRDI release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy Z Fold 5 Variant 191
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:13/TP1A.220624.014/DYAKT98IQW5UK:user/release-keys|q5qxx-user 13 TP1A.220624.014 DYAKT98IQW5UK release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S24 Variant 192
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:13/TP1A.220624.014/79SFSMZXSJ5YQ:user/release-keys|e1sxx-user 13 TP1A.220624.014 79SFSMZXSJ5YQ release-keys|exynos|exynos2400|TP1A.220624.014
+# Samsung Galaxy S24 Variant 193
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:13/TP1A.220624.014/KZFT738JQ5CYK:user/release-keys|e1sxx-user 13 TP1A.220624.014 KZFT738JQ5CYK release-keys|exynos|exynos2400|TP1A.220624.014
+# Samsung Galaxy S21 Variant 194
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:14/UP1A.231005.007/3OQUDTP9XG827:user/release-keys|o1sxx-user 14 UP1A.231005.007 3OQUDTP9XG827 release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy A54 Variant 195
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:12/SP1A.210812.016/R3IZCXAC8A97J:user/release-keys|a54xxx-user 12 SP1A.210812.016 R3IZCXAC8A97J release-keys|exynos|s5e8835|SP1A.210812.016
+# Samsung Galaxy S23 Ultra Variant 196
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:14/UP1A.231005.007/WPAE7I81AFV5M:user/release-keys|dm3qxx-user 14 UP1A.231005.007 WPAE7I81AFV5M release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 197
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:12/SP1A.210812.016/RE3821N3N7AGO:user/release-keys|b0sxx-user 12 SP1A.210812.016 RE3821N3N7AGO release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy Z Fold 5 Variant 198
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:14/UP1A.231005.007/MXSW8P0NI7CLP:user/release-keys|q5qxx-user 14 UP1A.231005.007 MXSW8P0NI7CLP release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 199
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:13/TP1A.220624.014/NMVHSWJ6DFP1I:user/release-keys|g0sxx-user 13 TP1A.220624.014 NMVHSWJ6DFP1I release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy Z Fold 3 Variant 200
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:12/SP1A.210812.016/CJYMUPTC5D8W4:user/release-keys|q2qxx-user 12 SP1A.210812.016 CJYMUPTC5D8W4 release-keys|qcom|lahaina|SP1A.210812.016
+# Samsung Galaxy S22 Variant 201
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/K238CPPFRNO1Q:user/release-keys|r0sxx-user 12 SP1A.210812.016 K238CPPFRNO1Q release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S21+ Variant 202
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:12/SP1A.210812.016/HGN17S4HNCG39:user/release-keys|t2sxx-user 12 SP1A.210812.016 HGN17S4HNCG39 release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S24 Ultra Variant 203
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:14/UP1A.231005.007/PQGZ4A4Y9V8FF:user/release-keys|e3qxx-user 14 UP1A.231005.007 PQGZ4A4Y9V8FF release-keys|qcom|pineapple|UP1A.231005.007
+# Samsung Galaxy S21+ Variant 204
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:12/SP1A.210812.016/45SV1935W4DV1:user/release-keys|t2sxx-user 12 SP1A.210812.016 45SV1935W4DV1 release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy Z Fold 5 Variant 205
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:14/UP1A.231005.007/424UFNWN44QQP:user/release-keys|q5qxx-user 14 UP1A.231005.007 424UFNWN44QQP release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22 Variant 206
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:14/UP1A.231005.007/JSPH0YOI0HSRD:user/release-keys|r0sxx-user 14 UP1A.231005.007 JSPH0YOI0HSRD release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 207
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/PVCMSRO3G3EFY:user/release-keys|g0sxx-user 14 UP1A.231005.007 PVCMSRO3G3EFY release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 208
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/8AZRHS4EUNXSP:user/release-keys|q4qxx-user 12 SP1A.210812.016 8AZRHS4EUNXSP release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy Z Fold 5 Variant 209
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:13/TP1A.220624.014/Z9UJNHARMHRX0:user/release-keys|q5qxx-user 13 TP1A.220624.014 Z9UJNHARMHRX0 release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy A54 Variant 210
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:12/SP1A.210812.016/412YDUOEUC7NY:user/release-keys|a54xxx-user 12 SP1A.210812.016 412YDUOEUC7NY release-keys|exynos|s5e8835|SP1A.210812.016
+# Samsung Galaxy Z Fold 5 Variant 211
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:14/UP1A.231005.007/WDLZB9BPTV9FT:user/release-keys|q5qxx-user 14 UP1A.231005.007 WDLZB9BPTV9FT release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 212
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/SB0DFIYDW5XU0:user/release-keys|q4qxx-user 12 SP1A.210812.016 SB0DFIYDW5XU0 release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy S22+ Variant 213
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:12/SP1A.210812.016/XC1YJ7EQC2MFH:user/release-keys|g0sxx-user 12 SP1A.210812.016 XC1YJ7EQC2MFH release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 214
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/4QZO0H78WKG5H:user/release-keys|dm2qxx-user 12 SP1A.210812.016 4QZO0H78WKG5H release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy Z Fold 3 Variant 215
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:14/UP1A.231005.007/1A5T4W2PHK4QR:user/release-keys|q2qxx-user 14 UP1A.231005.007 1A5T4W2PHK4QR release-keys|qcom|lahaina|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 216
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/BF54D8IH4W1CJ:user/release-keys|g0sxx-user 14 UP1A.231005.007 BF54D8IH4W1CJ release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S24 Variant 217
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:14/UP1A.231005.007/QJ92ETSK7CSTW:user/release-keys|e1sxx-user 14 UP1A.231005.007 QJ92ETSK7CSTW release-keys|exynos|exynos2400|UP1A.231005.007
+# Samsung Galaxy S23+ Variant 218
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:13/TP1A.220624.014/99X3YBIQFSKUB:user/release-keys|dm2qxx-user 13 TP1A.220624.014 99X3YBIQFSKUB release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S23 Ultra Variant 219
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:14/UP1A.231005.007/IITLRN9JOBXFJ:user/release-keys|dm3qxx-user 14 UP1A.231005.007 IITLRN9JOBXFJ release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22 Variant 220
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:14/UP1A.231005.007/9WW3VW2IGHZW5:user/release-keys|r0sxx-user 14 UP1A.231005.007 9WW3VW2IGHZW5 release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 221
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/W4YY3V3QBZBXJ:user/release-keys|q4qxx-user 12 SP1A.210812.016 W4YY3V3QBZBXJ release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy S22 Variant 222
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:13/TP1A.220624.014/R7IGQMRTXIC4U:user/release-keys|r0sxx-user 13 TP1A.220624.014 R7IGQMRTXIC4U release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S24 Ultra Variant 223
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:13/TP1A.220624.014/689P9AFGSO1PL:user/release-keys|e3qxx-user 13 TP1A.220624.014 689P9AFGSO1PL release-keys|qcom|pineapple|TP1A.220624.014
+# Samsung Galaxy S22+ Variant 224
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:12/SP1A.210812.016/DH7NBT46R4AJP:user/release-keys|g0sxx-user 12 SP1A.210812.016 DH7NBT46R4AJP release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S23 Ultra Variant 225
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/IYZR3ING6LUUG:user/release-keys|dm3qxx-user 12 SP1A.210812.016 IYZR3ING6LUUG release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S24 Variant 226
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:14/UP1A.231005.007/XZMM967NV62XL:user/release-keys|e1sxx-user 14 UP1A.231005.007 XZMM967NV62XL release-keys|exynos|exynos2400|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 227
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/DF66MJX136IBJ:user/release-keys|q4qxx-user 12 SP1A.210812.016 DF66MJX136IBJ release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy S22+ Variant 228
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/XUOJZ1JP4H6TI:user/release-keys|g0sxx-user 14 UP1A.231005.007 XUOJZ1JP4H6TI release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy A53 Variant 229
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:13/TP1A.220624.014/OEUT1SFP2C9E4:user/release-keys|a53xxx-user 13 TP1A.220624.014 OEUT1SFP2C9E4 release-keys|exynos|s5e8825|TP1A.220624.014
+# Samsung Galaxy A53 Variant 230
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:12/SP1A.210812.016/UB5EX9NHTCT17:user/release-keys|a53xxx-user 12 SP1A.210812.016 UB5EX9NHTCT17 release-keys|exynos|s5e8825|SP1A.210812.016
+# Samsung Galaxy S24 Variant 231
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:12/SP1A.210812.016/UNZI3LL54BANF:user/release-keys|e1sxx-user 12 SP1A.210812.016 UNZI3LL54BANF release-keys|exynos|exynos2400|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 232
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:13/TP1A.220624.014/LUK4VO6MCOCNZ:user/release-keys|dm2qxx-user 13 TP1A.220624.014 LUK4VO6MCOCNZ release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S21 Variant 233
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:13/TP1A.220624.014/IPEGJEP2N9TLC:user/release-keys|o1sxx-user 13 TP1A.220624.014 IPEGJEP2N9TLC release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S21 Ultra Variant 234
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:13/TP1A.220624.014/LXTENDU28D94L:user/release-keys|p3sxx-user 13 TP1A.220624.014 LXTENDU28D94L release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S21 Variant 235
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/POJRVSC7S4XUT:user/release-keys|o1sxx-user 12 SP1A.210812.016 POJRVSC7S4XUT release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S21 Variant 236
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:13/TP1A.220624.014/RWNVEL90K5XXO:user/release-keys|o1sxx-user 13 TP1A.220624.014 RWNVEL90K5XXO release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S21+ Variant 237
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/L3OMNHHHVK7PD:user/release-keys|t2sxx-user 13 TP1A.220624.014 L3OMNHHHVK7PD release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy Z Fold 5 Variant 238
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:12/SP1A.210812.016/I0XG5I14NW6RY:user/release-keys|q5qxx-user 12 SP1A.210812.016 I0XG5I14NW6RY release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S24 Variant 239
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:12/SP1A.210812.016/HELIINSSAGVBS:user/release-keys|e1sxx-user 12 SP1A.210812.016 HELIINSSAGVBS release-keys|exynos|exynos2400|SP1A.210812.016
+# Samsung Galaxy S23 Variant 240
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:13/TP1A.220624.014/TS9PGQVJ2Q6KM:user/release-keys|dm1qxx-user 13 TP1A.220624.014 TS9PGQVJ2Q6KM release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy S22+ Variant 241
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/9R7OWHUB1MVVV:user/release-keys|g0sxx-user 14 UP1A.231005.007 9R7OWHUB1MVVV release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy Z Fold 3 Variant 242
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:13/TP1A.220624.014/JIOEWVQXZCFNH:user/release-keys|q2qxx-user 13 TP1A.220624.014 JIOEWVQXZCFNH release-keys|qcom|lahaina|TP1A.220624.014
+# Samsung Galaxy S24 Variant 243
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:14/UP1A.231005.007/2EWJSGDAD5JEK:user/release-keys|e1sxx-user 14 UP1A.231005.007 2EWJSGDAD5JEK release-keys|exynos|exynos2400|UP1A.231005.007
+# Samsung Galaxy Z Fold 5 Variant 244
+Samsung|samsung|SM-F946B|q5qxx|q5q|samsung/q5qxx/q5q:14/UP1A.231005.007/2TMRNT0IEZI2E:user/release-keys|q5qxx-user 14 UP1A.231005.007 2TMRNT0IEZI2E release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 245
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:13/TP1A.220624.014/JEV51L160OY5B:user/release-keys|b0sxx-user 13 TP1A.220624.014 JEV51L160OY5B release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S23+ Variant 246
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:14/UP1A.231005.007/D1WSIIPJJAH23:user/release-keys|dm2qxx-user 14 UP1A.231005.007 D1WSIIPJJAH23 release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 247
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/GTX8GUSP2RWTH:user/release-keys|q4qxx-user 12 SP1A.210812.016 GTX8GUSP2RWTH release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy S23+ Variant 248
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/8VU6MDCD7EC6J:user/release-keys|dm2qxx-user 12 SP1A.210812.016 8VU6MDCD7EC6J release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy A54 Variant 249
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:12/SP1A.210812.016/YWL2FSIL781SQ:user/release-keys|a54xxx-user 12 SP1A.210812.016 YWL2FSIL781SQ release-keys|exynos|s5e8835|SP1A.210812.016
+# Samsung Galaxy A53 Variant 250
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:12/SP1A.210812.016/OX7G3M2MSORBO:user/release-keys|a53xxx-user 12 SP1A.210812.016 OX7G3M2MSORBO release-keys|exynos|s5e8825|SP1A.210812.016
+# Samsung Galaxy S21 Variant 251
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/5X99VTPKOJJWD:user/release-keys|o1sxx-user 12 SP1A.210812.016 5X99VTPKOJJWD release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy A54 Variant 252
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:14/UP1A.231005.007/M3QGNEH1LYM04:user/release-keys|a54xxx-user 14 UP1A.231005.007 M3QGNEH1LYM04 release-keys|exynos|s5e8835|UP1A.231005.007
+# Samsung Galaxy Z Fold 3 Variant 253
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:13/TP1A.220624.014/TR9QSMZURJIE5:user/release-keys|q2qxx-user 13 TP1A.220624.014 TR9QSMZURJIE5 release-keys|qcom|lahaina|TP1A.220624.014
+# Samsung Galaxy S22 Variant 254
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/6AV1F5TTZPX8U:user/release-keys|r0sxx-user 12 SP1A.210812.016 6AV1F5TTZPX8U release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy A53 Variant 255
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/HD7YYU6VEVMF0:user/release-keys|a53xxx-user 14 UP1A.231005.007 HD7YYU6VEVMF0 release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 256
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/PS4SAFAIQDI13:user/release-keys|g0sxx-user 14 UP1A.231005.007 PS4SAFAIQDI13 release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S22 Ultra Variant 257
+Samsung|samsung|SM-S908B|b0sxx|b0s|samsung/b0sxx/b0s:12/SP1A.210812.016/QDYDMHZSIGIDE:user/release-keys|b0sxx-user 12 SP1A.210812.016 QDYDMHZSIGIDE release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S21+ Variant 258
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/60BI55BGHLGFT:user/release-keys|t2sxx-user 13 TP1A.220624.014 60BI55BGHLGFT release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy A53 Variant 259
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:12/SP1A.210812.016/UQCJGX5RDR6QP:user/release-keys|a53xxx-user 12 SP1A.210812.016 UQCJGX5RDR6QP release-keys|exynos|s5e8825|SP1A.210812.016
+# Samsung Galaxy S21+ Variant 260
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:13/TP1A.220624.014/CHZILWP1XJM7H:user/release-keys|t2sxx-user 13 TP1A.220624.014 CHZILWP1XJM7H release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S24 Variant 261
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:12/SP1A.210812.016/T77XX9CHB3FVN:user/release-keys|e1sxx-user 12 SP1A.210812.016 T77XX9CHB3FVN release-keys|exynos|exynos2400|SP1A.210812.016
+# Samsung Galaxy A53 Variant 262
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:13/TP1A.220624.014/9I00G9DEAPFAZ:user/release-keys|a53xxx-user 13 TP1A.220624.014 9I00G9DEAPFAZ release-keys|exynos|s5e8825|TP1A.220624.014
+# Samsung Galaxy S21 Variant 263
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:14/UP1A.231005.007/O0JV648JLKJIV:user/release-keys|o1sxx-user 14 UP1A.231005.007 O0JV648JLKJIV release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy S24 Ultra Variant 264
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:14/UP1A.231005.007/T8YQ1TN4D5P75:user/release-keys|e3qxx-user 14 UP1A.231005.007 T8YQ1TN4D5P75 release-keys|qcom|pineapple|UP1A.231005.007
+# Samsung Galaxy S23+ Variant 265
+Samsung|samsung|SM-S916B|dm2qxx|dm2q|samsung/dm2qxx/dm2q:12/SP1A.210812.016/YFK5IKP5GU5DT:user/release-keys|dm2qxx-user 12 SP1A.210812.016 YFK5IKP5GU5DT release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy S21 Variant 266
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:14/UP1A.231005.007/THQY2OI0ERXN0:user/release-keys|o1sxx-user 14 UP1A.231005.007 THQY2OI0ERXN0 release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy Z Fold 3 Variant 267
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:14/UP1A.231005.007/XABB9QXRIQKVZ:user/release-keys|q2qxx-user 14 UP1A.231005.007 XABB9QXRIQKVZ release-keys|qcom|lahaina|UP1A.231005.007
+# Samsung Galaxy S21+ Variant 268
+Samsung|samsung|SM-G996B|t2sxx|t2s|samsung/t2sxx/t2s:12/SP1A.210812.016/EJT7SEIMK4YPR:user/release-keys|t2sxx-user 12 SP1A.210812.016 EJT7SEIMK4YPR release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S23 Ultra Variant 269
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:14/UP1A.231005.007/0GHON3IB0VCPK:user/release-keys|dm3qxx-user 14 UP1A.231005.007 0GHON3IB0VCPK release-keys|qcom|kalama|UP1A.231005.007
+# Samsung Galaxy S21 Ultra Variant 270
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:13/TP1A.220624.014/WK4U9FI343KY6:user/release-keys|p3sxx-user 13 TP1A.220624.014 WK4U9FI343KY6 release-keys|exynos|exynos2100|TP1A.220624.014
+# Samsung Galaxy S22 Variant 271
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/VHLUHWLMC0I0L:user/release-keys|r0sxx-user 12 SP1A.210812.016 VHLUHWLMC0I0L release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S24 Ultra Variant 272
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:12/SP1A.210812.016/UD02KXWGCDLFL:user/release-keys|e3qxx-user 12 SP1A.210812.016 UD02KXWGCDLFL release-keys|qcom|pineapple|SP1A.210812.016
+# Samsung Galaxy Z Fold 3 Variant 273
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:12/SP1A.210812.016/RQVDI6TKAPUWN:user/release-keys|q2qxx-user 12 SP1A.210812.016 RQVDI6TKAPUWN release-keys|qcom|lahaina|SP1A.210812.016
+# Samsung Galaxy A54 Variant 274
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:14/UP1A.231005.007/DPAK464O8U7PW:user/release-keys|a54xxx-user 14 UP1A.231005.007 DPAK464O8U7PW release-keys|exynos|s5e8835|UP1A.231005.007
+# Samsung Galaxy Z Fold 4 Variant 275
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:13/TP1A.220624.014/Z8NR67VPZIR3L:user/release-keys|q4qxx-user 13 TP1A.220624.014 Z8NR67VPZIR3L release-keys|qcom|taro|TP1A.220624.014
+# Samsung Galaxy S23 Ultra Variant 276
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/NCAUIHKJCM20X:user/release-keys|dm3qxx-user 12 SP1A.210812.016 NCAUIHKJCM20X release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy Z Fold 4 Variant 277
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:14/UP1A.231005.007/CMZEREIFITLFC:user/release-keys|q4qxx-user 14 UP1A.231005.007 CMZEREIFITLFC release-keys|qcom|taro|UP1A.231005.007
+# Samsung Galaxy S22+ Variant 278
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:14/UP1A.231005.007/8Q171DWJ9TGAN:user/release-keys|g0sxx-user 14 UP1A.231005.007 8Q171DWJ9TGAN release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy S21 Variant 279
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/0Y86U6RIOLT3M:user/release-keys|o1sxx-user 12 SP1A.210812.016 0Y86U6RIOLT3M release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy A54 Variant 280
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:12/SP1A.210812.016/17UPGHMZVVHVF:user/release-keys|a54xxx-user 12 SP1A.210812.016 17UPGHMZVVHVF release-keys|exynos|s5e8835|SP1A.210812.016
+# Samsung Galaxy S21 Variant 281
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:14/UP1A.231005.007/B24E69E3VX7SW:user/release-keys|o1sxx-user 14 UP1A.231005.007 B24E69E3VX7SW release-keys|exynos|exynos2100|UP1A.231005.007
+# Samsung Galaxy S22 Variant 282
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/WNDG4V7XDMFN5:user/release-keys|r0sxx-user 12 SP1A.210812.016 WNDG4V7XDMFN5 release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S22 Variant 283
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:12/SP1A.210812.016/5QANUZQ5UI313:user/release-keys|r0sxx-user 12 SP1A.210812.016 5QANUZQ5UI313 release-keys|exynos|s5e2200|SP1A.210812.016
+# Samsung Galaxy S21 Variant 284
+Samsung|samsung|SM-G991B|o1sxx|o1s|samsung/o1sxx/o1s:12/SP1A.210812.016/LJ7QXYOF5CQEN:user/release-keys|o1sxx-user 12 SP1A.210812.016 LJ7QXYOF5CQEN release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy S22+ Variant 285
+Samsung|samsung|SM-S906B|g0sxx|g0s|samsung/g0sxx/g0s:13/TP1A.220624.014/L6W4FMKVKL6HH:user/release-keys|g0sxx-user 13 TP1A.220624.014 L6W4FMKVKL6HH release-keys|exynos|s5e2200|TP1A.220624.014
+# Samsung Galaxy S24 Variant 286
+Samsung|samsung|SM-S921B|e1sxx|e1s|samsung/e1sxx/e1s:12/SP1A.210812.016/FXV5CQTJV718R:user/release-keys|e1sxx-user 12 SP1A.210812.016 FXV5CQTJV718R release-keys|exynos|exynos2400|SP1A.210812.016
+# Samsung Galaxy A54 Variant 287
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:14/UP1A.231005.007/KQ0UOGU15P542:user/release-keys|a54xxx-user 14 UP1A.231005.007 KQ0UOGU15P542 release-keys|exynos|s5e8835|UP1A.231005.007
+# Samsung Galaxy S23 Ultra Variant 288
+Samsung|samsung|SM-S918B|dm3qxx|dm3q|samsung/dm3qxx/dm3q:12/SP1A.210812.016/P1CIXCMBAS08X:user/release-keys|dm3qxx-user 12 SP1A.210812.016 P1CIXCMBAS08X release-keys|qcom|kalama|SP1A.210812.016
+# Samsung Galaxy A54 Variant 289
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:13/TP1A.220624.014/R7BH824MBUW5V:user/release-keys|a54xxx-user 13 TP1A.220624.014 R7BH824MBUW5V release-keys|exynos|s5e8835|TP1A.220624.014
+# Samsung Galaxy Z Fold 4 Variant 290
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:12/SP1A.210812.016/DYGCTBD3KF4RJ:user/release-keys|q4qxx-user 12 SP1A.210812.016 DYGCTBD3KF4RJ release-keys|qcom|taro|SP1A.210812.016
+# Samsung Galaxy S23 Variant 291
+Samsung|samsung|SM-S911B|dm1qxx|dm1q|samsung/dm1qxx/dm1q:13/TP1A.220624.014/SXGY1D2C8QWP9:user/release-keys|dm1qxx-user 13 TP1A.220624.014 SXGY1D2C8QWP9 release-keys|qcom|kalama|TP1A.220624.014
+# Samsung Galaxy A54 Variant 292
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:12/SP1A.210812.016/E084LY6NG3S9Y:user/release-keys|a54xxx-user 12 SP1A.210812.016 E084LY6NG3S9Y release-keys|exynos|s5e8835|SP1A.210812.016
+# Samsung Galaxy S21 Ultra Variant 293
+Samsung|samsung|SM-G998B|p3sxx|p3s|samsung/p3sxx/p3s:12/SP1A.210812.016/YT8DMUNUN8JCW:user/release-keys|p3sxx-user 12 SP1A.210812.016 YT8DMUNUN8JCW release-keys|exynos|exynos2100|SP1A.210812.016
+# Samsung Galaxy Z Fold 4 Variant 294
+Samsung|samsung|SM-F936B|q4qxx|q4q|samsung/q4qxx/q4q:13/TP1A.220624.014/QOHQSE8W2E8EZ:user/release-keys|q4qxx-user 13 TP1A.220624.014 QOHQSE8W2E8EZ release-keys|qcom|taro|TP1A.220624.014
+# Samsung Galaxy S22 Variant 295
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:14/UP1A.231005.007/P2ZSLK84L5YJQ:user/release-keys|r0sxx-user 14 UP1A.231005.007 P2ZSLK84L5YJQ release-keys|exynos|s5e2200|UP1A.231005.007
+# Samsung Galaxy A54 Variant 296
+Samsung|samsung|SM-A546B|a54xxx|a54x|samsung/a54xxx/a54x:12/SP1A.210812.016/L47IPQBI1Z7DB:user/release-keys|a54xxx-user 12 SP1A.210812.016 L47IPQBI1Z7DB release-keys|exynos|s5e8835|SP1A.210812.016
+# Samsung Galaxy Z Fold 3 Variant 297
+Samsung|samsung|SM-F926B|q2qxx|q2q|samsung/q2qxx/q2q:12/SP1A.210812.016/SRJR92Q43IWA7:user/release-keys|q2qxx-user 12 SP1A.210812.016 SRJR92Q43IWA7 release-keys|qcom|lahaina|SP1A.210812.016
+# Samsung Galaxy S24 Ultra Variant 298
+Samsung|samsung|SM-S928B|e3qxx|e3q|samsung/e3qxx/e3q:12/SP1A.210812.016/Y3YWPEJS3P9WO:user/release-keys|e3qxx-user 12 SP1A.210812.016 Y3YWPEJS3P9WO release-keys|qcom|pineapple|SP1A.210812.016
+# Samsung Galaxy A53 Variant 299
+Samsung|samsung|SM-A536B|a53xxx|a53x|samsung/a53xxx/a53x:14/UP1A.231005.007/Z7IKFO7VWUX2B:user/release-keys|a53xxx-user 14 UP1A.231005.007 Z7IKFO7VWUX2B release-keys|exynos|s5e8825|UP1A.231005.007
+# Samsung Galaxy S22 Variant 300
+Samsung|samsung|SM-S901B|r0sxx|r0s|samsung/r0sxx/r0s:13/TP1A.220624.014/09OPD77X3VAYC:user/release-keys|r0sxx-user 13 TP1A.220624.014 09OPD77X3VAYC release-keys|exynos|s5e2200|TP1A.220624.014

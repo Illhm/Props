@@ -31,7 +31,6 @@ NEW_SERIAL=$(cat /dev/urandom | tr -dc 'A-Z0-9' | fold -w 12 | head -n 1)
 check_resetprop ro.serialno "$NEW_SERIAL"
 check_resetprop ro.boot.serialno "$NEW_SERIAL"
 
-#<<<<<<< jules-feature-dynamic-prop-spoofer-3941110926178273538
 # Spoof core properties across all partitions
 for prefix in "" bootimage. odm. odm_dlkm. product. system. system_ext. vendor. vendor_dlkm.; do
     check_resetprop "ro.${prefix}build.fingerprint" "$FINGERPRINT"
@@ -57,13 +56,6 @@ check_resetprop ro.build.host "builder"
 check_resetprop ro.build.user "builder"
 check_resetprop ro.hardware "$HARDWARE"
 check_resetprop ro.product.board "$BOARD"
-#=======
-#XKatrina
-#
-if [ -f "$MODDIR/custom_props.txt" ]; then
-  . "$MODDIR/custom_props.txt"
-fi
-#>>>>>>> main
 
 # Fix Lineage and Debugging props
 replace_value_resetprop ro.build.description "aosp_" ""
