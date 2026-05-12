@@ -42,7 +42,14 @@ DATE_STR=$(date -d "@$TIMESTAMP" 2>/dev/null || date)
 BUILD_ID=$(echo "$FINGERPRINT" | cut -d'/' -f4)
 INCREMENTAL=$(echo "$FINGERPRINT" | cut -d'/' -f5 | cut -d':' -f1)
 
+# Generate Random Android ID (16 hex chars)
+NEW_ANDROID_ID=$(tr -dc 'a-f0-9' < /dev/urandom | head -c 16)
+
 echo "Generating new props for: $BRAND $MODEL ($DEVICE)"
+
+# Terapkan Android ID baru langsung
+settings put secure android_id "$NEW_ANDROID_ID"
+echo "Applied new Settings.Secure.ANDROID_ID: $NEW_ANDROID_ID"
 
 # Buat file custom_props.txt baru
 cat <<EOF > "$CUSTOM_PROPS"
