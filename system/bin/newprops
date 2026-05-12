@@ -52,8 +52,11 @@ NEW_ANDROID_ID=$(tr -dc 'a-f0-9' < /dev/urandom | head -c 16)
 echo "Generating new props for: $BRAND $MODEL ($DEVICE) | Android $OS_VER"
 
 # Terapkan Android ID baru langsung
-settings put secure android_id "$NEW_ANDROID_ID"
+settings put secure android_id "$NEW_ANDROID_ID" >/dev/null 2>&1
 echo "Applied new Settings.Secure.ANDROID_ID: $NEW_ANDROID_ID"
+
+# Save new Android ID to be applied on next boot
+echo "$NEW_ANDROID_ID" > "$MODDIR/android_id.txt"
 
 # Buat file custom_props.txt baru
 cat <<EOF > "$CUSTOM_PROPS"
