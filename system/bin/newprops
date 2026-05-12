@@ -51,9 +51,13 @@ NEW_ANDROID_ID=$(tr -dc 'a-f0-9' < /dev/urandom | head -c 16)
 
 echo "Generating new props for: $BRAND $MODEL ($DEVICE) | Android $OS_VER"
 
-# Terapkan Android ID baru langsung
-settings put secure android_id "$NEW_ANDROID_ID"
-echo "Applied new Settings.Secure.ANDROID_ID: $NEW_ANDROID_ID"
+# Terapkan Android ID baru langsung (Abaikan pesan error jika diblokir oleh sistem)
+if settings put secure android_id "$NEW_ANDROID_ID" 2>/dev/null; then
+    echo "Applied new Settings.Secure.ANDROID_ID: $NEW_ANDROID_ID"
+else
+    echo "Warning: System blocked automatic Android ID changes. (Props are still updated!)"
+    echo "-> You may need to use an Xposed module or change Android ID manually if needed."
+fi
 
 # Buat file custom_props.txt baru
 cat <<EOF > "$CUSTOM_PROPS"
