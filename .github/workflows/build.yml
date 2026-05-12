@@ -1,4 +1,4 @@
-name: Build Magisk Module
+name: Build and Sign APK
 
 on:
   push:
@@ -21,41 +21,53 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create Module Zip
-        run: |
-          # Read module.prop to extract info
-          MODID=$(grep '^id=' module.prop | cut -d'=' -f2)
-          MODVERSION=$(grep '^version=' module.prop | cut -d'=' -f2 | tr -d '\r')
-
-          # Gunakan format tag yang unik dengan short SHA agar tidak error jika push berulang di versi yang sama
-          SHORT_SHA=$(echo ${{ github.sha }} | cut -c1-7)
-          TAG_NAME="v${MODVERSION}-${SHORT_SHA}"
-
-          ZIP_NAME="${MODID}_${TAG_NAME}.zip"
-
-          echo "MODVERSION=${MODVERSION}" >> $GITHUB_ENV
-          echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
-
-          # Zip all relevant files, excluding git and workflow folders
-          zip -r9 "$ZIP_NAME" . -x "*.git*" -x "*.github*" -x "*.DS_Store"
-
-          echo "ZIP_FILE=$ZIP_NAME" >> $GITHUB_ENV
-
-      - name: Upload to GitHub Release
-        if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
-        uses: softprops/action-gh-release@v2
+      - name: Setup Java
+        uses: actions/setup-java@v4
         with:
-          tag_name: "${{ env.TAG_NAME }}"
-          name: "Release ${{ env.TAG_NAME }}"
-          files: ${{ env.ZIP_FILE }}
-          draft: false
-          prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          distribution: 'zulu'
+          java-version: '17'
 
-      - name: Upload Artifact (Fallback)
+      - name: Setup Gradle
+        uses: gradle/gradle-build-action@v3
+
+      - name: Generate Keystore
+        run: |
+          keytool -genkeypair -v \
+            -keystore my-release-key.jks \
+            -alias my-key-alias \
+            -keyalg RSA \
+            -keysize 2048 \
+            -validity 10000 \
+            -storepass "password123" \
+            -keypass "password123" \
+            -dname "CN=MockAPI, OU=Privacy, O=Privacy, L=Jakarta, ST=DKI Jakarta, C=ID"
+
+      - name: Build Release APK
+        run: ./gradlew assembleRelease
+
+      - name: Setup Android SDK Build-Tools
+        uses: android-actions/setup-android@v3
+
+      - name: Sign APK
+        run: |
+          BUILD_TOOLS_VERSION=$(ls -1 $ANDROID_HOME/build-tools | sort -rV | head -n 1)
+          APKSIGNER="$ANDROID_HOME/build-tools/$BUILD_TOOLS_VERSION/apksigner"
+
+          # Align APK
+          $ANDROID_HOME/build-tools/$BUILD_TOOLS_VERSION/zipalign -v -p 4 app/build/outputs/apk/release/app-release-unsigned.apk app/build/outputs/apk/release/app-release-aligned.apk
+
+          # Sign APK
+          $APKSIGNER sign \
+            --ks my-release-key.jks \
+            --ks-key-alias my-key-alias \
+            --ks-pass pass:"password123" \
+            --key-pass pass:"password123" \
+            --out app/build/outputs/apk/release/PrivacyMockAPI-release-signed.apk \
+            app/build/outputs/apk/release/app-release-aligned.apk
+
+      - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ env.ZIP_FILE }}
-          path: ${{ env.ZIP_FILE }}
-          compression-level: 0 # Disable double zip compression for artifacts
+          name: PrivacyMockAPI-Release-APK
+          path: app/build/outputs/apk/release/PrivacyMockAPI-release-signed.apk
+          compression-level: 0

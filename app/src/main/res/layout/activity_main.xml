@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Privacy Mock API Config"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="24dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnGenerateSamsung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate Samsung Props"
+        app:layout_constraintTop_toBottomOf="@id/tvStatus"
+        android:layout_marginTop="24dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnGenerateRandomAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate Random All Props"
+        app:layout_constraintTop_toBottomOf="@id/btnGenerateSamsung"
+        android:layout_marginTop="8dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnGenerateDeviceInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate Device Info (IMEI/ID)"
+        app:layout_constraintTop_toBottomOf="@id/btnGenerateRandomAll"
+        android:layout_marginTop="8dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@id/btnGenerateDeviceInfo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="24dp"
+        android:background="#1A000000"
+        android:padding="8dp">
+        <TextView
+            android:id="@+id/tvCurrentProps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Current configuration will appear here."
+            android:textSize="14sp"
+            android:fontFamily="monospace"
+            android:textColor="#333333"/>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
