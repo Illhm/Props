@@ -21,6 +21,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Android NDK
+        uses: nttld/setup-ndk@v1
+        id: setup-ndk
+        with:
+          ndk-version: r26b
+
+      - name: Build Zygisk Module
+        run: |
+          export NDK_PROJECT_PATH=.
+          export NDK_APPLICATION_MK=jni/Application.mk
+          ${{ steps.setup-ndk.outputs.ndk-path }}/ndk-build NDK_PROJECT_PATH=. APP_BUILD_SCRIPT=jni/Android.mk NDK_APPLICATION_MK=jni/Application.mk
+
+          # Move compiled .so files from libs/<abi>/libmodule.so to zygisk/<abi>.so
+          mkdir -p zygisk
+          if [ -d "libs" ]; then
+            for abi_dir in libs/*; do
+              if [ -d "$abi_dir" ]; then
+                abi=$(basename "$abi_dir")
+                if [ -f "$abi_dir/libmodule.so" ]; then
+                  cp "$abi_dir/libmodule.so" "zygisk/${abi}.so"
+                fi
+              fi
+            done
+          fi
+
       - name: Create Module Zip
         run: |
           # Read module.prop to extract info
