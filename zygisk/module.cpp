@@ -326,6 +326,28 @@ public:
             env->DeleteLocalRef(build_class);
             LOGD("Java android.os.Build fields updated via JNI");
         }
+
+        // Update nested class android.os.Build$VERSION
+        jclass version_class = env->FindClass("android/os/Build$VERSION");
+        if (version_class) {
+            auto setStringFieldVersion = [&](const char* fieldName, const std::string& propKey) {
+                auto it = custom_props.find(propKey);
+                if (it != custom_props.end()) {
+                    jfieldID fieldId = env->GetStaticFieldID(version_class, fieldName, "Ljava/lang/String;");
+                    if (fieldId) {
+                        jstring newStr = env->NewStringUTF(it->second.c_str());
+                        env->SetStaticObjectField(version_class, fieldId, newStr);
+                        env->DeleteLocalRef(newStr);
+                    }
+                }
+            };
+
+            setStringFieldVersion("RELEASE", "ro.build.version.release");
+            setStringFieldVersion("INCREMENTAL", "ro.build.version.incremental");
+
+            env->DeleteLocalRef(version_class);
+            LOGD("Java android.os.Build$VERSION fields updated via JNI");
+        }
     }
 
 private:
