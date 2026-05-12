@@ -29,6 +29,20 @@ if [ -f "/data/local/tmp/new_android_id.txt" ]; then
     fi
 fi
 
+# ==========================================
+# Complementary Settings untuk Mock Environment
+# ==========================================
+# 1. Reset Advertising ID
+settings put secure advertising_id 00000000-0000-0000-0000-000000000000 >/dev/null 2>&1
+settings put secure limit_ad_tracking 1 >/dev/null 2>&1
+
+# 2. Sinkronisasi Timezone & Auto Time
+settings put global auto_time 1 >/dev/null 2>&1
+settings put global auto_time_zone 1 >/dev/null 2>&1
+
+# 3. Sembunyikan Mock Location
+settings put secure mock_location 0 >/dev/null 2>&1
+
 # Pembersihan Cache Privasi
 # Hapus direktori/file dengan hati-hati (tanpa menyentuh folder pribadi)
 rm -rf /sdcard/.tongdun >/dev/null 2>&1
