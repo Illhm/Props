@@ -2,104 +2,69 @@ package com.privacy.mockapi.hooks
 
 import de.robv.android.xposed.XC_MethodHook
 import de.robv.android.xposed.XposedHelpers
-import com.privacy.mockapi.utils.MockDataGenerator
+import de.robv.android.xposed.XSharedPreferences
 
 object TelephonyHook {
 
-    fun applyHook(classLoader: ClassLoader) {
+    fun applyHook(classLoader: ClassLoader, prefs: XSharedPreferences?) {
+        val mockedImei = prefs?.getString("IMEI", "351234567890123") ?: "351234567890123"
+        val mockedMeid = prefs?.getString("MEID", "99000000000000") ?: "99000000000000"
+        val mockedImsi = prefs?.getString("IMSI", "310120123456789") ?: "310120123456789"
+
         val telephonyManagerClass = XposedHelpers.findClass("android.telephony.TelephonyManager", classLoader)
 
-        // Hook getImei
         try {
             XposedHelpers.findAndHookMethod(
-                telephonyManagerClass,
-                "getImei",
+                telephonyManagerClass, "getImei",
                 object : XC_MethodHook() {
-                    override fun beforeHookedMethod(param: MethodHookParam) {
-                        param.result = MockDataGenerator.generateImei()
-                    }
+                    override fun beforeHookedMethod(param: MethodHookParam) { param.result = mockedImei }
                 }
             )
-
             XposedHelpers.findAndHookMethod(
-                telephonyManagerClass,
-                "getImei",
-                Int::class.java,
+                telephonyManagerClass, "getImei", Int::class.java,
                 object : XC_MethodHook() {
-                    override fun beforeHookedMethod(param: MethodHookParam) {
-                        param.result = MockDataGenerator.generateImei()
-                    }
+                    override fun beforeHookedMethod(param: MethodHookParam) { param.result = mockedImei }
                 }
             )
-        } catch (e: NoSuchMethodError) {
-            // Ignore if method is not present in the current API level
-        }
+        } catch (e: NoSuchMethodError) {}
 
-        // Hook getDeviceId
         try {
             XposedHelpers.findAndHookMethod(
-                telephonyManagerClass,
-                "getDeviceId",
+                telephonyManagerClass, "getDeviceId",
                 object : XC_MethodHook() {
-                    override fun beforeHookedMethod(param: MethodHookParam) {
-                        param.result = MockDataGenerator.generateImei() // Usually IMEI
-                    }
+                    override fun beforeHookedMethod(param: MethodHookParam) { param.result = mockedImei }
                 }
             )
-
             XposedHelpers.findAndHookMethod(
-                telephonyManagerClass,
-                "getDeviceId",
-                Int::class.java,
+                telephonyManagerClass, "getDeviceId", Int::class.java,
                 object : XC_MethodHook() {
-                    override fun beforeHookedMethod(param: MethodHookParam) {
-                        param.result = MockDataGenerator.generateImei()
-                    }
+                    override fun beforeHookedMethod(param: MethodHookParam) { param.result = mockedImei }
                 }
             )
-        } catch (e: NoSuchMethodError) {
-            // Ignore
-        }
+        } catch (e: NoSuchMethodError) {}
 
-        // Hook getMeid
         try {
             XposedHelpers.findAndHookMethod(
-                telephonyManagerClass,
-                "getMeid",
+                telephonyManagerClass, "getMeid",
                 object : XC_MethodHook() {
-                    override fun beforeHookedMethod(param: MethodHookParam) {
-                        param.result = MockDataGenerator.generateMeid()
-                    }
+                    override fun beforeHookedMethod(param: MethodHookParam) { param.result = mockedMeid }
                 }
             )
-
             XposedHelpers.findAndHookMethod(
-                telephonyManagerClass,
-                "getMeid",
-                Int::class.java,
+                telephonyManagerClass, "getMeid", Int::class.java,
                 object : XC_MethodHook() {
-                    override fun beforeHookedMethod(param: MethodHookParam) {
-                        param.result = MockDataGenerator.generateMeid()
-                    }
+                    override fun beforeHookedMethod(param: MethodHookParam) { param.result = mockedMeid }
                 }
             )
-        } catch (e: NoSuchMethodError) {
-            // Ignore
-        }
+        } catch (e: NoSuchMethodError) {}
 
-        // Hook getSubscriberId (IMSI)
         try {
             XposedHelpers.findAndHookMethod(
-                telephonyManagerClass,
-                "getSubscriberId",
+                telephonyManagerClass, "getSubscriberId",
                 object : XC_MethodHook() {
-                    override fun beforeHookedMethod(param: MethodHookParam) {
-                        param.result = MockDataGenerator.generateSubscriberId()
-                    }
+                    override fun beforeHookedMethod(param: MethodHookParam) { param.result = mockedImsi }
                 }
             )
-        } catch (e: NoSuchMethodError) {
-            // Ignore
-        }
+        } catch (e: NoSuchMethodError) {}
     }
 }
