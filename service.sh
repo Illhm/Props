@@ -29,12 +29,23 @@ if [ -f "/data/local/tmp/new_android_id.txt" ]; then
     fi
 fi
 
-# Pembersihan Cache Privasi
-# Hapus direktori/file dengan hati-hati (tanpa menyentuh folder pribadi)
+# Complementary Settings untuk Mock Environment
+# Reset Advertising ID
+settings put secure advertising_id "00000000-0000-0000-0000-000000000000" >/dev/null 2>&1
+settings put secure limit_ad_tracking 1 >/dev/null 2>&1
+
+# Sync Timezone (contoh: mengatur timezone ke default Asia/Jakarta jika diperlukan sinkronisasi dengan profil)
+# Ini bisa diganti secara dinamis jika newprops mencatat timezone target.
+setprop persist.sys.timezone "Asia/Jakarta" >/dev/null 2>&1
+
+# Pembersihan Cache Privasi & Dalvik Cache tertentu untuk menghindari kebocoran identitas asli
 rm -rf /sdcard/.tongdun >/dev/null 2>&1
 rm -rf /sdcard/.shopee >/dev/null 2>&1
 rm -rf /sdcard/Android/data/com.shopee.id/cache >/dev/null 2>&1
 rm -rf /sdcard/Android/data/com.shopee.id/files/TD* >/dev/null 2>&1
+# Membersihkan dalvik-cache untuk GMS dan target apps agar profile mock yang baru diaplikasikan dengan bersih
+rm -rf /data/dalvik-cache/*/com.google.android.gms* >/dev/null 2>&1
+rm -rf /data/dalvik-cache/*/com.shopee.id* >/dev/null 2>&1
 
 # these props should be set after boot completed to avoid breaking some device features
 
