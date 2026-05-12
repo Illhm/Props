@@ -116,3 +116,11 @@ chmod 0750 /system/addon.d
 settings delete global hidden_api_policy
 settings delete global hidden_api_policy_pre_p_apps
 settings delete global hidden_api_policy_p_apps
+
+# Apply new Android ID if available
+if [ -f "$MODPATH/android_id.txt" ]; then
+    NEW_ANDROID_ID=$(cat "$MODPATH/android_id.txt")
+    if [ -n "$NEW_ANDROID_ID" ]; then
+        settings put secure android_id "$NEW_ANDROID_ID" >/dev/null 2>&1
+    fi
+fi
