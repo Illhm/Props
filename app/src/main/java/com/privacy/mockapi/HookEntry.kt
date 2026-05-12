@@ -10,8 +10,6 @@ import com.privacy.mockapi.hooks.TelephonyHook
 
 class HookEntry : IXposedHookLoadPackage {
 
-    private val targetPackages = listOf("com.example.targetapp", "flar2.devcheck")
-
     override fun handleLoadPackage(lpparam: LoadPackageParam) {
         // Since we want this to be a privacy module for any selected app, we shouldn't hardcode target packages.
         // LSPosed takes care of the scope for us. The xposedscope array in manifest is just the default.
@@ -25,9 +23,8 @@ class HookEntry : IXposedHookLoadPackage {
         val prefs = XSharedPreferences("com.privacy.mockapi", "MockApiPrefs")
         prefs.makeWorldReadable()
 
+        // 1. NATIVE HOOK: Universal untuk semua aplikasi (Bypass SystemProperties)
         try {
-            // For flar2.devcheck which uses libpairipcore.so, modifying Build fields directly via setStaticObjectField causes a crash.
-            // We pass the package name so BuildHook can decide whether to use setStaticObjectField or only SystemProperties.
             NativeHook.loadLibrarySafely(null, lpparam.appInfo.sourceDir)
             NativeHook.initNativeHook(
                 prefs.getString("BRAND", "Samsung") ?: "Samsung",
@@ -39,19 +36,24 @@ class HookEntry : IXposedHookLoadPackage {
                 prefs.getString("PRODUCT", "p3sxx") ?: "p3sxx"
             )
         } catch (e: Exception) {
-            XposedBridge.log("MockAPI: Failed to hook android.os.Build: ${e.message}")
+            XposedBridge.log("MockAPI: Failed to initialize NativeHook: ${e.message}")
         }
 
-        try {
-            SettingsHook.applyHook(lpparam.classLoader, prefs)
-        } catch (e: Exception) {
-            XposedBridge.log("MockAPI: Failed to hook Settings.Secure: ${e.message}")
-        }
+        // 2. JAVA HOOK: Skip khusus flar2.devcheck agar tidak memicu libpairipcore.so (SEGV_ACCERR)
+        if (lpparam.packageName != "flar2.devcheck") {
+            try {
+                SettingsHook.applyHook(lpparam.classLoader, prefs)
+            } catch (e: Exception) {
+                XposedBridge.log("MockAPI: Failed to hook Settings.Secure: ${e.message}")
+            }
 
-        try {
-            TelephonyHook.applyHook(lpparam.classLoader, prefs)
-        } catch (e: Exception) {
-            XposedBridge.log("MockAPI: Failed to hook TelephonyManager: ${e.message}")
+            try {
+                TelephonyHook.applyHook(lpparam.classLoader, prefs)
+            } catch (e: Exception) {
+                XposedBridge.log("MockAPI: Failed to hook TelephonyManager: ${e.message}")
+            }
+        } else {
+            XposedBridge.log("MockAPI: Skipping Settings and Telephony hooks for ${lpparam.packageName} to prevent libpairipcore crash.")
         }
     }
 }
