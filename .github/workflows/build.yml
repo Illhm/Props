@@ -23,17 +23,37 @@ jobs:
         run: |
           # Read module.prop to extract info
           MODID=$(grep '^id=' module.prop | cut -d'=' -f2)
-          MODVERSION=$(grep '^version=' module.prop | cut -d'=' -f2)
+          MODVERSION=$(grep '^version=' module.prop | cut -d'=' -f2 | tr -d '\r')
 
-          ZIP_NAME="${MODID}_${MODVERSION}.zip"
+          # Gunakan format tag yang unik dengan short SHA agar tidak error jika push berulang di versi yang sama
+          SHORT_SHA=$(echo ${{ github.sha }} | cut -c1-7)
+          TAG_NAME="v${MODVERSION}-${SHORT_SHA}"
+
+          ZIP_NAME="${MODID}_${TAG_NAME}.zip"
+
+          echo "MODVERSION=${MODVERSION}" >> $GITHUB_ENV
+          echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
 
           # Zip all relevant files, excluding git and workflow folders
           zip -r9 "$ZIP_NAME" . -x "*.git*" -x "*.github*" -x "*.DS_Store"
 
           echo "ZIP_FILE=$ZIP_NAME" >> $GITHUB_ENV
 
-      - name: Upload Artifact
+      - name: Upload to GitHub Release
+        if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "${{ env.TAG_NAME }}"
+          name: "Release ${{ env.TAG_NAME }}"
+          files: ${{ env.ZIP_FILE }}
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Artifact (Fallback)
         uses: actions/upload-artifact@v4
         with:
           name: ${{ env.ZIP_FILE }}
           path: ${{ env.ZIP_FILE }}
+          compression-level: 0 # Disable double zip compression for artifacts
