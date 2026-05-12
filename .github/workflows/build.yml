@@ -52,10 +52,10 @@ jobs:
         run: |
           BUILD_TOOLS_VERSION=$(ls -1 $ANDROID_HOME/build-tools | sort -rV | head -n 1)
           APKSIGNER="$ANDROID_HOME/build-tools/$BUILD_TOOLS_VERSION/apksigner"
-          
+
           # Align APK
           $ANDROID_HOME/build-tools/$BUILD_TOOLS_VERSION/zipalign -v -p 4 app/build/outputs/apk/release/app-release-unsigned.apk app/build/outputs/apk/release/app-release-aligned.apk
-          
+
           # Sign APK
           $APKSIGNER sign \
             --ks my-release-key.jks \
@@ -71,4 +71,3 @@ jobs:
           name: PrivacyMockAPI-Release-APK
           path: app/build/outputs/apk/release/PrivacyMockAPI-release-signed.apk
           compression-level: 0
-          
