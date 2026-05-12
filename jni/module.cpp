@@ -11,13 +11,6 @@
 
 #include "zygisk.hpp"
 
-// Placeholder for hook library like xhook, Dobby, or LSPlant
-// In real implementation, this would use a robust hooking framework
-void* DobbyHook(void* address, void* replace_call, void** origin_call) {
-    // Mock hooking logic
-    return nullptr;
-}
-
 // Global map to store mock properties fetched from companion
 std::map<std::string, std::string> mock_props;
 
@@ -27,6 +20,29 @@ static void (*orig_system_property_read_callback)(const prop_info *pi,
                                                   void (*callback)(void *cookie, const char *name,
                                                                    const char *value, uint32_t serial),
                                                   void *cookie) = nullptr;
+
+// Custom callback proxy struct for read_callback
+struct CallbackProxy {
+    void (*orig_callback)(void *cookie, const char *name, const char *value, uint32_t serial);
+    void *orig_cookie;
+};
+
+// Intercept callback execution
+static void proxy_callback(void *cookie, const char *name, const char *value, uint32_t serial) {
+    CallbackProxy *proxy = static_cast<CallbackProxy *>(cookie);
+    if (name != nullptr) {
+        auto it = mock_props.find(name);
+        if (it != mock_props.end()) {
+            // Provide mocked value instead of the original
+            proxy->orig_callback(proxy->orig_cookie, name, it->second.c_str(), serial);
+            delete proxy;
+            return;
+        }
+    }
+    // Fallback to original value
+    proxy->orig_callback(proxy->orig_cookie, name, value, serial);
+    delete proxy;
+}
 
 // Hook for __system_property_get
 int my_system_property_get(const char *name, char *value) {
@@ -47,30 +63,11 @@ int my_system_property_get(const char *name, char *value) {
 void my_system_property_read_callback(const prop_info *pi,
                                       void (*callback)(void *cookie, const char *name, const char *value, uint32_t serial),
                                       void *cookie) {
-    // In a full implementation, you would resolve pi to name first.
-    // For this template, we assume standard structure or redirect completely.
-    // Note: implementing pi to name resolution safely requires parsing prop_info struct.
-
-    // Call original for now (skeleton template)
     if (orig_system_property_read_callback) {
-        orig_system_property_read_callback(pi, callback, cookie);
-    }
-}
-
-// Setup hooking
-void ApplyHooks() {
-    void* handle = dlopen("libc.so", RTLD_NOW);
-    if (handle) {
-        void* sym_get = dlsym(handle, "__system_property_get");
-        if (sym_get) {
-            DobbyHook(sym_get, (void*)my_system_property_get, (void**)&orig_system_property_get);
-        }
-
-        void* sym_read = dlsym(handle, "__system_property_read_callback");
-        if (sym_read) {
-            DobbyHook(sym_read, (void*)my_system_property_read_callback, (void**)&orig_system_property_read_callback);
-        }
-        dlclose(handle);
+        CallbackProxy *proxy = new CallbackProxy();
+        proxy->orig_callback = callback;
+        proxy->orig_cookie = cookie;
+        orig_system_property_read_callback(pi, proxy_callback, proxy);
     }
 }
 
@@ -102,7 +99,13 @@ public:
     void postAppSpecialize(const zygisk::AppSpecializeArgs *args) override {
         // Only apply hooks if we have props to mock and process is not isolated
         if (!mock_props.empty() && (args->uid % 100000 >= 10000)) {
-            ApplyHooks();
+            api->pltHookRegister(".*", "__system_property_get", (void*)my_system_property_get, (void**)&orig_system_property_get);
+            api->pltHookRegister(".*", "__system_property_read_callback", (void*)my_system_property_read_callback, (void**)&orig_system_property_read_callback);
+
+            // Commit hooks
+            if (api->pltHookCommit()) {
+                // Hooks successful
+            }
         }
     }
 
