@@ -34,11 +34,6 @@ class MainActivity : AppCompatActivity() {
         updateDisplay()
     }
 
-    // Making SharedPreferences world-readable is restricted in modern Android.
-    // Instead, LSPosed injects and redirects the prefs for us, but it requires
-    // us to create a world-readable file or use MODE_WORLD_READABLE (deprecated).
-    // Using Context.MODE_WORLD_READABLE may throw SecurityException in API >= 24,
-    // so we set read/write permissions directly on the file if needed.
     private fun getSharedPrefs() = getSharedPreferences("MockApiPrefs", Context.MODE_PRIVATE)
 
     private fun fixPrefsPermissions() {
@@ -55,7 +50,6 @@ class MainActivity : AppCompatActivity() {
     private fun generateSamsungProps() {
         val prefs = getSharedPrefs().edit()
 
-        // Randomly pick a realistic Samsung profile
         val profiles = listOf(
             mapOf("BRAND" to "samsung", "MODEL" to "SM-G998B", "DEVICE" to "p3s", "PRODUCT" to "p3sxx", "HARDWARE" to "exynos2100", "MANUFACTURER" to "samsung", "FINGERPRINT" to "samsung/p3sxx/p3s:13/TP1A.220624.014/G998BXXU9EWG1:user/release-keys"),
             mapOf("BRAND" to "samsung", "MODEL" to "SM-S918B", "DEVICE" to "dm3q", "PRODUCT" to "dm3qxxx", "HARDWARE" to "qcom", "MANUFACTURER" to "samsung", "FINGERPRINT" to "samsung/dm3qxxx/dm3q:14/UP1A.231005.007/S918BXXS3BWK5:user/release-keys"),
@@ -76,10 +70,10 @@ class MainActivity : AppCompatActivity() {
     private fun generateRandomProps() {
         val prefs = getSharedPrefs().edit()
 
-        // Generic random devices
         val profiles = listOf(
             mapOf("BRAND" to "google", "MODEL" to "Pixel 7 Pro", "DEVICE" to "cheetah", "PRODUCT" to "cheetah", "HARDWARE" to "gs201", "MANUFACTURER" to "Google", "FINGERPRINT" to "google/cheetah/cheetah:13/TQ3A.230901.001/10750268:user/release-keys"),
-            mapOf("BRAND" to "OnePlus", "MODEL" to "KB2003", "DEVICE" to "kebab", "PRODUCT" to "OnePlus8T_EEA", "HARDWARE" to "qcom", "MANUFACTURER" to "OnePlus", "FINGERPRINT" to "OnePlus/OnePlus8T_EEA/kebab:11/RP1A.201005.001/2011132215:user/release-keys")
+            mapOf("BRAND" to "OnePlus", "MODEL" to "KB2003", "DEVICE" to "kebab", "PRODUCT" to "OnePlus8T_EEA", "HARDWARE" to "qcom", "MANUFACTURER" to "OnePlus", "FINGERPRINT" to "OnePlus/OnePlus8T_EEA/kebab:11/RP1A.201005.001/2011132215:user/release-keys"),
+            mapOf("BRAND" to "Xiaomi", "MODEL" to "M2102K1G", "DEVICE" to "star", "PRODUCT" to "star", "HARDWARE" to "qcom", "MANUFACTURER" to "Xiaomi", "FINGERPRINT" to "Xiaomi/star/star:12/SKQ1.211006.001/V13.0.5.0.SKAMIXM:user/release-keys")
         )
 
         val profile = profiles.random()
@@ -108,7 +102,7 @@ class MainActivity : AppCompatActivity() {
     private fun updateDisplay() {
         val prefs = getSharedPrefs()
         val sb = StringBuilder()
-        sb.append("--- BUILD PROPS ---\n")
+        sb.append("=== BUILD PROPS ===\n")
         sb.append("BRAND: ${prefs.getString("BRAND", "Not Set")}\n")
         sb.append("MODEL: ${prefs.getString("MODEL", "Not Set")}\n")
         sb.append("DEVICE: ${prefs.getString("DEVICE", "Not Set")}\n")
@@ -117,7 +111,7 @@ class MainActivity : AppCompatActivity() {
         sb.append("MANUFACTURER: ${prefs.getString("MANUFACTURER", "Not Set")}\n")
         sb.append("FINGERPRINT: ${prefs.getString("FINGERPRINT", "Not Set")}\n")
 
-        sb.append("\n--- DEVICE INFO ---\n")
+        sb.append("\n=== DEVICE INFO ===\n")
         sb.append("ANDROID_ID: ${prefs.getString("ANDROID_ID", "Not Set")}\n")
         sb.append("IMEI: ${prefs.getString("IMEI", "Not Set")}\n")
         sb.append("MEID: ${prefs.getString("MEID", "Not Set")}\n")

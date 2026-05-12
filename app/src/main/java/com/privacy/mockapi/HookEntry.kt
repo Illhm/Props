@@ -4,7 +4,7 @@ import de.robv.android.xposed.IXposedHookLoadPackage
 import de.robv.android.xposed.XposedBridge
 import de.robv.android.xposed.callbacks.XC_LoadPackage.LoadPackageParam
 import de.robv.android.xposed.XSharedPreferences
-import com.privacy.mockapi.hooks.BuildHook
+import com.privacy.mockapi.hooks.NativeHook
 import com.privacy.mockapi.hooks.SettingsHook
 import com.privacy.mockapi.hooks.TelephonyHook
 
@@ -28,7 +28,16 @@ class HookEntry : IXposedHookLoadPackage {
         try {
             // For flar2.devcheck which uses libpairipcore.so, modifying Build fields directly via setStaticObjectField causes a crash.
             // We pass the package name so BuildHook can decide whether to use setStaticObjectField or only SystemProperties.
-            BuildHook.applyHook(lpparam.classLoader, prefs, lpparam.packageName)
+            NativeHook.loadLibrarySafely(null, lpparam.appInfo.sourceDir)
+            NativeHook.initNativeHook(
+                prefs.getString("BRAND", "Samsung") ?: "Samsung",
+                prefs.getString("MODEL", "SM-G998B") ?: "SM-G998B",
+                prefs.getString("DEVICE", "p3s") ?: "p3s",
+                prefs.getString("FINGERPRINT", "samsung/p3sxx/p3s:13/TP1A.220624.014/G998BXXU9EWG1:user/release-keys") ?: "samsung/p3sxx/p3s:13/TP1A.220624.014/G998BXXU9EWG1:user/release-keys",
+                prefs.getString("HARDWARE", "exynos2100") ?: "exynos2100",
+                prefs.getString("MANUFACTURER", "samsung") ?: "samsung",
+                prefs.getString("PRODUCT", "p3sxx") ?: "p3sxx"
+            )
         } catch (e: Exception) {
             XposedBridge.log("MockAPI: Failed to hook android.os.Build: ${e.message}")
         }

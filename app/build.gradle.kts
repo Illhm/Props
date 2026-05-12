@@ -5,6 +5,14 @@ plugins {
 
 android {
     namespace = "com.privacy.mockapi"
+    ndkVersion = "26.1.10909125"
+
+    externalNativeBuild {
+        cmake {
+            path("src/main/cpp/CMakeLists.txt")
+            version = "3.22.1"
+        }
+    }
     compileSdk = 34
 
     defaultConfig {

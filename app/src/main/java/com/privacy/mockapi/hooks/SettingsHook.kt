@@ -13,19 +13,39 @@ object SettingsHook {
 
         val settingsSecureClass = XposedHelpers.findClass("android.provider.Settings\$Secure", classLoader)
 
-        XposedHelpers.findAndHookMethod(
-            settingsSecureClass,
-            "getString",
-            ContentResolver::class.java,
-            String::class.java,
-            object : XC_MethodHook() {
-                override fun beforeHookedMethod(param: MethodHookParam) {
-                    val name = param.args[1] as? String
-                    if (name == Settings.Secure.ANDROID_ID) {
-                        param.result = mockedAndroidId
+        try {
+            XposedHelpers.findAndHookMethod(
+                settingsSecureClass,
+                "getString",
+                ContentResolver::class.java,
+                String::class.java,
+                object : XC_MethodHook() {
+                    override fun beforeHookedMethod(param: MethodHookParam) {
+                        val name = param.args[1] as? String
+                        if (name == Settings.Secure.ANDROID_ID) {
+                            param.result = mockedAndroidId
+                        }
                     }
                 }
-            }
-        )
+            )
+        } catch (e: NoSuchMethodError) {}
+
+        try {
+            XposedHelpers.findAndHookMethod(
+                settingsSecureClass,
+                "getStringForUser",
+                ContentResolver::class.java,
+                String::class.java,
+                Int::class.java,
+                object : XC_MethodHook() {
+                    override fun beforeHookedMethod(param: MethodHookParam) {
+                        val name = param.args[1] as? String
+                        if (name == Settings.Secure.ANDROID_ID) {
+                            param.result = mockedAndroidId
+                        }
+                    }
+                }
+            )
+        } catch (e: NoSuchMethodError) {}
     }
 }
