@@ -15,17 +15,23 @@ if [ ! -f "$PROPS_LIST" ]; then
     exit 1
 fi
 
-# Dapatkan jumlah baris di props_list.txt
-LINES=$(wc -l < "$PROPS_LIST")
-
-if [ "$LINES" -eq 0 ]; then
-    echo "props_list.txt is empty!"
-    exit 1
+# Pilih satu baris secara acak, optimasi dengan shuf
+if command -v shuf >/dev/null 2>&1; then
+    SELECTED_PROP=$(shuf -n 1 "$PROPS_LIST")
+else
+    LINES=$(wc -l < "$PROPS_LIST")
+    if [ "$LINES" -eq 0 ]; then
+        echo "props_list.txt is empty!"
+        exit 1
+    fi
+    RANDOM_LINE=$(( ($RANDOM % $LINES) + 1 ))
+    SELECTED_PROP=$(sed -n "${RANDOM_LINE}p" "$PROPS_LIST")
 fi
 
-# Pilih satu baris secara acak
-RANDOM_LINE=$(( ($RANDOM % $LINES) + 1 ))
-SELECTED_PROP=$(sed -n "${RANDOM_LINE}p" "$PROPS_LIST")
+if [ -z "$SELECTED_PROP" ]; then
+    echo "Failed to select a prop."
+    exit 1
+fi
 
 # Ekstrak data dari baris yang dipilih (Format: BRAND|MODEL|DEVICE|FINGERPRINT)
 BRAND=$(echo "$SELECTED_PROP" | cut -d'|' -f1)
@@ -49,11 +55,14 @@ INCREMENTAL=$(echo "$FINGERPRINT" | cut -d'/' -f5 | cut -d':' -f1)
 # Generate Random Android ID (16 hex chars)
 NEW_ANDROID_ID=$(tr -dc 'a-f0-9' < /dev/urandom | head -c 16)
 
+# Generate Random Serial Number (10 alphanumeric chars)
+NEW_SERIAL=$(tr -dc 'A-Z0-9' < /dev/urandom | head -c 10)
+
 echo "Generating new props for: $BRAND $MODEL ($DEVICE) | Android $OS_VER"
 
-# Terapkan Android ID baru langsung
-settings put secure android_id "$NEW_ANDROID_ID"
-echo "Applied new Settings.Secure.ANDROID_ID: $NEW_ANDROID_ID"
+# Simpan Android ID ke file untuk dieksekusi service.sh setelah boot
+echo "$NEW_ANDROID_ID" > "/data/local/tmp/new_android_id.txt"
+echo "Saved new Settings.Secure.ANDROID_ID ($NEW_ANDROID_ID) to be applied at boot"
 
 # Buat file custom_props.txt baru
 cat <<EOF > "$CUSTOM_PROPS"
@@ -62,6 +71,9 @@ cat <<EOF > "$CUSTOM_PROPS"
 # Model: $MODEL
 # Device: $DEVICE
 # Android: $OS_VER
+
+# Serial Number
+check_resetprop ro.serialno $NEW_SERIAL
 
 check_resetprop ro.bootimage.build.date "$DATE_STR"
 check_resetprop ro.bootimage.build.date.utc $TIMESTAMP
