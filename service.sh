@@ -18,6 +18,24 @@ while [ "$(getprop sys.boot_completed)" != 1 ]; do
     sleep 1
 done
 
+# Eksekusi update Android ID setelah sistem siap
+if [ -f "/data/local/tmp/new_android_id.txt" ]; then
+    NEW_ANDROID_ID=$(cat "/data/local/tmp/new_android_id.txt")
+    if [ -n "$NEW_ANDROID_ID" ]; then
+        settings put secure android_id "$NEW_ANDROID_ID" >/dev/null 2>&1
+        # Setelah berhasil dieksekusi, biarkan file tetap ada agar setiap reboot juga bisa
+        # atau dihapus, tapi karena kita ingin ID menetap, file lebih baik tidak dihapus
+        # sampai newprops dijalankan kembali.
+    fi
+fi
+
+# Pembersihan Cache Privasi
+# Hapus direktori/file dengan hati-hati (tanpa menyentuh folder pribadi)
+rm -rf /sdcard/.tongdun >/dev/null 2>&1
+rm -rf /sdcard/.shopee >/dev/null 2>&1
+rm -rf /sdcard/Android/data/com.shopee.id/cache >/dev/null 2>&1
+rm -rf /sdcard/Android/data/com.shopee.id/files/TD* >/dev/null 2>&1
+
 # these props should be set after boot completed to avoid breaking some device features
 
 # Avoid breaking Realme fingerprint scanners
