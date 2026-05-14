@@ -1,5 +1,10 @@
 #!/system/bin/sh
 
+# Ensure SELinux is securely restored to Enforcing mode on script exit
+trap 'setenforce 1' EXIT
+
+setenforce 0
+
 MODDIR="/data/adb/modules/xkatrina_snstv_prps"
 
 if [ ! -d "$MODDIR" ]; then
