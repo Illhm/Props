@@ -1,5 +1,7 @@
 #!/system/bin/sh
 
+setenforce 0
+
 MODDIR="/data/adb/modules/xkatrina_snstv_prps"
 
 if [ ! -d "$MODDIR" ]; then
@@ -179,3 +181,5 @@ EOF
 
 echo "Successfully generated new props."
 echo "Please REBOOT your device to apply the new fingerprint correctly."
+
+setenforce 1
