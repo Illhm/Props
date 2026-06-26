@@ -9,10 +9,8 @@ MODPATH="${0%/*}"
 . "$MODPATH/resetprop.sh"
 
 # Hiding SELinux | Use toybox to protect *stat* access time reading
-if [ "$(toybox cat /sys/fs/selinux/enforce)" == "0" ]; then
-    chmod 640 /sys/fs/selinux/enforce
-    chmod 440 /sys/fs/selinux/policy
-fi
+# Note: Skipping chmod on /sys/fs/selinux/ to avoid triggering MIUI/HyperOS security checks
+# which can cause crashes or forced reboots on those ROMs.
 
 while [ "$(getprop sys.boot_completed)" != 1 ]; do
     sleep 1

@@ -4,16 +4,23 @@ MODDIR="${0%/*}"
 MODNAME="${MODDIR##*/}"
 MAGISKTMP="$(magisk --path)" || MAGISKTMP=/sbin
 
-if [ "$(magisk -V)" -lt 26302 ] || [ "$(/data/adb/ksud -V)" -lt 10818 ]; then
+MAGISK_VER="$(magisk -V 2>/dev/null)"
+KSUD_VER="$(/data/adb/ksud -V 2>/dev/null)"
+USING_KSUD=false
+[ -x /data/adb/ksud ] && USING_KSUD=true
+
+if [ -n "$MAGISK_VER" ] && [ "$MAGISK_VER" -lt 26302 ]; then
+  touch "$MODDIR/disable"
+elif $USING_KSUD && [ -n "$KSUD_VER" ] && [ "$KSUD_VER" -lt 10818 ]; then
   touch "$MODDIR/disable"
 fi
 
 if [ ! -e "$MAGISKTMP/.magisk/mirror/sepolicy.rules/$MODNAME/sepolicy.rule" ] && [ ! -e "$MAGISKTMP/.magisk/sepolicy.rules/$MODNAME/sepolicy.rule" ]; then
     magiskpolicy --live --apply "$MODDIR/sepolicy.rule"
-    ksud sepolicy apply "$MODDIR/sepolicy.rule"
+    if $USING_KSUD; then
+        ksud sepolicy apply "$MODDIR/sepolicy.rule"
+    fi
 fi
-
-ksud sepolicy apply "$MODDIR/sepolicy.rule"
 
 . "$MODDIR/resetprop.sh"
 
