@@ -103,8 +103,8 @@ maybe_resetprop vendor.boot.bootmode recovery unknown
 maybe_resetprop vendor.boot.mode recovery unknown
 
 # MIUI cross-region flash
-maybe_resetprop ro.boot.hwc CN GLOBAL
-maybe_resetprop ro.boot.hwcountry China GLOBAL
+# maybe_resetprop ro.boot.hwc CN GLOBAL
+# maybe_resetprop ro.boot.hwcountry China GLOBAL
 
 # SELinux
 if [ -n "$(resetprop ro.build.selinux)" ]; then
