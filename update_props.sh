@@ -32,8 +32,8 @@ CUSTOM_PROPS_TXT="custom_props.txt"
 
 # 1. Fetch Samsung P5110ZCDMH1 build.prop
 echo "[INFO] Fetching build.prop from $BUILD_PROP_URL..."
-curl -fsSL "$BUILD_PROP_URL" -o "$BUILD_PROP_FILE"
-if [ $? -ne 0 ] || [ ! -s "$BUILD_PROP_FILE" ]; then
+curl -sL "$BUILD_PROP_URL" > "$BUILD_PROP_FILE"
+if [ $? -ne 0 ]; then
     echo "[ERROR] Failed to download build.prop"
     exit 1
 fi
@@ -48,9 +48,9 @@ while IFS='=' read -r key value || [ -n "$key" ]; do
         continue
     fi
 
-    # Trim leading/trailing whitespace without xargs
-    key=$(printf '%s' "$key" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
-    value=$(printf '%s' "$value" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+    # Trim whitespace
+    key=$(echo "$key" | xargs)
+    value=$(echo "$value" | xargs)
 
     if [ -z "$key" ]; then
         continue
@@ -58,8 +58,7 @@ while IFS='=' read -r key value || [ -n "$key" ]; do
 
     # Update build.prop file
     if grep -q "^${key}=" "$BUILD_PROP_FILE"; then
-        esc_value=$(printf '%s' "$value" | sed -e 's/[&\|]/\&/g')
-        sed -i "s|^${key}=.*|${key}=${esc_value}|" "$BUILD_PROP_FILE"
+        sed -i "s|^${key}=.*|${key}=${value}|" "$BUILD_PROP_FILE"
         echo "[UPDATE] Updated $key=$value in $BUILD_PROP_FILE"
     else
         echo "${key}=${value}" >> "$BUILD_PROP_FILE"
@@ -88,8 +87,7 @@ if [ -n "$BRAND" ] && [ -n "$MODEL" ] && [ -n "$DEVICE" ] && [ -n "$FINGERPRINT"
 
     echo "[INFO] Generated new props_list.txt entry: $NEW_ENTRY"
 
-    touch "$PROPS_LIST_TXT"
-    if ! grep -qxF "$NEW_ENTRY" "$PROPS_LIST_TXT"; then
+    if ! grep -q "$NEW_ENTRY" "$PROPS_LIST_TXT"; then
         echo "$NEW_ENTRY" >> "$PROPS_LIST_TXT"
         echo "[SUCCESS] Appended new entry to $PROPS_LIST_TXT"
     else
@@ -112,9 +110,9 @@ while IFS='=' read -r key value || [ -n "$key" ]; do
         continue
     fi
 
-    # Trim leading/trailing whitespace without xargs
-    key=$(printf '%s' "$key" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
-    value=$(printf '%s' "$value" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+    # Trim whitespace
+    key=$(echo "$key" | xargs)
+    value=$(echo "$value" | xargs)
 
     if [ -n "$key" ]; then
         echo "check_resetprop $key \"$value\"" >> "$CUSTOM_PROPS_TXT"
